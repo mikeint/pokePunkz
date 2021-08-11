@@ -1,0 +1,40 @@
+.pokePunkExamplesBox {
+    float: left;
+    position: relative;
+    width: 12.5%;
+    padding-bottom: 12.5%;
+}
+.pokePunkExamplesBoxInner {
+    position: absolute;
+    left: 5px;
+    right: 5px;
+    overflow: hidden;
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 8);
+    &:hover { 
+        outline-offset: 10px;
+        outline-color: #ffffff00;
+    } 
+}
+ .pokePunkExamplesBoxInner img {
+    width: 100%
+}
+
+@media only screen and (max-width:1024px) {
+    .pokePunkExamplesBox {
+        width: 25%;
+        padding-bottom: 25%;
+    }
+} 
+
+@media only screen and (max-width:480px) {
+    .pokePunkExamplesBox {
+        width: 50%;
+        padding-bottom: 50%;
+    }
+} 
+@media only screen and (max-width:650px) and (min-width:481px) {
+    .pokePunkExamplesBox {
+        width: 50%;
+        padding-bottom: 50%;
+    }
+} 

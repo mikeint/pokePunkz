@@ -1,0 +1,122 @@
+ /* HERO ANIMATION */
+ .heroHider {
+    width: 100%;  
+    position: relative;
+    overflow: hidden;
+}
+.heroContainer { 
+    height: 400px;
+    display: flex;
+}
+.heroAnimation{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.heroLayer {  
+    height: 400px; 
+    width: 17000px;
+    background-repeat: repeat-x;
+    background-clip: border-box;
+    background-size: auto 100%;
+    position: absolute;
+}
+.heroLayerStatic {
+    width: 330px;
+}
+ 
+#heroLayer0{
+    background-image: url("../../files/images/hero/layer0.gif");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: 70px 270px;
+}
+#heroLayer1{
+    background-image: url("../../files/images/hero/layer1.png");
+    animation: moveHeroDesktop1 0 infinite linear;
+}
+#heroLayer4{
+    background-image: url("../../files/images/hero/layer2.png");
+    animation: moveHeroDesktop2 200s infinite linear;
+}
+#heroLayer3{
+    background-image: url("../../files/images/hero/layer3.gif");
+    animation: moveHeroDesktop3 40s infinite linear;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: 2500px 40px;
+}
+#heroLayer2{
+    background-image: url("../../files/images/hero/layer4.png");
+    animation: moveHeroDesktop2 400s infinite linear;
+}
+
+@keyframes moveHeroDesktop1 {
+    0% { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(-4680px, 0, 0); }
+}
+@keyframes moveHeroDesktop2 {
+    0% { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(-4680px, 0, 0); }
+}
+@keyframes moveHeroDesktop3 {
+    0% { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(-4680px, 0, 0); }
+}
+
+@media only screen and (max-width: 1024px) {
+    @keyframes moveHeroMobile { 
+        0% { transform: translate3d(0, 0, 0); }
+        100% { transform: translate3d(-3744px, 0, 0); }
+    }
+}
+@font-face {
+    font-family: saira;
+    src: url(../../files/fonts/saira/Saira-Light.ttf);
+}
+/* end HERO ANIMATION */
+
+
+
+/* MARQUEE EFFECT ON SHIP */
+.marquee { 
+    width: 3000px;
+    margin: 0 auto;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.marquee span {
+    display: inline-block;
+    width: max-content;
+    padding-left: 100%; 
+    will-change: transform;
+    animation: marquee 90s linear infinite;
+} 
+@keyframes marquee {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(100%, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+    .marquee span {
+      animation-iteration-count: 1;
+      animation-duration: 0.01;
+      width: auto;
+      padding-left: 0;
+    }
+}
+
+@media only screen and (max-width:1024px) {  
+    .marquee {
+        #heroLayer0{ 
+            margin-left: -140px; 
+        }
+    }
+    .marquee span {
+        animation: marquee 70s linear infinite;
+    }
+    #heroLayer3{ 
+        animation: moveHeroDesktop3 80s infinite linear; 
+        background-position: 1150px 40px;
+    }
+}
+/* end MARQUEE EFFECT ON SHIP */

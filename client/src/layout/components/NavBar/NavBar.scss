@@ -1,0 +1,15 @@
+ .topNavContainer {
+     width: 100%;
+     background-color: #0007;
+}
+
+.navItem img {
+    width: 310px;
+    padding-left: 13px;
+}
+
+@media only screen and (max-width:1024px) {  
+    .topNavContainer {
+        text-align: center;
+    }
+}

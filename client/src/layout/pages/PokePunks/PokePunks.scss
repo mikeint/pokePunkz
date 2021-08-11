@@ -1,0 +1,151 @@
+.filterContainer {
+    display: flex;
+    width: 100%;
+    padding: 30px;
+    max-width: 1900px;
+    margin: auto;
+}
+.filterSelections {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-right: 20px;
+    max-width: 300px;
+    min-width: 300px;
+    transition: 0.3s;
+}
+.filterResultsContainer { 
+    width: 80%; 
+} 
+.filterBtn {
+    width: 100%;
+    height: 75px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-position: right 10px center; 
+    background-size: 30px;
+    -webkit-appearance: none;
+    outline: 0;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 2px;
+    outline: none !important;
+    border: 2px solid #195aab; 
+    background-color: #f6c10496;  
+    background-image: url("../../files/images/filterSelected.png");
+    background-repeat: no-repeat;
+    background-position: right; 
+}
+.filterSelected {
+    font-weight: bold; 
+    background-color: #fbc400; 
+    box-shadow: 0 0 15px #f6c10496;
+    background-image: unset; 
+    border: unset;
+}
+option {
+    background-color: #fbc400;  
+} 
+
+
+
+
+.resetFilterBtn {
+    width: 100%;
+    height: 75px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    border-radius: 5px;
+    background: #8e8e8e;
+    background-size: 30px;
+    -webkit-appearance: none;
+    outline: 0;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.3s;
+    &:hover {
+        background: #8e8e8ec2;
+    }
+}
+@media only screen and (max-width:1024px) {
+    .resetFilterBtn {
+        height: 65px;
+    }
+} 
+
+
+@media only screen and (max-width:1024px){
+    .filterBtn  {
+        height: 45px;  
+        font-size: 20px;
+    }
+    .filterContainer {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .filterSelections {
+        width: 100%;
+        min-width: unset;
+        max-width: unset; 
+        flex-direction: column;
+    }
+    .filterResultsContainer {
+        flex-direction: row;
+        width: unset;
+    } 
+    .bodyFilter { 
+        background-size: 20px;
+    }
+}
+
+
+
+/* FILTER RESULTS */ 
+.resultWrap { 
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.pokePunkResultBox {
+    float: left;
+    position: relative;
+    width: 25%;
+    padding-bottom: 25%;
+    background: #292929;
+    box-shadow: inset 0px 0px 4px 4px #18191a;
+}
+.pokePunkResultBoxInner {
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+    overflow: hidden;
+}
+ .pokePunkResultBoxInner img { 
+    width: 100%
+} 
+@media only screen and (max-width:480px) {
+    .pokePunkResultBox {
+        width: 50%;
+        padding-bottom: 50%;
+    }
+} 
+@media only screen and (max-width:650px) and (min-width:481px) {
+    .pokePunkResultBox {
+        width: 50%;
+        padding-bottom: 50%;
+    }
+}
+@media only screen and (max-width:1290px) and (min-width:1051px) {
+    .pokePunkResultBox {
+        width: 25%;
+        padding-bottom: 25%;
+    }
+}
+/* end FILTER RESULTS */
