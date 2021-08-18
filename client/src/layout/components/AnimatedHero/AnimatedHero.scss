@@ -33,22 +33,22 @@
 }
 #heroLayer1{
     background-image: url("../../files/images/hero/layer1.png");
-    animation: moveHeroDesktop1 0 infinite linear;
+    animation: moveHeroDesktop1 0 infinite steps(650, start);
 }
 #heroLayer4{
     background-image: url("../../files/images/hero/layer2.png");
-    animation: moveHeroDesktop2 200s infinite linear;
+    animation: moveHeroDesktop2 200s infinite steps(850, start);
 }
 #heroLayer3{
     background-image: url("../../files/images/hero/layer3.gif");
-    animation: moveHeroDesktop3 40s infinite linear;
+    animation: moveHeroDesktop3 40s infinite steps(200, start);
     background-size: 100px;
     background-repeat: no-repeat;
     background-position: 2500px 40px;
 }
 #heroLayer2{
     background-image: url("../../files/images/hero/layer4.png");
-    animation: moveHeroDesktop2 400s infinite linear;
+    animation: moveHeroDesktop2 400s infinite steps(650, start);
 }
 
 @keyframes moveHeroDesktop1 {
@@ -90,7 +90,7 @@
     width: max-content;
     padding-left: 100%; 
     will-change: transform;
-    animation: marquee 90s linear infinite;
+    animation: marquee 90s steps(350, start) infinite;
 } 
 @keyframes marquee {
     0% { transform: translate(0, 0); }

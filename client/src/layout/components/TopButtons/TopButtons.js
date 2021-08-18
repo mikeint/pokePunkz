@@ -13,7 +13,7 @@ const TopButtons = () =>
                 <span></span>
                 <span></span>
             </div>
-            <Link to="/pokePunks" className="seeCollectionBtn">POKEPUNKS</Link>
+            <Link to="/pokePunkz" className="seeCollectionBtn">POKEPUNKZ</Link>
         </button>
     </div> 
 

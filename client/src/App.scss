@@ -1,3 +1,8 @@
+@font-face {
+	font-family: pixel;
+	src: url(./layout/files/fonts/Minecraft.ttf);
+}
+
 * {
 	box-sizing: border-box; 
 }
@@ -7,7 +12,8 @@ html {
 body {   
 	padding: 0; 
 	margin: 0px;  
-	font-family: Helvetica, Arial, sans-serif;  
+	font-family:pixel;  
+	letter-spacing: 2px;
     background-color: #7da269;
 }
 a {
