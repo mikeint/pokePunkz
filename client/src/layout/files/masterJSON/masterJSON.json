@@ -111,6 +111,16 @@
     },
     {
         "name": "PokePunk",
+        "image": "221fd962-76fd-4a11-a857-609727ffee23.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Charizard Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
         "image": "0fdc9bc7-c8f2-4174-a0f4-db383d66a824.png",
         "attributes": [
             {
@@ -281,6 +291,16 @@
     },
     {
         "name": "PokePunk",
+        "image": "90521478-2468-428f-b268-595fee5b9efc.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Magnemite Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
         "image": "54a7ebcc-cf4f-4c96-8309-24fb28fccffd.png",
         "attributes": [
             {
@@ -336,6 +356,16 @@
             {
                 "trait_type": "HAT",
                 "value": "Poliwag Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
+        "image": "5e6f9e6c-ac45-4c9d-afa4-439698d5bbfc.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Magnemite Hat"
             }
         ]
     },
@@ -2756,6 +2786,16 @@
             {
                 "trait_type": "HAT",
                 "value": "Rocket Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
+        "image": "d4b597b2-9dbf-4762-abac-13d909f11c88.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Charizard Hat"
             }
         ]
     },
@@ -7721,21 +7761,21 @@
     },
     {
         "name": "PokePunk",
-        "image": "1ae8233a-7179-4aa8-b988-bb466540e33c.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Diglett Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "f74bbd07-8a8f-48b3-a392-b0d1857f5726.png",
         "attributes": [
             {
                 "trait_type": "HAT",
                 "value": "Ash Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
+        "image": "9cc8abe5-3064-405f-b6e6-7c44240f9fea.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Magnemite Hat"
             }
         ]
     },
@@ -10189,6 +10229,17 @@
             }
         ]
     },
+    
+    {
+        "name": "PokePunk",
+        "image": "5d0f90a3-4721-43fd-aee9-8a770d347b3c.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Magnemite Hat"
+            }
+        ]
+    },
     {
         "name": "PokePunk",
         "image": "9ed6f31d-00e2-4bdf-8901-b092010fe9d1.png",
@@ -11832,26 +11883,6 @@
     {
         "name": "PokePunk",
         "image": "b04318bc-6b7f-4411-8076-24745fa45f29.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Charizard Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "d4b597b2-9dbf-4762-abac-13d909f11c88.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Charizard Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "221fd962-76fd-4a11-a857-609727ffee23.png",
         "attributes": [
             {
                 "trait_type": "HAT",

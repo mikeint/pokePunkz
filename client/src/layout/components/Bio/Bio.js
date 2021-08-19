@@ -7,11 +7,12 @@ class Bio extends Component {
     render() {    
         return (
             <div className="bioContainer">
-                NF Terrestrials have been scattered across all corners of the Metaverse, cast out and teleported by 
-                rivals inside the Intergalactic Federation government. The NF Terrestrial Supercarrier glides silently
-                through the endless darkness of space, searching for the lost council members. Finding them can restore
-                balance to the Metaverse, or plunge it into a vast civil war fought across star systems and galaxies.
-                Discover the exiled NF Terrestrials. The future of the Metaverse is in your hands.
+                <div className="header">What are PokePunkz?</div>
+                The PokePunkz Club are NFTs. We have equal FAIR DISTRIBUTION 🔥 price for all. PokePunkz Club was designed by hand, 
+                but algorithmically generated on the Ethereum blockchain using a randomizer python script, with 52 different Poke Hat pieces 
+                each as unique Digital Collectibles! They have their skills. They live among themselves in the Kanto Sevii Islands and Johto
+                and love to play with thier humans! We have PokePunkz dedicated to the Pokemon you love. This project is not affiliated with Larva Labs.
+                Special thanks to Cutch and Colin for being such an inspiration to us!
             </div> 
         )
     }

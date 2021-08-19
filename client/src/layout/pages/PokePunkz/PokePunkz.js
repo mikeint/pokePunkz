@@ -119,7 +119,15 @@ class PokePunkz extends Component {
     buildPokeBalls() {
         return pokePunkHats.map((item, key) => {
             return ( 
-                <div key={key} className="option faded" onClick={() => this.selectPokePunk(item)} id={"option"+key}>
+                <div key={key} className="option faded mainButton" onClick={() => this.selectPokePunk(item)} id={"option"+key}> 
+                    <div className="hover">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div> 
+
                     <div className="pokeball unselected">
                     <div className="upper-half"> </div>
                     <div className="lower-half"> </div>

@@ -8,7 +8,7 @@ import twitter from '../../files/images/socialImages/twitter.png'
 const Socials = () => 
     <div className="socialsContainer">
 
-        <a href="https://discord.com/channels/865443747704995861/867307462859817001" target="_blank" rel="noreferrer">
+        <a href="https://discord.com/channels/875044707871371305/875049993336160306" target="_blank" rel="noreferrer">
             <button type="submit" name="submit" className="socialBtn">
                 <div className="hover">
                     <span></span>
@@ -21,7 +21,7 @@ const Socials = () =>
             </button>
         </a>
  
-        <a href="https://www.instagram.com/nfterrestrials" target="_blank" rel="noreferrer">
+        <a href="https://www.instagram.com/pokepunkz/" target="_blank" rel="noreferrer">
             <button type="submit" name="submit" className="socialBtn">
                 <div className="hover">
                     <span></span>
@@ -33,7 +33,7 @@ const Socials = () =>
             <img src={instagram} alt="instagram" />
             </button>
         </a>
-        <a href="https://twitter.com/nfterrestrials" target="_blank" rel="noreferrer">
+        <a href="https://twitter.com/PokePunkzNft?s=09" target="_blank" rel="noreferrer">
             <button type="submit" name="submit" className="socialBtn">
                 <div className="hover">
                     <span></span>

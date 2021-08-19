@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 const TopButtons = () => 
     <div className="topButtonsContainer">
         <div className="LogoContainer"></div>
-        <Link to="/pokePunkz" className="topBtn"> 
+        <Link to="/pokePunkz" className="mainButton"> 
                 <div className="hover">
                     <span></span>
                     <span></span>

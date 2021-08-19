@@ -10,49 +10,17 @@ import s6 from '../../files/images/examples/s6.png'
 import s7 from '../../files/images/examples/s7.png'
 import s8 from '../../files/images/examples/s8.png'
 
-const PokePunkExamples = () => 
-    <div className="pokePunkExamplesWrap"> 
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s4} alt={"s4"}/> 
-            </div>
-        </div>
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s3} alt={"s3"}/> 
-            </div>
-        </div>
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s1} alt={"s1"}/> 
-            </div>
-        </div>  
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s5} alt={"s5"}/> 
-            </div>
-        </div>
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s8} alt={"s8"}/> 
-            </div>
-        </div> 
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s6} alt={"s6"}/> 
-            </div>
-        </div>
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s2} alt={"s2"}/> 
-            </div>
-        </div>
-        <div className="pokePunkExamplesBox">
-            <div className="pokePunkExamplesBoxInner">
-                <img src={s7} alt={"s7"}/> 
-            </div>
-        </div>
-    </div> 
+const PokePunkExamples = () =>
+    <div className="pokePunkExamplesWrap">
+        <img src={s4} alt={"s4"}/>
+        <img src={s3} alt={"s3"}/>
+        <img src={s1} alt={"s1"}/>
+        <img src={s5} alt={"s5"}/>
+        <img src={s8} alt={"s8"}/>
+        <img src={s6} alt={"s6"}/>
+        <img src={s2} alt={"s2"}/>
+        <img src={s7} alt={"s7"}/>
+    </div>
 
 export default PokePunkExamples;
 

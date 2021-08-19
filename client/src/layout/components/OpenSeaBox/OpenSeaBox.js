@@ -1,5 +1,6 @@
 
 import React, { Component } from "react"
+import { Link } from "react-router-dom" 
 import './OpenSeaBox.scss'
  
 class OpenSeaBox extends Component {
@@ -7,7 +8,7 @@ class OpenSeaBox extends Component {
     render() {    
         return (
             <div className="OpenSeaBoxContainer">  
-                <div className="openseaBtn topBtn"> 
+                <a href="https://opensea.io/collection/pokepunkz" className="openseaBtn mainButton" target="_blank"> 
                     <div className="hover">
                         <span></span>
                         <span></span>
@@ -16,7 +17,7 @@ class OpenSeaBox extends Component {
                         <span></span>
                     </div>
                     BUY ON OPENSEA
-                </div> 
+                </a> 
             </div> 
         )
     }
