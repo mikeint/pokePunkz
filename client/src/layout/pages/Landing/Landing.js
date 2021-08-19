@@ -7,6 +7,7 @@ import Bio from "../../components/Bio/Bio"
 import Footer from "../../components/Footer/Footer"
 import TopButtons from "../../components/TopButtons/TopButtons"
 import Socials from "../../components/Socials/Socials" 
+import OpenSeaBox from "../../components/OpenSeaBox/OpenSeaBox" 
 
 class Landing extends Component {
     render() {
@@ -18,6 +19,7 @@ class Landing extends Component {
                 <div className="homeBodyContainer">
                     <PokePunkExamples />
                     <Bio />
+                    <OpenSeaBox />
                     <RoadMap />
                     <Footer />
                 </div>

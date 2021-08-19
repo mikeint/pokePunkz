@@ -8,39 +8,44 @@ import twitter from '../../files/images/socialImages/twitter.png'
 const Socials = () => 
     <div className="socialsContainer">
 
-        <button type="submit" name="submit" className="socialBtn">
-            <div className="hover">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <a href="https://discord.com/channels/865443747704995861/867307462859817001" target="_blank" rel="noreferrer"><img src={discord} alt="discord" /></a>
-        </button>
+        <a href="https://discord.com/channels/865443747704995861/867307462859817001" target="_blank" rel="noreferrer">
+            <button type="submit" name="submit" className="socialBtn">
+                <div className="hover">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <img src={discord} alt="discord" />
+            </button>
+        </a>
  
-        <button type="submit" name="submit" className="socialBtn">
-            <div className="hover">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <a href="https://www.instagram.com/nfterrestrials" target="_blank" rel="noreferrer"><img src={instagram} alt="instagram" /></a>
-        </button>
- 
-        <button type="submit" name="submit" className="socialBtn">
-            <div className="hover">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <a href="https://twitter.com/nfterrestrials" target="_blank" rel="noreferrer"><img src={twitter} alt="twitter" /></a>
-        </button> 
-    </div> 
+        <a href="https://www.instagram.com/nfterrestrials" target="_blank" rel="noreferrer">
+            <button type="submit" name="submit" className="socialBtn">
+                <div className="hover">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            <img src={instagram} alt="instagram" />
+            </button>
+        </a>
+        <a href="https://twitter.com/nfterrestrials" target="_blank" rel="noreferrer">
+            <button type="submit" name="submit" className="socialBtn">
+                <div className="hover">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <img src={twitter} alt="twitter" />
+            </button> 
+        </a>
+    </div>
 
 export default Socials;
 

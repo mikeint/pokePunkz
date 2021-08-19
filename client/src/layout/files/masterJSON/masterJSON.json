@@ -5,17 +5,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "f675f7ec-4dea-460d-a12b-80db71243a9a.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Abra Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -268,17 +258,7 @@
                 "value": "Charmander Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "21f82d2d-f794-44fb-8502-d9c2a9b02224.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "23402168-f414-4c3a-b462-babb877eddbc.png",
@@ -655,7 +635,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -981,16 +961,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "f7e885b8-2622-4dea-ad59-f011b4378983.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "b75da59a-f689-40d3-8bba-81f33ea3fdf8.png",
         "attributes": [
             {
@@ -1068,24 +1038,14 @@
                 "value": "Rocket Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "d29075e5-90c9-4e76-bd39-36817a9d0a19.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "f83735e6-950f-47d2-b123-d27263c028a2.png",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Exeggutor  Hat"
+                "value": "Exeggutor Hat"
             }
         ]
     },
@@ -1205,7 +1165,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -1346,16 +1306,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Raichu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "0ef6b88a-8515-4e98-ad70-7ce7c035e0df.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -1641,16 +1591,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "5e86ec13-80fc-4619-adfd-ba24c76a65cc.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "6c8f336a-7b8c-4c41-90f9-c3938d742ead.png",
         "attributes": [
             {
@@ -1708,17 +1648,7 @@
                 "value": "Ditto Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "0898de6c-2234-49b1-88a7-ccc4b26682ce.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "0737417f-f658-4082-a4ba-adc73e4e34b9.png",
@@ -1965,7 +1895,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Exeggutor  Hat"
+                "value": "Exeggutor Hat"
             }
         ]
     },
@@ -2075,7 +2005,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -2621,16 +2551,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "30aeeb2a-69ea-4465-aa97-324def827fa2.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Kadabra Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "b5590a61-9012-44c6-aa22-fe7054903705.png",
         "attributes": [
             {
@@ -2676,16 +2596,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Rocket Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "c1dd4e01-285b-4c3e-a257-12a493897302.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -2791,21 +2701,11 @@
     },
     {
         "name": "PokePunk",
-        "image": "d8b2f392-5a0b-4a51-a2e0-e604a4ed2997.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Kadabra Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "171a9bc9-0ac9-4888-91c4-c4a8e518cd83.png",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -3095,7 +2995,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -3206,16 +3106,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Magikarp Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "1031bd23-65cd-41ef-9816-4a4026c336ee.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -3415,7 +3305,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -3755,7 +3645,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -4318,17 +4208,7 @@
                 "value": "Diglett Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "575b41a0-c58b-47c4-8b0b-308c4ddfeeea.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "b0642afd-5e82-4938-96be-e16d766bf8b0.png",
@@ -4345,20 +4225,10 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Ash Hat"
+                "value": "Rocket Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "fcf9eabd-fb22-4931-9c06-438e06b057b7.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "1fda5028-f502-4cd7-bb62-97347891f7f5.png",
@@ -4515,7 +4385,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Blastoise Hat"
+                "value": "Venusaur Hat"
             }
         ]
     },
@@ -4785,7 +4655,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Blastoise Hat"
+                "value": "Venusaur Hat"
             }
         ]
     },
@@ -4991,21 +4861,11 @@
     },
     {
         "name": "PokePunk",
-        "image": "9ff0a1f5-0d18-4909-a0e7-3be3de35e8a7.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "8ae197ce-3dd5-4ef3-8a12-f7b7b6f11407.png",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -5525,7 +5385,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Exeggutor  Hat"
+                "value": "Exeggutor Hat"
             }
         ]
     },
@@ -5705,7 +5565,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Exeggutor  Hat"
+                "value": "Exeggutor Hat"
             }
         ]
     },
@@ -5865,7 +5725,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -5895,7 +5755,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -5928,17 +5788,7 @@
                 "value": "Kadabra Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "41a8aaa8-8a85-4954-9d0d-4e1037fa2172.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "98d0b7a4-da48-4332-8208-ae2b8175c316.png",
@@ -6088,17 +5938,7 @@
                 "value": "Wartortle Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "fe5420ef-bc93-4d71-b759-a68ee7374721.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "b991c284-3d74-474d-a4a4-ff42c7ca2eff.png",
@@ -6255,7 +6095,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Exeggutor  Hat"
+                "value": "Exeggutor Hat"
             }
         ]
     },
@@ -6405,7 +6245,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -6555,7 +6395,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -6568,17 +6408,7 @@
                 "value": "Ash Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "6b070b2b-f9c6-479f-a8ea-8a5fd9487ee0.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "a5cc82ed-59dc-4a4b-9c37-5ef3c2f5ed2d.png",
@@ -7196,16 +7026,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Ash Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "f483df38-3123-4638-85ee-7f608ca1d548.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -7831,16 +7651,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "14e7bba3-9c27-4bee-a92f-f0984bb696e5.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "6369b319-da88-4c0a-984a-47940bf2544e.png",
         "attributes": [
             {
@@ -8345,7 +8155,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -8495,17 +8305,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Ash Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "ea218e17-3f75-48f6-89b6-b636ebec8b75.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
+                "value": "Rocket Hat"
             }
         ]
     },
@@ -8685,7 +8485,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Exeggutor  Hat"
+                "value": "Exeggutor Hat"
             }
         ]
     },
@@ -8695,7 +8495,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -9015,7 +8815,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -9045,7 +8845,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -9362,16 +9162,6 @@
     {
         "name": "PokePunk",
         "image": "67a9cc5e-3228-455f-a8b3-d032824a8de4.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Abra Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "ebec6421-78a9-4860-ace3-cc3ea1520009.png",
         "attributes": [
             {
                 "trait_type": "HAT",
@@ -9845,7 +9635,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -10005,7 +9795,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -10016,16 +9806,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Kadabra Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "3033b026-ba22-41c4-8508-ccf328c7b5c2.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -10056,16 +9836,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Slowpoke Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "ed523d25-a9a4-4d96-9b0a-264dac998528.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -10275,7 +10045,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Exeggutor  Hat"
+                "value": "Exeggutor Hat"
             }
         ]
     },
@@ -10595,7 +10365,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -10668,17 +10438,7 @@
                 "value": "Tentacool Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "5dd761b3-715a-43af-9bc6-0ea72f3d68bf.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "9681ea46-c81b-45a4-9425-15d0b390ea74.png",
@@ -10778,17 +10538,7 @@
                 "value": "Cubone Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "b2f38579-213e-4258-b27d-d91d66436c42.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "4fea1514-09bc-4501-a4d1-c91a96e1baca.png",
@@ -10816,16 +10566,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Koffing Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "e48ce78f-c049-42a7-9109-da41c8674d62.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -11175,7 +10915,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -11575,7 +11315,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -11628,17 +11368,7 @@
                 "value": "Ash Hat"
             }
         ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "a1363e7c-1a5a-4ace-9278-eb2fe81b725a.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
+    }, 
     {
         "name": "PokePunk",
         "image": "526a4056-58dd-414d-bf81-e03459e3a455.png",
@@ -11815,7 +11545,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -11995,7 +11725,7 @@
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "Bellsprout  Hat"
+                "value": "Bellsprout Hat"
             }
         ]
     },
@@ -12086,6 +11816,46 @@
             {
                 "trait_type": "HAT",
                 "value": "Charmeleon Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
+        "image": "5bfba5f9-8dc4-42e9-8722-32585c0008b0.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Muk Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
+        "image": "b04318bc-6b7f-4411-8076-24745fa45f29.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Charizard Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
+        "image": "d4b597b2-9dbf-4762-abac-13d909f11c88.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Charizard Hat"
+            }
+        ]
+    },
+    {
+        "name": "PokePunk",
+        "image": "221fd962-76fd-4a11-a857-609727ffee23.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Charizard Hat"
             }
         ]
     }

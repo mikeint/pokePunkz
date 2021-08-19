@@ -3,8 +3,68 @@ import './PokePunkz.scss'
 
 import masterList from '../../files/masterJSON/masterJSON.json';
 
+const pokePunkHats = [
+    "Ash Hat",
+    "Rocket Hat",
+    "Pikachu Hat",
+    "Raichu Hat",
+    "Bulbasaur Hat",
+    "Ivysaur Hat",
+    "Venusaur Hat",
+    "Charmander Hat",
+    "Charmeleon Hat",
+    "Charizard Hat",
+    "Squirtle Hat",
+    "Wartortle Hat",
+    "Blastoise Hat",
+    "Diglett Hat",
+    "Dugtrio Hat",
+    "Slowpoke Hat",
+    "Slowbro Hat",
+    "Exeggcute Hat",
+    "Exeggutor Hat",
+    "Magnemite Hat",
+    "Magneton Hat",
+    "Grimer Hat",
+    "Muk Hat",
+    "Abra Hat",
+    "Alakazam Hat",
+    "Kadabra Hat", 
+    "Tentacool Hat",
+    "Tentacruel Hat",
+    "Bellsprout Hat",
+    "Weepinbell Hat",
+    "Staryu Hat",
+    "Starmie Hat",
+    "Cubone Hat",
+    "Geodude Hat",
+    "Psyduck Hat",
+    "Rattata Hat",
+    "Drowzee Hat",
+    "Koffing Hat",
+    "Jigglypuff Hat",    
+    "Magikarp Hat",
+    "Poliwag Hat",
+    "Gengar Hat",
+    "Vileplume Hat",
+    "Eevee Hat",
+    "Porygon Hat",
+    "Magmar Hat",
+    "Snorlax Hat",
+    "Ditto Hat",
+    "Beedrill Hat",
+    "Zapdos Hat",
+    "Moltres Hat",
+    "Articuno Hat",
+    "Mew Hat",
+]
 
-const options = ["option1", "option2", "option3", "option4"];
+var options = []
+var i = 0
+while(i < pokePunkHats.length){
+    options.push("option"+i);
+    i++;
+}
 
 class PokePunkz extends Component {
     constructor(props) {
@@ -35,80 +95,55 @@ class PokePunkz extends Component {
     selectPokePunk = (pokePunk) => {
         this.setState({pokePunk}); 
     }
+    reset = () => {
+        this.setState({pokePunk:''}); 
+        var elems = document.querySelectorAll(".pokeball");  
+        [].forEach.call(elems, function(el) {
+            el.classList.remove("selected");
+        });
+    }
 
     showPokePunks = () => {
         const { pokePunk } = this.state;
         return (
             masterList.map(({image, url, attributes}, i)=> {
                 return attributes[0].value===pokePunk || pokePunk==='' ? (
-                    <div key={"PokePunk"+i} className="pokePunkzResultBox">
-                            <div className="pokePunkzResultBoxInner">
-                                <a href={url} target="_blank" rel="noreferrer">
-                                    <img src={require('../../files/masterPNGS/' + image).default} alt={image} />
-                                </a>
-                            </div>
-                        </div>
+                    <a key={"PokePunk"+i} href="">
+                        <img src={require('../../files/masterPNGS/' + image).default} alt={image} />
+                    </a>
                 ):''
             })
         )
     }
 
+    buildPokeBalls() {
+        return pokePunkHats.map((item, key) => {
+            return ( 
+                <div key={key} className="option faded" onClick={() => this.selectPokePunk(item)} id={"option"+key}>
+                    <div className="pokeball unselected">
+                    <div className="upper-half"> </div>
+                    <div className="lower-half"> </div>
+                    <div className="base"> </div>
+                    <div className="inner-circle"> </div>
+                    <div className="indicator visible"> </div>
+                    <div className="indicator-inner"> </div>
+                    </div>
+                        {item}
+                </div>
+            );
+        });  
+    }
+
 	render() {
 		return (
             <div className="filterContainer">
-                <div className="filterSelections"> 
-                    <div className="option faded" onClick={() => this.selectPokePunk("Ash Hat")} id="option1">
-                        <div className="pokeball unselected">
-                        <div className="upper-half"> </div>
-                        <div className="lower-half"> </div>
-                        <div className="base"> </div>
-                        <div className="inner-circle"> </div>
-                        <div className="indicator visible"> </div>
-                        <div className="indicator-inner"> </div>
-                        </div>
-                            Ash Hat
-                    </div>
-                    <div className="option faded" onClick={() => this.selectPokePunk("Pikachu Hat")} id="option2">
-                        <div className="pokeball unselected">
-                        <div className="upper-half"> </div>
-                        <div className="lower-half"> </div>
-                        <div className="base"> </div>
-                        <div className="inner-circle"> </div>
-                        <div className="indicator visible"> </div>
-                        <div className="indicator-inner"> </div>
-                        </div>
-                            Pikachu Hat
-                    </div>
-                    <div className="option faded" onClick={() => this.selectPokePunk("Squirtle Hat")} id="option3">
-                        <div className="pokeball unselected">
-                        <div className="upper-half"> </div>
-                        <div className="lower-half"> </div>
-                        <div className="base"> </div>
-                        <div className="inner-circle"> </div>
-                        <div className="indicator visible"> </div>
-                        <div className="indicator-inner"> </div>
-                        </div>
-                            Squirtle Hat
-                    </div>
-                    <div className="option faded" onClick={() => this.selectPokePunk("Jigglypuff Hat")} id="option4">
-                        <div className="pokeball unselected">
-                        <div className="upper-half"> </div>
-                        <div className="lower-half"> </div>
-                        <div className="base"> </div>
-                        <div className="inner-circle"> </div>
-                        <div className="indicator visible"> </div>
-                        <div className="indicator-inner"> </div>
-                        </div>
-                            Jigglypuff Hat
-                    </div>
-                     
-                    <button className="resetFilterBtn" onClick={this.reset}>reset</button>
+                <div className="filterSelections scrollBar">
+                    <div className="resetFilterBtn" onClick={this.reset}>reset</div>
+                    {this.buildPokeBalls()}  
                 </div>
 
-                <div className="filterResultsContainer"> 
-                    <div className="resultWrap"> 
-                        {this.showPokePunks()}
-                    </div> 
+                <div className="filterResultsContainer">  
+                    {this.showPokePunks()} 
                 </div>
             </div>
 		)

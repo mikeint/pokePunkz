@@ -1,0 +1,25 @@
+.OpenSeaBoxContainer {
+    display: flex;
+    background: #195aab;
+    font-size: 17px;
+    padding: 20px;
+    line-height: 6vw;
+    text-align: center;
+    font-size: 22px;   
+    .openseaBtn { 
+        color: #fff;
+        margin: auto;
+        background: #e1bd15;
+        cursor: pointer;
+        transition: 0.3s;  
+    }
+    .openseaBtn .topBtn {
+        max-width: 300px;
+    }
+}
+
+@media only screen and (min-width:1024px) {
+    .bioContainer {
+        line-height: 50px;
+    }
+}
