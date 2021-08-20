@@ -19,7 +19,7 @@
     display: flex;
     flex-wrap: wrap;
     overflow: auto;
-    align-items: start;
+    align-items: flex-start;
     place-content: baseline;
     a {
         display: flex;

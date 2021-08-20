@@ -25,7 +25,7 @@ class Specs extends Component {
                     <div className="colourBox cb7">2%</div>
                     <div className="colourBox cb8">1%</div>
                 </div> 
-                <img src={magStrip} className="magStrip" /> 
+                <img src={magStrip} className="magStrip" alt={"magStrip"} /> 
             </>
         )
     }

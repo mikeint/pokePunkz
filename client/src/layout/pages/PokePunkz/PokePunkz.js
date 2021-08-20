@@ -108,7 +108,7 @@ class PokePunkz extends Component {
         return (
             masterList.map(({image, url, attributes}, i)=> {
                 return attributes[0].value===pokePunk || pokePunk==='' ? (
-                    <a key={"PokePunk"+i} href="">
+                    <a key={"PokePunk"+i} href="/#">
                         <img src={require('../../files/masterPNGS/' + image).default} alt={image} />
                     </a>
                 ):''

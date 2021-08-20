@@ -9,6 +9,7 @@ import Socials from "../../components/Socials/Socials"
 import OpenSeaBox from "../../components/OpenSeaBox/OpenSeaBox"
 import Specs from "../../components/Specs/Specs"
 import WhyBuy from "../../components/WhyBuy/WhyBuy"
+import Team from "../../components/Team/Team"
 
 class Landing extends Component {
     render() {
@@ -23,6 +24,7 @@ class Landing extends Component {
                     <OpenSeaBox />
                     <Specs />
                     <WhyBuy />
+                    <Team />
                     <Footer />
                 </div>
             </> 

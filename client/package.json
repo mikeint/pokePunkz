@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "aws s3 sync build/ s3://pokepunkz.io --acl public-read",
-    "cc": "aws cloudfront create-invalidation --distribution-id E2ST01K0Q1O1GR --paths '/*'",
+    "cc": "aws cloudfront create-invalidation --distribution-id E26KPMQGQFJ783 --paths '/*'",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
