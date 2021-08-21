@@ -851,16 +851,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "5eb469dc-a82c-498e-a0b5-c7b570e0432c.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "ad1e0fac-827d-48bc-bc4c-8d1e60037256.png",
         "attributes": [
             {
@@ -1551,16 +1541,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "5abfa515-e88b-4a8c-99ac-cde5cbfafd37.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "71784460-1d83-4b4e-babe-8189f3552da2.png",
         "attributes": [
             {
@@ -1906,16 +1886,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Exeggutor Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "c8190b34-c387-4a3d-ac96-24eaea34ed3a.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Charmeleon Hat"
             }
         ]
     },
@@ -5171,16 +5141,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "d522c333-dcb8-492a-b065-77361b5783bd.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "6419b88e-123a-41e0-82f6-90bb0a21f4de.png",
         "attributes": [
             {
@@ -7101,16 +7061,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "01f98791-44aa-45b0-9486-b3c0de1c66a3.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "81da8a77-0739-4df4-bc1d-8d8095c1cd28.png",
         "attributes": [
             {
@@ -7841,16 +7791,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "b5c36aba-042b-4822-8bd6-7700afa30ebc.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Magikarp Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "bc5740c2-3039-4d36-bf63-0034e98bd8a5.png",
         "attributes": [
             {
@@ -8141,16 +8081,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "d3fd54b1-7795-46b1-850f-7d55fefad379.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "b175bb1d-5093-4763-987d-b67c6a32bdc4.png",
         "attributes": [
             {
@@ -8159,16 +8089,6 @@
             }
         ]
     }, 
-    {
-        "name": "PokePunk",
-        "image": "9d524c4b-4dc2-4ec0-9922-9d0e071e8f55.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
     {
         "name": "PokePunk",
         "image": "b048f734-0d44-4f97-80f5-d1ef14f1fdee.png",
@@ -8256,26 +8176,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Abra Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "09296322-8b83-42bb-a020-118c7a3f0a6f.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "409fd982-941c-483b-81a4-e99ce859a726.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -8406,16 +8306,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Rattata Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "b6fa7d6d-83b6-40ec-a64f-db377d37d976.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -8601,16 +8491,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "f2781eb4-fa30-4c27-95c1-a8e031e0abca.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "0f46f631-eb5c-4a1c-90ac-ed61af59f721.png",
         "attributes": [
             {
@@ -8716,16 +8596,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Bellsprout Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "9ec8212a-1de3-4614-a95c-1e2d833860b4.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -8866,16 +8736,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Charmander Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "6a50bd24-2543-4c5d-9d60-e5303c7971f8.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -9151,16 +9011,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "d6989afd-096b-4442-a53a-ec48c6bd364a.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "525662e9-fd80-44ed-990e-87b72fa7b188.png",
         "attributes": [
             {
@@ -9346,16 +9196,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Rattata Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "ab136e4d-7e8a-43a2-a22f-d54c51ba167f.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -9606,16 +9446,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Psyduck Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "9ae2f59e-50ec-4dae-a023-e295e46b36d5.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -9891,16 +9721,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "a4af98e3-b5f0-4ebf-b697-4005d0eeeaab.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "163afd3d-3a83-400a-92c7-ab6b8aa8ff0d.png",
         "attributes": [
             {
@@ -9946,16 +9766,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Tentacruel Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "d95a32aa-575d-413b-8983-d0bf6ad68e2a.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -10292,16 +10102,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "abee1a73-85e0-4fdd-82f7-2205f528cf97.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "c536d152-c125-473d-ad1a-c90d31792d79.png",
         "attributes": [
             {
@@ -10507,16 +10307,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Poliwag Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "efe3494a-9139-40e5-b327-66b80bf5a897.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -10792,16 +10582,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "2757bb79-55e4-4ac5-af38-51620930cf6f.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "c25a041c-18d1-4a97-b4aa-100e22b00d2b.png",
         "attributes": [
             {
@@ -10987,16 +10767,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Koffing Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "9c0f18d0-5ce9-4286-a80e-aa2451b557f3.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
@@ -11482,16 +11252,6 @@
     },
     {
         "name": "PokePunk",
-        "image": "f66ed4ca-e2dd-4171-af8e-59c80c9d28e2.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
         "image": "19cde5c0-0573-48eb-928a-89cd439ca797.png",
         "attributes": [
             {
@@ -11507,16 +11267,6 @@
             {
                 "trait_type": "HAT",
                 "value": "Squirtle Hat"
-            }
-        ]
-    },
-    {
-        "name": "PokePunk",
-        "image": "5721e7c2-4007-4dfa-aee1-839988b53e12.png",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
             }
         ]
     },
