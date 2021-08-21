@@ -1,12 +1,38 @@
  .topNavContainer {
-     width: 100%;
-     background-color: #0007;
+    display: flex;
+    width: 100%;
+    background-color: #0007;
+    max-width: 1920px;
+    margin: auto;
 }
 
 .navItem img {
     width: 310px;
     padding-left: 13px;
 }
+
+.openSeaContainer {
+    background: #435738;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+    margin-right: 20px;
+    .openseaBtn { 
+        color: #fff;
+        margin: auto;
+        background: #e1bd15;
+        cursor: pointer;
+        transition: 0.3s;  
+    }
+    .openseaBtn .mainButton {
+        max-width: 300px;
+    }
+    .mainButton {
+        margin: unset;
+    }
+}
+
 
 @media only screen and (max-width:1024px) {  
     .topNavContainer {

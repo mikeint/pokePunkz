@@ -7798,7 +7798,17 @@
                 "value": "Charmander Hat"
             }
         ]
-    }, 
+    },
+    {
+        "name": "PokePunk",
+        "image": "01ae543f-be5d-4edd-b4e2-5b43c97e2bf3.png",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Tentacool Hat"
+            }
+        ]
+    },
     {
         "name": "PokePunk",
         "image": "a1deab3a-6040-49e8-bda0-cbfb74a35ec0.png",
