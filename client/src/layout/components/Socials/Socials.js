@@ -20,8 +20,7 @@ const Socials = () =>
                 <img src={discord} alt="discord" />
             </button>
         </a>
- 
-        <a href="https://www.instagram.com/pokepunkz/" target="_blank" rel="noreferrer">
+        {/* <a href="https://www.instagram.com/pokepunkz/" target="_blank" rel="noreferrer">
             <button type="submit" name="submit" className="socialBtn">
                 <div className="hover">
                     <span></span>
@@ -32,7 +31,7 @@ const Socials = () =>
                 </div>
             <img src={instagram} alt="instagram" />
             </button>
-        </a>
+        </a> */}
         <a href="https://twitter.com/PokePunkzNft?s=09" target="_blank" rel="noreferrer">
             <button type="submit" name="submit" className="socialBtn">
                 <div className="hover">
