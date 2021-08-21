@@ -16,11 +16,11 @@ class Specs extends Component {
                     There will be a limited supply of 1511 (in honor of the original 151 pokemon), and purchasing an PokePunkz costs <u>0.03</u> ETH detailed below.                
                 </div> 
                 <div className="coloursContainer"> 
-                    <div className="colourBox cb1">80%</div>
-                    <div className="colourBox cb2">10%</div>
-                    <div className="colourBox cb3">5%</div>
-                    <div className="colourBox cb4">4%</div>
-                    <div className="colourBox cb5">3%</div>
+                    <div className="colourBox cb1">48%</div>
+                    <div className="colourBox cb2">20%</div>
+                    <div className="colourBox cb3">14%</div>
+                    <div className="colourBox cb4">8%</div>
+                    <div className="colourBox cb5">5%</div>
                     <div className="colourBox cb6">3%</div>
                     <div className="colourBox cb7">2%</div>
                     <div className="colourBox cb8">1%</div>
