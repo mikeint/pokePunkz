@@ -5,14 +5,16 @@
 }
 .pokePunkExamplesWrap img {
     height: auto;
-    width: 25%;
+    width: calc(25% - 20px);
     padding: 1px;
-    box-shadow: 0px 0px 5px 0px #435738;
+    margin: 10px;
+    box-shadow: 0px 0px 6px 4px #435738;
 }
 
 
 @media only screen and (max-width:736px) {
     .pokePunkExamplesWrap img {
-        width: 50%;
+        width: calc(50% - 10px);
+        margin: 5px;
     }
 }
