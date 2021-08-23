@@ -2,7 +2,7 @@ import React from "react"
 import './Socials.scss' 
 
 import discord from '../../files/images/socialImages/discord.png'
-import instagram from '../../files/images/socialImages/instagram.png'
+//import instagram from '../../files/images/socialImages/instagram.png'
 import twitter from '../../files/images/socialImages/twitter.png'
 
 const Socials = () => 
