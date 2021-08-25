@@ -5,3 +5,14 @@
     text-align: center;
     line-height: 30px;
 }
+.bolded {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.bioBox {
+    display: flex;
+    flex-direction: column;
+    text-align: left; 
+    padding: 20px 0;
+}
