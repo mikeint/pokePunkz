@@ -378,6 +378,26 @@
                 "value": "PURPLE"
             }
         ]
+    },   
+    {
+        "description": "A wild Bellsprout has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/47dce469-832c-45bb-96a2-2fa4c44c7894.png", 
+        "image": "47dce469-832c-45bb-96a2-2fa4c44c7894.png", 
+        "name": "Bellsprout Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Bellsprout Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "BLUE"
+            }
+        ]
     },
     {
         "description": "A wild Charmander has attached itself onto a PokePunkz head", 
@@ -436,26 +456,6 @@
             {
                 "trait_type": "BACKGROUND",
                 "value": "RED"
-            }
-        ]
-    },
-    {
-        "description": "A wild Bellsprout has attached itself onto a PokePunkz head", 
-        "external_url": "https://pokepunkz.io/static/media/47dce469-832c-45bb-96a2-2fa4c44c7894.png", 
-        "image": "47dce469-832c-45bb-96a2-2fa4c44c7894.png", 
-        "name": "Bellsprout Hat",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Bellsprout Hat"
-            },
-            {
-                "trait_type": "TYPE",
-                "value": "MALE"
-            },
-            {
-                "trait_type": "BACKGROUND",
-                "value": "BLUE"
             }
         ]
     },
@@ -620,26 +620,6 @@
         ]
     },
     {
-        "description": "A wild Psyduck has attached itself onto a PokePunkz head", 
-        "external_url": "https://pokepunkz.io/static/media/1ae83aa2-8f74-4fab-b871-d5e5c79b8b67.png", 
-        "image": "1ae83aa2-8f74-4fab-b871-d5e5c79b8b67.png", 
-        "name": "Psyduck Hat",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Psyduck Hat"
-            },
-            {
-                "trait_type": "TYPE",
-                "value": "MALE"
-            },
-            {
-                "trait_type": "BACKGROUND",
-                "value": "LIGHT BLUE"
-            }
-        ]
-    },
-    {
         "description": "A wild Diglett Hat has attached itself onto a PokePunkz head", 
         "external_url": "https://pokepunkz.io/static/media/efaf069d-133b-4a9b-a20f-5426f1001e7b.gif", 
         "image": "efaf069d-133b-4a9b-a20f-5426f1001e7b.gif", 
@@ -716,6 +696,26 @@
             {
                 "trait_type": "BACKGROUND",
                 "value": "RED"
+            }
+        ]
+    },
+    {
+        "description": "A wild Psyduck has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/1ae83aa2-8f74-4fab-b871-d5e5c79b8b67.png", 
+        "image": "1ae83aa2-8f74-4fab-b871-d5e5c79b8b67.png", 
+        "name": "Psyduck Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Psyduck Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "LIGHT BLUE"
             }
         ]
     },
@@ -1100,26 +1100,6 @@
         ]
     },
     {
-        "description": "A wild Pikachu has attached itself onto a PokePunkz head", 
-        "external_url": "https://pokepunkz.io/static/media/cdf67665-76f6-4c38-821b-517349d2a882.png", 
-        "image": "cdf67665-76f6-4c38-821b-517349d2a882.png", 
-        "name": "Pikachu Hat",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "Pikachu Hat"
-            },
-            {
-                "trait_type": "TYPE",
-                "value": "MALE"
-            },
-            {
-                "trait_type": "BACKGROUND",
-                "value": "BLUE"
-            }
-        ]
-    },
-    {
         "description": "A wild Ditto has attached itself onto a PokePunkz head", 
         "external_url": "https://pokepunkz.io/static/media/ced8545a-def5-4726-afb4-4bf5d0e9b95a.png", 
         "image": "ced8545a-def5-4726-afb4-4bf5d0e9b95a.png", 
@@ -1236,6 +1216,26 @@
             {
                 "trait_type": "BACKGROUND",
                 "value": "RED"
+            }
+        ]
+    },
+    {
+        "description": "A wild Pikachu has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/cdf67665-76f6-4c38-821b-517349d2a882.png", 
+        "image": "cdf67665-76f6-4c38-821b-517349d2a882.png", 
+        "name": "Pikachu Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Pikachu Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "BLUE"
             }
         ]
     },
