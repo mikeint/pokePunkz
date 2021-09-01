@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './PokePunkz.scss'
 
-import masterList from '../../files/masterJSON/masterJSON.json';
+import masterList from '../../files/masterJSON.json';
 
 const pokePunkHats = [
     "Ash Hat",
@@ -109,7 +109,7 @@ class PokePunkz extends Component {
         return (
             masterList.map(({image, url, attributes}, i)=> {
                 return attributes[0].value===pokePunk || pokePunk==='' ? ( 
-                        <img src={require('../../files/masterPNGS/' + image).default} key={i} alt={image} /> 
+                        <img src={'/NFTimages/' + image} key={i} alt={image} /> 
                 ):''
             })
         )
