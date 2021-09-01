@@ -1,5 +1,8 @@
 .specsContainer {
     display: inline-block; 
+    text-align: center;
+}
+.specsText {
     font-size: 17px;
     padding: 20px; 
     text-align: center;
@@ -12,12 +15,13 @@
     font-size: 17px; 
     text-align: center;
     line-height: 30px;
+    margin: 20px 0px 20px 0px;
 }
 
 .colourBox {
     display: flex;
     flex-direction: column;
-    height: 130px;
+    height: 90px;
     width: 200px; 
     justify-content: center;
     color: #fff;
@@ -38,14 +42,13 @@
     height: 100%;
     vertical-align: middle;
     top: 0;
-    left: 0;
-    margin-top: 30px;
+    left: 0; 
 }
 
 
 @media only screen and (max-width: 1024px) {
     .colourBox {
         font-size: 20px;
-        height: 75px;
+        height: 90px;
     }
 }

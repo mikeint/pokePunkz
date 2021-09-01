@@ -1,18 +1,55 @@
 .bioContainer {
     display: inline-block; 
+    text-align: center;
+}
+.bioText {
     font-size: 17px;
     padding: 20px; 
     text-align: center;
     line-height: 30px;
 }
-.bolded {
-    font-weight: bold;
-    font-size: 25px;
+
+
+.bioBoxContainer {
+    display: flex; 
+    flex-direction: column; 
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
 }
 
 .bioBox {
+    display: flex;    
+    justify-content: center;
+}
+.bioBoxValue {
     display: flex;
-    flex-direction: column;
+    width: 50%;
+    align-items: center;
     text-align: left; 
-    padding: 20px 0;
+    font-size: 17px;
+} 
+.bioBoxImages {
+    width: 50%;
+    text-align: center;
+    padding-left: 50px;
+    img {
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .bioBox {
+        text-align: center;
+    }
+    .bioBoxValue {
+        width: 100%;
+        justify-content: left; 
+    }
+    .bioBoxImages {
+        text-align: right;
+        img {
+            width: 160px;
+        }
+    }
 }

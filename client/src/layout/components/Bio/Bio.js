@@ -1,6 +1,10 @@
 
 import React, { Component } from "react"
 import './Bio.scss'
+
+import bi1 from '../../files/images/sets/1.gif'
+import bi2 from '../../files/images/sets/2.png'
+import bi3 from '../../files/images/sets/3.gif'
  
 class Bio extends Component {
 
@@ -9,23 +13,46 @@ class Bio extends Component {
             <div className="bioContainer">
                 <div className="header">What are PokePunkz?</div>
 
-                The PokePunkz Club is an art project consisting of <span className="bolded">1151</span> randomly generated nfts.
-                
-                <div className="bioBox">
-                    <p><span className="bolded">1000</span> non holographics</p>
-                    <p><span className="bolded">151</span> holographics/animated, in honor of the 151 original set.</p> 
+                <div className="bioText">
+                    The PokePunkz Club is an art project consisting of <span className="bolded">1151</span> randomly generated nfts.
                 </div>
+                
+                <div className="bioBoxContainer">
+                    <div className="bioBox">
+                        <div className="bioBoxValue"> 
+                            <div><span className="bolded">1000<br /></span> Non-Holographics</div>
+                        </div>
+                        <div className="bioBoxImages">
+                            <img src={bi2} alt={"bi2"} /> 
+                        </div>
+                    </div>
 
-                52 different types of PokeHats have attached themselves to some punkz heads. Each one built with a python script that choose 
-                rarity based on % values of these attributes:<br/><br/>
-                <b>Background</b><br/>
-                <b>Type</b><br/>
-                <b>Pokehat</b><br/><br/>
+                    <div className="bioBox">
+                        <div className="bioBoxValue"> 
+                            <div><span className="bolded">151/1000<br /></span> Non-Holographics Animated</div>
+                        </div>
+                        <div className="bioBoxImages"> 
+                            <img src={bi1} alt={"bi1"} /> 
+                        </div>
+                    </div>
 
-                Each hat was hand drawn on a 24x24 pixel canvas.
-                They are all available within the Ethereum blockchain.
-                Each punk was chosen at random to achieve a unique set of 1000 nfts. 
-                (151 holographics were made with another python script which were hand picked)
+                    <div className="bioBox">
+                        <div className="bioBoxValue"> 
+                            <div><span className="bolded">151<br /></span> Holographics/Animated</div> 
+                        </div>
+                        <div className="bioBoxImages"> 
+                            <img src={bi3} alt={"bi3"} />
+                        </div>
+                    </div>
+                </div>
+ 
+
+                <div className="bioText">
+                    Each hat was hand drawn on a 24x24 pixel canvas.
+                    They are all available within the Ethereum blockchain.
+                    Each punk was chosen at random to achieve a unique set of 1000 nfts. 
+                    (151 holographics were made with another python script which were hand picked)
+                </div>
             </div> 
         )
     }

@@ -1,7 +1,7 @@
 
 import React, { Component } from "react"
 import './Team.scss'
-import teamMember from '../../files/images/team1.png' 
+import teamMember from '../../files/images/team1.gif' 
 import discord from '../../files/images/socialImages/discord.png'
 import linkedIn from '../../files/images/socialImages/linkedIn.png'
 import website from '../../files/images/socialImages/website.png'

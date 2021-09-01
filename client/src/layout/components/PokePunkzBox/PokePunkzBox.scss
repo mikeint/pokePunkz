@@ -1,0 +1,19 @@
+.pokePunkzBoxContainer {
+    display: flex;
+    background: #2d689e;
+    font-size: 17px;
+    padding: 20px;
+    line-height: 6vw;
+    text-align: center;
+    font-size: 22px;
+    .pokePunkzBtn { 
+        color: #fff;
+        margin: auto;
+        background: #e1bd15;
+        cursor: pointer;
+        transition: 0.3s;  
+    }
+    .pokePunkzBtn .mainButton {
+        max-width: 300px;
+    }
+}
