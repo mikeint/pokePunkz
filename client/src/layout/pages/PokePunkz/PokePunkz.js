@@ -146,7 +146,8 @@ class PokePunkz extends Component {
             <div className="filterContainer">
                 <div className="filterSelections scrollBar">
                     <div className="resetFilterBtn" onClick={this.reset}>reset</div>
-                    {this.buildPokeBalls()}  
+                    {this.buildPokeBalls()}
+                    <span className="moreToCome">MORE TO COME</span>
                 </div>
 
                 <div className="filterResultsContainer">  

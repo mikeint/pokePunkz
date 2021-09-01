@@ -1,21 +1,201 @@
 [
     {
-        "name": "PokePunk",
-        "image": "80908af6-44a0-4f75-8bcf-d963e95a266f.png",
+        "description": "A wild Bulbasaur has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png", 
+        "image": "40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png", 
+        "name": "Bulbasaur Hat",
         "attributes": [
             {
                 "trait_type": "HAT",
                 "value": "Bulbasaur Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "GREEN"
             }
         ]
     },
     {
-        "name": "PokePunk",
-        "image": "00ae543f-be5d-4edd-b2e2-5b43c97e2bf3.png",
+        "description": "A wild Staryu has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/00ae543f-be5d-4edd-b2e2-5b43c97e2bf3.png", 
+        "image": "00ae543f-be5d-4edd-b2e2-5b43c97e2bf3.png", 
+        "name": "Staryu Hat",
         "attributes": [
             {
                 "trait_type": "HAT",
                 "value": "Staryu Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "RED"
+            }
+        ]
+    },
+    {
+        "description": "A wild Magnemite has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/f78b029f-91fb-4762-adb8-c0fdf735b7d2.png", 
+        "image": "f78b029f-91fb-4762-adb8-c0fdf735b7d2.png", 
+        "name": "Magnemite Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Magnemite Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "BLUE"
+            }
+        ]
+    },
+    {
+        "description": "A wild Charmander has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/1f20d631-0a63-4a1d-9d7e-0d4da0bfa67e.png", 
+        "image": "1f20d631-0a63-4a1d-9d7e-0d4da0bfa67e.png", 
+        "name": "Charmander Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Charmander Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "PURPLE"
+            }
+        ]
+    },
+    {
+        "description": "A wild Squirtle has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/0d0a51bc-681c-4454-8a02-e5b81fdf8cda.png", 
+        "image": "0d0a51bc-681c-4454-8a02-e5b81fdf8cda.png", 
+        "name": "Squirtle Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Squirtle Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "BLUE"
+            }
+        ]
+    },
+    {
+        "description": "A wild Koffing has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/0bfc46cf-4e1f-4d5a-ae87-bdffbb11ff36.png", 
+        "image": "0bfc46cf-4e1f-4d5a-ae87-bdffbb11ff36.png", 
+        "name": "Koffing Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Koffing Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "GREEN"
+            }
+        ]
+    },
+    {
+        "description": "A wild Ash has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/1fca84aa-cc0c-4c17-b72e-7db3955a3548.png", 
+        "image": "1fca84aa-cc0c-4c17-b72e-7db3955a3548.png", 
+        "name": "Ash Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Ash Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "RED"
+            }
+        ]
+    },
+    {
+        "description": "A wild Rattata has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/02c10da3-b147-4558-8d95-2625163ab295.png", 
+        "image": "02c10da3-b147-4558-8d95-2625163ab295.png", 
+        "name": "Rattata Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Rattata Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "RED"
+            }
+        ]
+    },
+    {
+        "description": "A wild Slowpoke has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/4b04794f-4798-4709-81f6-fd00580a4b95.png", 
+        "image": "4b04794f-4798-4709-81f6-fd00580a4b95.png", 
+        "name": "Slowpoke Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Slowpoke Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "BLUE"
+            }
+        ]
+    },
+    {
+        "description": "A wild Diglett has attached itself onto a PokePunkz head", 
+        "external_url": "https://pokepunkz.io/static/media/693c3b4b-2982-47d2-b182-9c6b034d35a8.png", 
+        "image": "693c3b4b-2982-47d2-b182-9c6b034d35a8.png", 
+        "name": "Diglett Hat",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "Diglett Hat"
+            },
+            {
+                "trait_type": "TYPE",
+                "value": "MALE"
+            },
+            {
+                "trait_type": "BACKGROUND",
+                "value": "BLUE"
             }
         ]
     }
