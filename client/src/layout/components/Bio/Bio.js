@@ -29,7 +29,7 @@ class Bio extends Component {
 
                     <div className="bioBox">
                         <div className="bioBoxValue"> 
-                            <div><span className="bolded">151/1000<br /></span> Non-Holographics Animated</div>
+                            <div><span className="bolded">151/1000<br /></span> Non-Holographic Animated</div>
                         </div>
                         <div className="bioBoxImages"> 
                             <img src={bi1} alt={"bi1"} /> 
@@ -38,7 +38,7 @@ class Bio extends Component {
 
                     <div className="bioBox">
                         <div className="bioBoxValue"> 
-                            <div><span className="bolded">151<br /></span> Holographics/Animated</div> 
+                            <div><span className="bolded">151<br /></span> Holographics (49 animated)</div> 
                         </div>
                         <div className="bioBoxImages"> 
                             <img src={bi3} alt={"bi3"} />
@@ -48,7 +48,7 @@ class Bio extends Component {
  
 
                 <div className="bioText">
-                    Each hat was hand drawn on a 24x24 pixel canvas.
+                    Each hat was hand drawn on a 24x24 pixel canvas then scaled to 480x480 pixels.
                     They are all available within the Ethereum blockchain.
                     Each punk was chosen at random to achieve a unique set of 1000 nfts. 
                     (151 holographics were made with another python script which were hand picked)
