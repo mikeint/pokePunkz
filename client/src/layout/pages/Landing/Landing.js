@@ -9,7 +9,12 @@ import Socials from "../../components/Socials/Socials"
 import OpenSeaBox from "../../components/OpenSeaBox/OpenSeaBox"
 import Specs from "../../components/Specs/Specs"
 import WhyBuy from "../../components/WhyBuy/WhyBuy"
+import RoadMap from "../../components/RoadMap/RoadMap"
 import Team from "../../components/Team/Team"
+import PokePunkzBox from '../../components/PokePunkzBox/PokePunkzBox' 
+import AOS from 'aos'
+import 'aos/dist/aos.css' 
+AOS.init();
 
 class Landing extends Component {
     render() {
@@ -21,9 +26,11 @@ class Landing extends Component {
                 <div className="homeBodyContainer">
                     <PokePunkExamples />
                     <Bio />
-                    <OpenSeaBox />
+                    <PokePunkzBox />
                     <Specs />
+                    <OpenSeaBox />
                     <WhyBuy />
+                    <RoadMap />
                     <Team />
                     <Footer />
                 </div>

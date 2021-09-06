@@ -40,14 +40,18 @@ a {
   background-color: #000000;
 } 
 
-
+@media only screen and (max-width:736px) {
+    .header{
+        font-size: 28px;
+    }
+}
 
 
 
 /* mainButton */
 .mainButton {
 	font-family:pixel;  
-    background: #195aab;
+    background: #195aabc4;
     border: 1px solid #fbc400;
     opacity: 0.8;
     cursor: pointer; 

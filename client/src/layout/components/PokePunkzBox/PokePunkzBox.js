@@ -7,7 +7,7 @@ class PokePunkzBox extends Component {
     render() {    
         return (
             <div className="pokePunkzBoxContainer">  
-                <a href="/pokePunkz" className="pokePunkzBtn mainButton" rel="noreferrer"> 
+                <a href="/pokePunkz" className="pokePunkzBtn mainButton" rel="noreferrer" data-aos="zoom-in-down" data-aos-delay="100"> 
                     <div className="hover">
                         <span></span>
                         <span></span>
@@ -15,7 +15,7 @@ class PokePunkzBox extends Component {
                         <span></span>
                         <span></span>
                     </div>
-                    See Collection
+                    SEE COLLECTION
                 </a> 
             </div> 
         )

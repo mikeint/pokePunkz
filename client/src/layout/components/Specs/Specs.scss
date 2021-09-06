@@ -3,19 +3,19 @@
     text-align: center;
 }
 .specsText {
-    font-size: 17px;
-    padding: 20px; 
+    font-size: 17px; 
     text-align: center;
-    line-height: 30px;
+    line-height: 25px;
+    padding: 0px 20px 0px 20px;
 }
 
 /* COLOURS */
 .coloursContainer {
-    display: flex; 
-    font-size: 17px; 
-    text-align: center;
-    line-height: 30px;
-    margin: 20px 0px 20px 0px;
+    display:flex; 
+    font-size:17px; 
+    text-align:center;
+    line-height:30px;
+    margin-bottom:20px;
 }
 
 .colourBox {
@@ -43,12 +43,13 @@
     vertical-align: middle;
     top: 0;
     left: 0; 
+    margin-bottom: 20px;
 }
 
 
 @media only screen and (max-width: 1024px) {
     .colourBox {
         font-size: 20px;
-        height: 90px;
+        height: 70px;
     }
 }

@@ -1,0 +1,40 @@
+.roadMapTitle {
+    text-align: center;
+}
+
+.vertical-timeline-element-icon {
+    svg {
+        width: 44px !important;
+        height: 44px !important;
+        margin-left: -21px !important;
+        margin-top: -21px !important;
+    }
+}
+.vertical-timeline-element-content {
+    background: #2d689e !important;
+    color: #fff;
+    box-shadow: 0px 0px 6px 4px #435738 !important;
+    a { 
+        color: #e1bd15;
+    }
+}
+.vertical-timeline-element-content-arrow {
+    border: 12px solid transparent !important;
+    border-right: 17px solid #2d689e !important;
+    top: 19px !important;
+}
+
+
+@media only screen and (max-width: 1024px) {
+    .vertical-timeline-element-content-arrow { 
+        border: 9px solid transparent !important;
+        border-right: 14px solid #2d689e !important;
+        top: 13px !important;
+    }
+    .vertical-timeline-element-icon {
+        svg {
+            margin-left: -22px !important;
+            margin-top: -22px !important;
+        }
+    }
+}
