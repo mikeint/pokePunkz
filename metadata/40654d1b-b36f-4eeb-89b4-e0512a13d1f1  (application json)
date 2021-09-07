@@ -1,0 +1,20 @@
+{
+    "description": "A wild Bulbasaur has attached itself onto a PokePunkz head", 
+    "external_url": "https://pokepunkz.io/NFTimages/40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png", 
+    "image": "https://pokepunkz.io/NFTimages/40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png", 
+    "name": "PokePunk #1",
+    "attributes": [
+        {
+            "trait_type": "HAT",
+            "value": "BULBASAUR"
+        },
+        {
+            "trait_type": "TYPE",
+            "value": "MALE"
+        },
+        {
+            "trait_type": "BACKGROUND",
+            "value": "GREEN"
+        }
+    ]
+}

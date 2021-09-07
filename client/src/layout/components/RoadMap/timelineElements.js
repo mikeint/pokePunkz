@@ -39,8 +39,8 @@ let timelineElements = [{
 	{
 		id: 5,
 		title: "Continued Nostalgia",
-		location: "Giveaways",
-		description: "ETH giveaways to owners of PokePunkz and followers on twitter.",
+		location: "Skills & Abilities",
+		description: "PokePunkz will be introduced to skillsets. Every PokePunk can learn new skills associated to the PokeHat they wear.",
 		date: "",
 		icon: "ball"
 	},

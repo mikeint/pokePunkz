@@ -36,7 +36,7 @@ function RoadMap() {
 						<h3 className="vertical-timeline-element-title">{element.title}</h3>
 						<h5 className="vertical-timeline-element-subtitle">{element.location}</h5>
 						<p id="description">{element.description}</p>
-						<div className="holoContainer">{element.id === 3 ? <img src={holo} /> : ""} </div>
+						<div className="holoContainer">{element.id === 3 ? <img src={holo} alt="holo" /> : ""} </div>
 						{showButton && (
 						<a 
 							className={`button ${isWorkIcon ? "workButton" : "schoolButton"}`} 

@@ -13,7 +13,15 @@
         padding: 20px;
     }
 }
-
+@media only screen and (max-width: 1024px) {
+    .holoContainer {
+        img {
+            width: 300px;
+            padding: 0px;
+            padding-top: 40px;
+        }
+    }
+}
 
 
 /* TIMELINE RESTYLING */
@@ -40,7 +48,6 @@
     border: 12px solid transparent !important;
     border-right: 17px solid #2d689e !important; 
 }
-
 
 @media only screen and (max-width: 1024px) {
     .vertical-timeline-element-content-arrow { 
