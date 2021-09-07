@@ -1,7 +1,25 @@
+.roadMapContainer {
+    overflow: hidden;
+}
 .roadMapTitle {
     text-align: center;
 }
 
+.holoContainer {
+    width: 100%;
+    text-align: center;
+    img {
+        width: 400px;
+        padding: 20px;
+    }
+}
+
+
+
+/* TIMELINE RESTYLING */
+.vertical-timeline-element-content .vertical-timeline-element-date, .vertical-timeline-element-content p {
+    font-size: 17px !important;
+}
 .vertical-timeline-element-icon {
     svg {
         width: 44px !important;
@@ -20,8 +38,7 @@
 }
 .vertical-timeline-element-content-arrow {
     border: 12px solid transparent !important;
-    border-right: 17px solid #2d689e !important;
-    top: 19px !important;
+    border-right: 17px solid #2d689e !important; 
 }
 
 
@@ -29,12 +46,16 @@
     .vertical-timeline-element-content-arrow { 
         border: 9px solid transparent !important;
         border-right: 14px solid #2d689e !important;
-        top: 13px !important;
+        top: 12px !important;
     }
     .vertical-timeline-element-icon {
         svg {
             margin-left: -22px !important;
             margin-top: -22px !important;
         }
+    }   
+    .vertical-timeline {
+        overflow: hidden !important;
+        padding: 2em 4px !important;
     }
 }

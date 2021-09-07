@@ -20,22 +20,22 @@ let timelineElements = [{
 	},
 	{
 		id: 3,
-		title: "Continued Drops",
-		location: "Opensea",
-		description: "100 PokePunks will continue to drop every 2 weeks. Each launch will increase in price by 0.01ETH.", 
-		buttonText: "Be sure to follow on twitter",
-		url: "https://twitter.com/PokePunkzNft",
+		title: "HOLOGRAPHICS",
+		location: "Opensea and Discord",
+		description: "After the first 50 sales, HOLOGRAPHICS will be introduced ! Every 10 sales, a holographic will be either placed on the market, auctioned or givenaway. There will be 151 holos total.",
 		date: "",
 		icon: "ball"
 	},
 	{
 		id: 4,
-		title: "HOLOGRAPHICS",
-		location: "Opensea and Discord",
-		description: "After the first 50 sales, HOLOGRAPHICS will be introduced ! Every 10 sales, a holographic will be either placed on the market, auctioned or givenaway. This means there will be 151 holos total.",
+		title: "Continued Drops",
+		location: "Opensea",
+		description: "Increments of 100 PokePunkz will continue to drop. Each launch will increase in price by 0.01ETH.", 
+		buttonText: "Be sure to follow on twitter",
+		url: "https://twitter.com/PokePunkzNft",
 		date: "",
 		icon: "ball"
-	}, 
+	},
 	{
 		id: 5,
 		title: "Continued Nostalgia",
@@ -43,7 +43,7 @@ let timelineElements = [{
 		description: "ETH giveaways to owners of PokePunkz and followers on twitter.",
 		date: "",
 		icon: "ball"
-	}, 
+	},
 	{
 		id: 6,
 		title: "POKEPUNK Battles",

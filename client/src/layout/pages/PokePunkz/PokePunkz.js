@@ -102,7 +102,7 @@ class PokePunkz extends Component {
         });
     }
 
-    showPokePunks = () => {
+    showPokePunkz = () => {
         const { pokePunk } = this.state;
         return (
             masterList.map(({image, external_url, attributes}, i)=> {
@@ -149,7 +149,7 @@ class PokePunkz extends Component {
                 </div>
 
                 <div className="filterResultsContainer">  
-                    {this.showPokePunks()} 
+                    {this.showPokePunkz()} 
                 </div>
             </div>
 		)

@@ -11,7 +11,7 @@ const NavBar = () =>
                 className="openseaBtn mainButton" 
                 target="_blank" 
                 rel="noreferrer"
-                data-aos="zoom-in-down" data-aos-delay="100"
+                data-aos="flip-up" data-aos-delay="100"
             > 
                 <div className="hover">
                     <span></span>
