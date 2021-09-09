@@ -4,7 +4,7 @@ let timelineElements = [{
 		location: "Discord",
 		description: "The initial launch of PokePunkz ! Discord will open, giveaways will commence.",
 		buttonText: "join DISCORD",
-		url: "https://discord.gg/EJsh9Upzm7",
+		url: "https://discord.gg/FJ8wr8vB8z",
 		date: "",
 		icon: "ball"
 	},
@@ -32,7 +32,7 @@ let timelineElements = [{
 		id: 4,
 		title: "Continued Drops",
 		location: "Opensea",
-		description: "Increments of 100 PokePunkz will continue to drop. Each launch will increase in price by 0.01ETH.", 
+		description: "Increments of 100 PokePunkz will continue to drop. A price by 0.01ETH will be added to evolution 2s and 3s.", 
 		buttonText: "Be sure to follow on twitter",
 		url: "https://twitter.com/PokePunkzNft",
 		date: "",
@@ -42,7 +42,7 @@ let timelineElements = [{
 		id: 5,
 		title: "Continued Nostalgia",
 		location: "Skills & Abilities",
-		description: "PokePunkz will be introduced to skillsets. Every PokePunk can learn new skills associated to the PokeHat they wear.",
+		description: "PokePunkz will be giving away Pokemon gear including Pokemon card packs!",
 		date: "",
 		icon: "ball"
 	},

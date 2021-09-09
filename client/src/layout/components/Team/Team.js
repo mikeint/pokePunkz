@@ -16,7 +16,7 @@ class Team extends Component {
                 <div className="header"></div>
                 <img src={teamMember} className="teamMember" alt={"teamMember"} />
                 <div className="teamSocials"> 
-                    <a href="https://discord.com/channels/875044707871371305/875049993336160306" target="_blank" rel="noreferrer">
+                    <a href="https://discord.gg/FJ8wr8vB8z" target="_blank" rel="noreferrer">
                         <button type="submit" name="submit" className="socialBtn">
                             <div className="hover">
                                 <span></span>
