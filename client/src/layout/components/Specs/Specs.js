@@ -13,7 +13,7 @@ class Specs extends Component {
                     <div className="specsText">
                         Each PokePunk hat is designed by hand and generated as 24x24 enlarged to 480x480. Each set of PokePunkz are generated with a random 
                         background and random Punk utilizing 53 different PokeHat options.
-                        Each one built with a python script that choose between rarity based on % values of these attributes:<br/><br/>
+                        Each one built with a python script that choose between rarity based on a % of the following attributes:<br/><br/>
                         {/* <span className="bolded">Background</span><br/>
                         <span className="bolded">Type</span><br/>
                         <span className="bolded">Pokehat</span><br/> */}
@@ -35,7 +35,7 @@ class Specs extends Component {
                     PokePunkz believes in the power of nostalgia! 
                     The 53 Pokemon hats represent them 🤘 In the PokePunkz Club punkverse nobody is judged by their Hat type!
                     All PokePunkz Club members live together peacefully 👊 Each Punk is different from the others and this makes each of them uniquely rare! 
-                    There will be a limited supply of 1151 (in honor of the original 151 pokemon), and purchasing an PokePunkz costs <u>0.03</u> ETH detailed below.  
+                    There will be a limited supply of 1151 (in honor of the original 151 pokemon), and purchasing an PokePunkz costs <u>0.05</u> ETH detailed below.  
                 </div>
 
             </>

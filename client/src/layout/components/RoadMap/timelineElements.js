@@ -3,8 +3,8 @@ let timelineElements = [{
 		title: "Initial Launch",
 		location: "Discord",
 		description: "The initial launch of PokePunkz ! Discord will open, giveaways will commence.",
-		buttonText: "View Current PokePunkz",
-		url: "/pokePunkz",
+		buttonText: "join DISCORD",
+		url: "https://discord.gg/EJsh9Upzm7",
 		date: "",
 		icon: "ball"
 	},
@@ -12,7 +12,7 @@ let timelineElements = [{
 		id: 2,
 		title: "Initial Drop",
 		location: "Opensea",
-		description: "The first 100 PokePunkz will be available for purchase at 0.02ETH each.",
+		description: "The first 100 PokePunkz will be available for purchase at 0.05ETH each.",
 		buttonText: "Buy on Opensea",
 		url: "https://opensea.io/collection/pokepunkz",
 		date: "",
@@ -23,6 +23,8 @@ let timelineElements = [{
 		title: "HOLOGRAPHICS",
 		location: "Opensea and Discord",
 		description: "After the first 50 sales, HOLOGRAPHICS will be introduced ! Every 10 sales, a holographic will be either placed on the market, auctioned or givenaway. There will be 151 holos total.",
+		buttonText: "View Current PokePunkz",
+		url: "/pokePunkz",
 		date: "",
 		icon: "ball"
 	},

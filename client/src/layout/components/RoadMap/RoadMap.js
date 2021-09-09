@@ -16,7 +16,7 @@ function RoadMap() {
 
 	return (
 		<div className="roadMapContainer">
-			<h1 className="roadMapTitle">ROADMAP</h1>
+			<h1 className="roadMapTitle">PATH</h1>
 			<VerticalTimeline>
 				{timelineElements.map((element, i) => {
 				let isWorkIcon = element.icon === "work";

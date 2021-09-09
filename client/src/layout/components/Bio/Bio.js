@@ -45,13 +45,12 @@ class Bio extends Component {
                     </div>
                 </div>
  
-
-                <div className="bioText">
+                {/* <div className="bioText">
                     Each hat was hand drawn on a 24x24 pixel canvas then scaled to 480x480 pixels.
                     They are all available within the Ethereum blockchain.
                     Each punk was chosen at random to achieve a unique set of 1000 nfts. 
                     (151 holographics were made with another python script which were hand picked)
-                </div>
+                </div> */}
             </div> 
         )
     }

@@ -106,7 +106,7 @@ class PokePunkz extends Component {
         const { pokePunk } = this.state;
         return (
             masterList.map(({image, external_url, attributes}, i)=> {
-                return attributes[0].value===pokePunk || pokePunk==='' ? ( 
+                return attributes[0].value===pokePunk || pokePunk==='' ? (
                         <img src={external_url} key={i} alt={image} /> 
                 ):''
             })

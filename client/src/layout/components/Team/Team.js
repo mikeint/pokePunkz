@@ -6,14 +6,14 @@ import discord from '../../files/images/socialImages/discord.png'
 import twitter from '../../files/images/socialImages/twitter.png'
 // import linkedIn from '../../files/images/socialImages/linkedIn.png'
 // import website from '../../files/images/socialImages/website.png'
-// import pikachu from '../../files/images/socialImages/pikachu.png'
- 
+// import pikachu from '../../files/images/socialImages/pikachu.png' 
+
 class Team extends Component {
 
-    render() {    
+    render() {
         return (
             <div className="teamContainer">
-                <div className="header">Team</div>
+                <div className="header"></div>
                 <img src={teamMember} className="teamMember" alt={"teamMember"} />
                 <div className="teamSocials"> 
                     <a href="https://discord.com/channels/875044707871371305/875049993336160306" target="_blank" rel="noreferrer">
