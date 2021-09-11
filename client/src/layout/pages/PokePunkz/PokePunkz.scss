@@ -62,19 +62,19 @@
 @media only screen and (max-width:1024px){
     .filterContainer {
         display: block;
-        height: calc(100vh - 59.3px);
+        height: calc(100vh - 50px);
     } 
     .filterSelections {
         width: 100%;
         min-width: 100%;
-        height: 25%;
+        height: 35%;
     }
     .filterResultsContainer {
-        height: 75%;
+        height: 65%;
         img {
             width: 25%;
         }
-    } 
+    }
 }
 @media only screen and (max-width:736px){
     .filterResultsContainer {
@@ -82,8 +82,21 @@
             width: 50%;
         }
     }
+    .resetFilterBtn {
+        font-size: 16px;
+    }
 }
 
+
+.tempComingSoon {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
 
 
 

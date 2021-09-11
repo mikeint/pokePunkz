@@ -11,7 +11,8 @@ class Specs extends Component {
                 <div className="specsContainer">
                     <div className="header">What are Specs?</div>
                     <div className="specsText">
-                        Each PokePunk hat is designed by hand and generated as 24x24 enlarged to 480x480. Each set of PokePunkz are generated with a random 
+                        Each PokePunk was minted on ERC721, you can rest assure that these NFTS are going to be fun to own. 
+                        Each hat is designed by hand and generated as 24x24 enlarged to 480x480. Each set of PokePunkz are generated with a random 
                         background and random Punk utilizing 53 different PokeHat options.
                         Each one built with a python script that choose between rarity based on a % of the following attributes:<br/><br/>
                         {/* <span className="bolded">Background</span><br/>

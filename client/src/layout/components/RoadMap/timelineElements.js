@@ -30,9 +30,9 @@ let timelineElements = [{
 	},
 	{
 		id: 4,
-		title: "Continued Drops",
-		location: "Opensea",
-		description: "Increments of 100 PokePunkz will continue to drop. A price by 0.01ETH will be added to evolution 2s and 3s.", 
+		title: "Continued Drops & Giveaways",
+		location: "Twitter",
+		description: "Increments of 100 PokePunkz will continue to drop. A price by 0.01ETH will be added to evolution 2s and 3s. Rare Pokemon card packs will be given away", 
 		buttonText: "Be sure to follow on twitter",
 		url: "https://twitter.com/PokePunkzNft",
 		date: "",
@@ -42,7 +42,7 @@ let timelineElements = [{
 		id: 5,
 		title: "Continued Nostalgia",
 		location: "Skills & Abilities",
-		description: "PokePunkz will be giving away Pokemon gear including Pokemon card packs!",
+		description: "PokePunkz will start to acquire unique sets of skills based off their properties,  which may be used for battle.",
 		date: "",
 		icon: "ball"
 	},
@@ -50,7 +50,7 @@ let timelineElements = [{
 		id: 6,
 		title: "POKEPUNK Battles",
 		location: "Arena",
-		description: "A new era of NFTs are here and they are ready to fight.",
+		description: "A new era of NFTs are here and they are ready to fight. Use your PokePunkz as coins to fight against other Punkz.",
 		date: "",
 		icon: "ball"
 	}, 

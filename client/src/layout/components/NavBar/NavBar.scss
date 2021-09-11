@@ -19,6 +19,7 @@
     display: flex;
     margin-right: 20px;
     .openseaBtn { 
+        font-size: 20px;
         color: #fff;
         margin: auto;
         background: #e1bd15;
@@ -39,7 +40,18 @@
         text-align: center;
     }
     .navItem img {
-        width: 200px;
-        padding-left: 13px;
+        width: 156px;
+        margin-left: -8px;
+        margin-top: 3px;
+    }
+
+    .openSeaContainer {
+        margin-right: 0px;
+        .openseaBtn { 
+            width: 200px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 16px;
+        }
     }
 }
