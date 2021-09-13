@@ -43,6 +43,8 @@ let timelineElements = [{
 		title: "Continued Nostalgia",
 		location: "Skills & Abilities",
 		description: "PokePunkz will start to acquire unique sets of skills based off their properties,  which may be used for battle.",
+		buttonText: "pokepunkz.io/pokepunkz",
+		url: "http://pokepunkz.io/pokepunkz",
 		date: "",
 		icon: "ball"
 	},

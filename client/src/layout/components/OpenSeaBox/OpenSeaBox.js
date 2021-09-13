@@ -1,6 +1,6 @@
 import React, { Component } from "react" 
 import './OpenSeaBox.scss' 
-import packs_og from '../../files/images/packs_og.png';
+import packs_og from '../../files/images/pathImages/packs_og.png';
 
 class OpenSeaBox extends Component {
 

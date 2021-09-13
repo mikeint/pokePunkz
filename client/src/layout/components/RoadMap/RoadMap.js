@@ -9,9 +9,10 @@ import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeli
 import "react-vertical-timeline-component/style.min.css";
 
 import holo from '../../files/images/sets/3.gif';
-import coin from '../../files/images/6.png';
-import packs_og from '../../files/images/packs_og.png';
-import packs from '../../files/images/packs.png';
+import coin from '../../files/images/pathImages/6.png';
+import packs_og from '../../files/images/pathImages/packs_og.png';
+import packs from '../../files/images/pathImages/packs.png';
+import stats from '../../files/images/pathImages/stats.png';
 
 function RoadMap() {
   let workIconStyles = { background: "#06D6A0" };
@@ -42,6 +43,7 @@ function RoadMap() {
 						<div className="imgRMContainer">{element.id === 2 ? <img src={packs_og} alt="packs_og" /> : ""} </div>
 						<div className="imgRMContainer">{element.id === 3 ? <img src={holo} alt="holo" /> : ""} </div>
 						<div className="imgRMContainer">{element.id === 4 ? <img src={packs} alt="packs" /> : ""} </div>
+						<div className="imgRMContainer">{element.id === 5 ? <img src={stats} alt="stats" /> : ""} </div>
 						<div className="imgRMContainer">{element.id === 6 ? <img src={coin} alt="coin" /> : ""} </div>
 						{showButton && (
 						<a 
