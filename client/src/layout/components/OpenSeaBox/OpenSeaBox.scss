@@ -17,4 +17,17 @@
     .openseaBtn .mainButton {
         max-width: 300px;
     }
+    .packs_og {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width:1024px) {  
+    .OpenSeaBoxContainer {
+        flex-direction: column;
+        .packs_og {
+            width: 100%; 
+            padding-top: 20px;
+        }
+    }
 }

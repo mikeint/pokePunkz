@@ -149,7 +149,7 @@ class PokePunkz extends Component {
                 </div>
 
                 <div className="filterResultsContainer">  
-                    {/* {this.showPokePunkz()}  */}
+                    {/* {this.showPokePunkz()} */}
                     <div className="tempComingSoon">COMING SOON</div>
                 </div>
             </div>
