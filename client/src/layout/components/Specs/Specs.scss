@@ -1,12 +1,11 @@
 .specsContainer {
     display: inline-block; 
-    text-align: center;
-}
-.specsText {
+    text-align: center; 
     font-size: 17px; 
     text-align: center;
     line-height: 25px;
     padding: 0px 20px 0px 20px;
+    overflow: hidden;
 }
 
 /* COLOURS */
@@ -46,10 +45,43 @@
     margin-bottom: 20px;
 }
 
+.statsContainer {
+    background: #27b27c;
+    padding: 30px;
+    width: 600px;
+    margin: 50px auto;
+    overflow: hidden;
+    border-radius: 30px; 
+    border: 10px solid #cbffeb;
+    box-shadow: 0px 0px 9px 4px #cbffeb;
+    .statsTitle {
+        font-size: 50px;
+        padding-top: 30px;
+        height: 80px;
+        font-weight: bold;
+    }
+    .bulbaImg {
+        padding:20px;
+    }
+    .mintText {
+        padding-top:20px
+    }
+}
+.stamp {
+    width: 25px;
+}
+
 
 @media only screen and (max-width: 1024px) {
     .colourBox {
         font-size: 20px;
         height: 70px;
+    }
+
+    .statsContainer {  
+        padding: 10px;
+        width: 100%;
+        margin: 30px auto; 
+        border-radius:0px; 
     }
 }

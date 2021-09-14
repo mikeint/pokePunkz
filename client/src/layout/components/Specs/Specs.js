@@ -3,6 +3,10 @@ import React, { Component } from "react"
 import './Specs.scss'
 import magStrip from '../../files/images/magnemiteStrip.png'
 
+import stamp from '../../files/images/examples/1st.png'
+import stats from '../../files/images/examples/stats.png'
+import head from '../../files/images/examples/head.png'
+
 class Specs extends Component {
 
     render() {    
@@ -32,11 +36,23 @@ class Specs extends Component {
                 </div> 
                 <img src={magStrip} className="magStrip" alt={"magStrip"} /> 
 
-                <div className="specsText">
+                <div className="specsContainer">
                     PokePunkz believes in the power of nostalgia! 
                     The 53 Pokemon hats represent them. In the PokePunkz Club punkverse nobody is judged by their Hat type!
                     All PokePunkz Club members live together peacefully. Each Punk is different from the others and making each of them uniquely rare! 
-                    There will be a limited supply of 1151 (in honour of the original 151 Pokémon), and purchasing a PokePunk Pack costs <u>0.05</u> ETH.  
+                    There will be a limited supply of 1151 (in honour of the original 151 Pokémon), and purchasing a PokePunk Pack costs <u>0.05</u> ETH.
+
+                    <div className="statsContainer" data-aos="flip-down">
+                        <div className="statsTitle">Bulbasaur</div>
+                        <div data-aos="fade-right" data-aos-delay="650">
+                            <img className="bulbaHead"src={head} alt={"head"} />
+                        </div>
+                        <div data-aos="fade-left" data-aos-delay="650">
+                            <img className="bulbaStats"src={stats} alt={"stats"} />
+                        </div>
+                        <div className="mintText">Once minted, a random PokePunk from the set is chosen and given a set of random stats. These stats will be used for games and being able to earn your own PokeCoins.
+                        First <b><u>200</u></b> packs will be stamped as first edition. <img className="stamp" src={stamp} alt={"stamp"} /></div>
+                    </div>
                 </div>
 
             </>
