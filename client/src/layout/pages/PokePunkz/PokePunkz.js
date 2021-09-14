@@ -1,7 +1,8 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import './PokePunkz.scss'
 
-import masterList from '../../files/masterJSON.json';
+import masterList from '../../files/masterJSON.json'
+import BuildPokePunkBox from '../../components/BuildPokePunkBox/BuildPokePunkBox'
 
 const pokePunkHats = [
     "ASH",
@@ -105,9 +106,14 @@ class PokePunkz extends Component {
     showPokePunkz = () => {
         const { pokePunk } = this.state;
         return (
-            masterList.map(({image, external_url, attributes}, i)=> {
-                return attributes[0].value===pokePunk || pokePunk==='' ? (
-                        <img src={external_url} key={i} alt={image} /> 
+            masterList.map(({name, image, external_url, attributes}, i)=> {
+                return name.indexOf("CardPack") === -1 && (attributes[0].value===pokePunk || pokePunk==='') ? (
+                    <BuildPokePunkBox
+                        key={i}
+                        image={image} 
+                        external_url={external_url} 
+                        attributes={attributes}
+                    />
                 ):''
             })
         )
@@ -149,7 +155,7 @@ class PokePunkz extends Component {
                 </div>
 
                 <div className="filterResultsContainer">  
-                    {/* {this.showPokePunkz()} */}
+                   {this.showPokePunkz()}
                     <div className="tempComingSoon">COMING SOON</div>
                 </div>
             </div>

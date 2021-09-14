@@ -10,7 +10,7 @@ class WhyBuy extends Component {
                 <div className="header">Why join the PokePunkz Club?</div>
                 <div className="paragraph">
                     Think of NFTs as the Pokemon Trading Card Game for anyone who loves collecting. PokePunkz are not only a collectable,
-                    they can turn into unique coins that you always have in your pocket. These coins are will be ready for battle. When you are chilling in the
+                    they can turn into unique coins that you always have in your pocket. These coins will be ready for battle. When you are chilling in the
                     metaverse, face off against your friends or other PokePunkz. 
                     Each PokeCoin will receive stats based off their PokeHat they are wearing. Stats will be viewable on the website.
                     <br/><br/>

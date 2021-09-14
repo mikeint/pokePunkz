@@ -22,7 +22,7 @@ let timelineElements = [{
 		id: 3,
 		title: "HOLOGRAPHICS",
 		location: "Opensea and Discord",
-		description: "After the first 50 sales, HOLOGRAPHICS will be introduced ! Every 10-20 sales, holographics will be either placed on the market, auctioned or givenaway. There will be 151 holos total.",
+		description: "When HOLOGRAPHICS are released they will have a 14% chance to be in any PokePunkz Pack. The first few will be auctioned or givenaway. There will be 151 holos total.",
 		buttonText: "View Current PokePunkz",
 		url: "/pokePunkz",
 		date: "",
