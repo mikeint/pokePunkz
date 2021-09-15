@@ -50,8 +50,8 @@ class Specs extends Component {
                         <div data-aos="flip-down">
                             <img className="bulbaStats"src={stats} alt={"stats"} />
                         </div>
-                        <div className="mintText">Once minted, a random PokePunk from is chosen, then assigned random stats. These stats will be used for games where you can earn PokeCoins.
-                        First <b><u>200</u></b> packs will be stamped as first edition. <img className="stamp" src={stamp} alt={"stamp"} /></div>
+                        <div className="mintText">Once minted, a random PokePunk is chosen and assigned random stats. These stats will be used for games where you can earn PokeCoins by facing off against other Punkz.
+                        <br/>First <b><u>200</u></b> packs will be stamped as first edition. <img className="stamp" src={stamp} alt={"stamp"} /></div>
                     </div>
                 </div>
 

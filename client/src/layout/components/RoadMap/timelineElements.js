@@ -42,7 +42,7 @@ let timelineElements = [{
 		id: 5,
 		title: "Continued Nostalgia",
 		location: "Skills & Abilities",
-		description: "PokePunkz are appointed random, but uniquely fair, stats. They will also be able to adopt unique sets of skills.",
+		description: "PokePunkz are appointed random, but uniquely fair, stats. They will also be able to adopt unique sets of skills. (viewable on the website)",
 		buttonText: "pokepunkz.io/pokepunkz",
 		url: "http://pokepunkz.io/pokepunkz",
 		date: "",
