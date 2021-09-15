@@ -20,13 +20,67 @@
         background-color: #2e2e2ed9;
         padding: 10px; 
         .stat {
-            color: #fff;
-            padding-bottom: 4px;
+            color: #fff; 
+            margin-bottom: 3px; 
         }
-        .stat1 {
+        .statName {
             margin-bottom: 40px;
             font-weight: bold;
             font-size: 15px;
         }
+        .statBars { 
+            border-top-right-radius: 3px;
+            border-bottom-right-radius: 3px;
+            font-size: 13px;
+            height: 17px;
+            text-align: right;
+            padding-top: 2px;
+        }
+    } 
+    .firstEdImg {
+        width: 24px;
+        height: 17px;
+        top: 5px;
+        right: 5px;
+        position: absolute;
+        animation: pulseImg 1s linear infinite;
+    }
+    @keyframes pulseImg {
+        0% {
+            -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+        }
+        25% {
+            -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+        }
+        50% {
+           -webkit-transform: scale(1.3);
+           transform: scale(1.3);
+        }
+        100% {
+            -webkit-transform: scale(1.4);
+           transform: scale(1);
+        }
+    }
+    .statChartContainer {
+        display: flex;
+    } 
+    .statValues {
+        flex: 1;
+    }
+} 
+
+
+
+
+@media only screen and (max-width:1324px) {
+    .pokePunkStatContainer {
+        width: 33.33%;
+    }
+}
+@media only screen and (max-width:736px) {
+    .pokePunkStatContainer {
+        width: 50%;
     }
 }

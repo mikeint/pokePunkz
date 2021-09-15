@@ -42,15 +42,15 @@ class Specs extends Component {
                     All PokePunkz Club members live together peacefully. Each Punk is different from the others and making each of them uniquely rare! 
                     There will be a limited supply of 1151 (in honour of the original 151 Pokémon), and purchasing a PokePunk Pack costs <u>0.05</u> ETH.
 
-                    <div className="statsContainer" data-aos="flip-down">
+                    <div className="statsContainer">
                         <div className="statsTitle">Bulbasaur</div>
-                        <div data-aos="fade-right" data-aos-delay="650">
+                        <div data-aos="flip-up">
                             <img className="bulbaHead"src={head} alt={"head"} />
                         </div>
-                        <div data-aos="fade-left" data-aos-delay="650">
+                        <div data-aos="flip-down">
                             <img className="bulbaStats"src={stats} alt={"stats"} />
                         </div>
-                        <div className="mintText">Once minted, a random PokePunk from the set is chosen and given a set of random stats. These stats will be used for games and being able to earn your own PokeCoins.
+                        <div className="mintText">Once minted, a random PokePunk from is chosen, then assigned random stats. These stats will be used for games where you can earn PokeCoins.
                         First <b><u>200</u></b> packs will be stamped as first edition. <img className="stamp" src={stamp} alt={"stamp"} /></div>
                     </div>
                 </div>
