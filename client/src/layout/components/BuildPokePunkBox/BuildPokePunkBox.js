@@ -22,7 +22,7 @@ const BuildPokePunkBox = ({image, external_url, attributes}) => {
             <img onClick={() => setDisplayStats(!displayStats)} src={external_url} alt={image} /> 
             <span onClick={() => setDisplayStats(!displayStats)} className={"statContainer " + (displayStats ? "" : "statContainerOff")}>
                 <div className="stat statName">{attributes[0].value}</div>  
-                {attributes[5].trait_type && <img className="firstEdImg" src={firstEdImg} alt={"firstEdImg"} />} 
+                {attributes[5] && <img className="firstEdImg" src={firstEdImg} alt={"firstEdImg"} />} 
  
                 <div className="statChartContainer">
                     <div className="statTitles">
