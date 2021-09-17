@@ -7,10 +7,9 @@ const BuildPokePunkBox = ({image, external_url, attributes}) => {
 
 
     const getBarWidth = (val) => {
-        return `${(val/3)}px`
+        return `${(val/4.5)}%`
     }
-    const getBarColor = (val) => {
-        console.log(val)
+    const getBarColor = (val) => { 
         if (val > 375) return "#58ced4";
         if (val > 300 && val < 375) return "#69b34c";
         if (val > 250 && val < 300) return "#fbc150";

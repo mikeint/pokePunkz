@@ -97,10 +97,14 @@ class PokePunkz extends Component {
     }
     reset = () => {
         this.setState({pokePunk:''}); 
-        var elems = document.querySelectorAll(".pokeball");  
-        [].forEach.call(elems, function(el) {
+        var pb = document.querySelectorAll(".pokeball");  
+        [].forEach.call(pb, function(el) {
             el.classList.remove("selected");
         });
+        var op = document.querySelectorAll(".option");  
+        [].forEach.call(op, function(el) {
+            el.classList.add("faded");
+        });  
     }
 
     showPokePunkz = () => {

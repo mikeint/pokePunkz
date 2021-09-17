@@ -17,7 +17,7 @@ class Specs extends Component {
                     <div className="specsText">
                         Each PokePunk was minted on ERC721, you can rest assure that these NFTS are going to be fun to own. 
                         Each hat is designed by hand and generated as 24x24 enlarged to 480x480. Each set of PokePunkz are generated with a random 
-                        background and random Punk utilizing 53 different PokeHat options.
+                        background and random Punk utilizing 56 different PokeHat options.
                         Each one built with a python script that choose between rarity based on a % of the following attributes:<br/><br/>
                         {/* <span className="bolded">Background</span><br/>
                         <span className="bolded">Type</span><br/>
@@ -38,7 +38,7 @@ class Specs extends Component {
 
                 <div className="specsContainer">
                     PokePunkz believes in the power of nostalgia! 
-                    The 53 Pokemon hats represent them. In the PokePunkz Club punkverse nobody is judged by their Hat type!
+                    The 56 Pokemon hats represent them. In the PokePunkz Club punkverse nobody is judged by their Hat type!
                     All PokePunkz Club members live together peacefully. Each Punk is different from the others and making each of them uniquely rare! 
                     There will be a limited supply of 1151 (in honour of the original 151 Pokémon), and purchasing a PokePunk Pack costs <u>0.05</u> ETH.
 
