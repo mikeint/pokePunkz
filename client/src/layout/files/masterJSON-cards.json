@@ -2016,30 +2016,30 @@
         ]
     },
     {
-        "description": "A wild Geodude has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/35b898cf-11e6-4428-a2ac-bfa7df30000b.png",
-        "image": "https://pokepunkz.io/NFTimages/35b898cf-11e6-4428-a2ac-bfa7df30000b.png",
+        "description": "A wild Kadabra has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/b3607a10-8c4b-4465-9fa8-051e30595f18.png",
+        "image": "https://pokepunkz.io/NFTimages/b3607a10-8c4b-4465-9fa8-051e30595f18.png",
         "name": "PokePunk #64",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "GEODUDE"
+                "value": "KADABRA"
             },
             {
                 "trait_type": "HP",
-                "value": "271"
+                "value": "260"
             },
             {
                 "trait_type": "ATT",
-                "value": "261"
+                "value": "376"
             },
             {
                 "trait_type": "DEF",
-                "value": "284"
+                "value": "199"
             },
             {
                 "trait_type": "SPE",
-                "value": "250"
+                "value": "385"
             },
             {
                 "trait_type": "EDITION",
@@ -2625,8 +2625,8 @@
     },
     {
         "description": "A wild Charizard has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.png",
-        "image": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.png",
+        "external_url": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.gif",
+        "image": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.gif",
         "name": "PokePunk #83",
         "attributes": [
             {
@@ -7744,30 +7744,30 @@
         ]
     },
     {
-        "description": "A wild Kadabra has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/b3607a10-8c4b-4465-9fa8-051e30595f18.png",
-        "image": "https://pokepunkz.io/NFTimages/b3607a10-8c4b-4465-9fa8-051e30595f18.png",
+        "description": "A wild Geodude has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/35b898cf-11e6-4428-a2ac-bfa7df30000b.png",
+        "image": "https://pokepunkz.io/NFTimages/35b898cf-11e6-4428-a2ac-bfa7df30000b.png",
         "name": "PokePunk #249",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "KADABRA"
+                "value": "GEODUDE"
             },
             {
                 "trait_type": "HP",
-                "value": "260"
+                "value": "271"
             },
             {
                 "trait_type": "ATT",
-                "value": "376"
+                "value": "261"
             },
             {
                 "trait_type": "DEF",
-                "value": "199"
+                "value": "284"
             },
             {
                 "trait_type": "SPE",
-                "value": "385"
+                "value": "250"
             }
         ]
     },
