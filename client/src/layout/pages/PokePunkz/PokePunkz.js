@@ -33,6 +33,10 @@ const pokePunkHats = [
     "DITTO",
     "PORYGON",
     "MAGMAR",
+    "ELECTRODE",
+    "DRATINI",
+    "DRAGONITE",
+    "SCYTHER"
 ]
 //     "RAICHU",
 //     "IVYSAUR",

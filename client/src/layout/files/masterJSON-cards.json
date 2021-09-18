@@ -129,8 +129,8 @@
     },
     {
         "description": "A wild Weepingbell has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/1f20d631-0a63-4a1d-9d7e-0d4da0bfa67e.png.png",
-        "image": "https://pokepunkz.io/NFTimages/1f20d631-0a63-4a1d-9d7e-0d4da0bfa67e.png.png",
+        "external_url": "https://pokepunkz.io/NFTimages/1f20d631-0a63-4a1d-9d7e-0d4da0bfa67e.png",
+        "image": "https://pokepunkz.io/NFTimages/1f20d631-0a63-4a1d-9d7e-0d4da0bfa67e.png",
         "name": "PokePunk #5",
         "attributes": [
             {
@@ -2624,30 +2624,30 @@
         ]
     },
     {
-        "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/3ebc984d-fba6-4e39-8c1e-0c1147997f88.gif",
-        "image": "https://pokepunkz.io/NFTimages/3ebc984d-fba6-4e39-8c1e-0c1147997f88.gif",
+        "description": "A wild Charizard has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.png",
+        "image": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.png",
         "name": "PokePunk #83",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "EXEGGCUTE"
+                "value": "CHARIZARD"
             },
             {
                 "trait_type": "HP",
-                "value": "208"
+                "value": "317"
             },
             {
                 "trait_type": "ATT",
-                "value": "255"
+                "value": "379"
             },
             {
                 "trait_type": "DEF",
-                "value": "263"
+                "value": "301"
             },
             {
                 "trait_type": "SPE",
-                "value": "322"
+                "value": "360"
             },
             {
                 "trait_type": "EDITION",
@@ -3264,30 +3264,30 @@
         ]
     },
     {
-        "description": "A wild Geodude has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/d1fe5487-6817-4d8e-96f2-1783ca63ac88.gif",
-        "image": "https://pokepunkz.io/NFTimages/d1fe5487-6817-4d8e-96f2-1783ca63ac88.gif",
+        "description": "A wild Blastoise has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/7288253b-c5c1-4cbb-819f-82f8ffb1cbf2.gif",
+        "image": "https://pokepunkz.io/NFTimages/7288253b-c5c1-4cbb-819f-82f8ffb1cbf2.gif",
         "name": "PokePunk #103",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "GEODUDE"
+                "value": "BLASTOISE"
             },
             {
                 "trait_type": "HP",
-                "value": "311"
+                "value": "319"
             },
             {
                 "trait_type": "ATT",
-                "value": "329"
+                "value": "305"
             },
             {
                 "trait_type": "DEF",
-                "value": "368"
+                "value": "360"
             },
             {
                 "trait_type": "SPE",
-                "value": "261"
+                "value": "318"
             },
             {
                 "trait_type": "EDITION",
@@ -4064,30 +4064,30 @@
         ]
     },
     {
-        "description": "A wild Cubone has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/fe96fc97-2376-4613-90c0-73d8244b6c46.gif",
-        "image": "https://pokepunkz.io/NFTimages/fe96fc97-2376-4613-90c0-73d8244b6c46.gif",
+        "description": "A wild Venusaur has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/e668782a-5417-40ee-9afd-bea95168276a.gif",
+        "image": "https://pokepunkz.io/NFTimages/e668782a-5417-40ee-9afd-bea95168276a.gif",
         "name": "PokePunk #128",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "CUBONE"
+                "value": "VENUSAUR"
             },
             {
                 "trait_type": "HP",
-                "value": "288"
+                "value": "290"
             },
             {
                 "trait_type": "ATT",
-                "value": "295"
+                "value": "345"
             },
             {
                 "trait_type": "DEF",
-                "value": "329"
+                "value": "333"
             },
             {
                 "trait_type": "SPE",
-                "value": "231"
+                "value": "329"
             },
             {
                 "trait_type": "EDITION",
@@ -8976,30 +8976,30 @@
         ]
     },
     {
-        "description": "A wild Charizard has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.png",
-        "image": "https://pokepunkz.io/NFTimages/221fd962-76fd-4a11-a857-609727ffee23.png",
+        "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/3ebc984d-fba6-4e39-8c1e-0c1147997f88.gif",
+        "image": "https://pokepunkz.io/NFTimages/3ebc984d-fba6-4e39-8c1e-0c1147997f88.gif",
         "name": "PokePunk #293",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "CHARIZARD"
+                "value": "EXEGGCUTE"
             },
             {
                 "trait_type": "HP",
-                "value": "317"
+                "value": "208"
             },
             {
                 "trait_type": "ATT",
-                "value": "379"
+                "value": "255"
             },
             {
                 "trait_type": "DEF",
-                "value": "301"
+                "value": "263"
             },
             {
                 "trait_type": "SPE",
-                "value": "360"
+                "value": "322"
             }
         ]
     },
@@ -11189,8 +11189,8 @@
     },
     {
         "description": "A wild Geodude has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/74628028-2ad6-4d85-a51f-3910d8091449.png.png",
-        "image": "https://pokepunkz.io/NFTimages/74628028-2ad6-4d85-a51f-3910d8091449.png.png",
+        "external_url": "https://pokepunkz.io/NFTimages/74628028-2ad6-4d85-a51f-3910d8091449.png",
+        "image": "https://pokepunkz.io/NFTimages/74628028-2ad6-4d85-a51f-3910d8091449.png",
         "name": "PokePunk #372",
         "attributes": [
             {
