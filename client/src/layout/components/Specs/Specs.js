@@ -38,9 +38,9 @@ class Specs extends Component {
 
                 <div className="specsContainer">
                     PokePunkz believes in the power of nostalgia! 
-                    The 56 Pokemon hats represent them. In the PokePunkz Club punkverse nobody is judged by their Hat type!
+                    The 56 PokeHats represent them. In the PokePunkz Club nobody is judged by their Hat type!
                     All PokePunkz Club members live together peacefully. Each Punk is different from the others and making each of them uniquely rare! 
-                    There will be a limited supply of 1151 (in honour of the original 151 Pokémon), and purchasing a PokePunk Pack costs <u>0.05</u> ETH.
+                    There will be a limited supply of 1151, 151 being Holographics (in honour of the original 151 Pokémon), and purchasing a PokePunk Pack costs <u>0.05</u> ETH.
 
                     <div className="statsContainer">
                         <div className="statsTitle">Bulbasaur</div>
