@@ -115,7 +115,7 @@ class PokePunkz extends Component {
         const { pokePunk } = this.state;
         return (
             masterList.map(({name, image, external_url, attributes}, i)=> {
-                return name.indexOf("CardPack") === -1 && (attributes[0].value===pokePunk || pokePunk==='') ? (
+                return name.indexOf("PokePack") === -1 && (attributes[0].value===pokePunk || pokePunk==='') ? (
                     <BuildPokePunkBox
                         key={i}
                         image={image} 
@@ -164,7 +164,7 @@ class PokePunkz extends Component {
 
                 <div className="filterResultsContainer">  
                    {this.showPokePunkz()}
-                    <div className="tempComingSoon">COMING SOON</div>
+                    <div className="tempComingSoon">POPULATES AS PACKS OPEN</div>
                 </div>
             </div>
 		)

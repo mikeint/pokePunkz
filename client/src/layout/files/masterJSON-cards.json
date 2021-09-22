@@ -160,30 +160,30 @@
         ]
     },
     {
-        "description": "A wild Squirtle has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/0d0a51bc-681c-4454-8a02-e5b81fdf8cda.gif",
-        "image": "https://pokepunkz.io/NFTimages/0d0a51bc-681c-4454-8a02-e5b81fdf8cda.gif",
+        "description": "A wild Magikarp has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/da921cab-6dd3-4ca2-8bff-87f0a888dee8.png",
+        "image": "https://pokepunkz.io/NFTimages/da921cab-6dd3-4ca2-8bff-87f0a888dee8.png",
         "name": "PokePunk #6",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "SQUIRTLE"
+                "value": "MAGIKARP"
             },
             {
                 "trait_type": "HP",
-                "value": "275"
+                "value": "294"
             },
             {
                 "trait_type": "ATT",
-                "value": "214"
+                "value": "304"
             },
             {
                 "trait_type": "DEF",
-                "value": "293"
+                "value": "208"
             },
             {
                 "trait_type": "SPE",
-                "value": "268"
+                "value": "339"
             },
             {
                 "trait_type": "EDITION",
@@ -352,30 +352,30 @@
         ]
     },
     {
-        "description": "A wild Weepingbell has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/f73595a5-bb5e-42f8-aa59-0c669841f7d1.png",
-        "image": "https://pokepunkz.io/NFTimages/f73595a5-bb5e-42f8-aa59-0c669841f7d1.png",
+        "description": "A wild Ash has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/2ade78ba-d1fb-41e1-aa76-b666149a8845.png",
+        "image": "https://pokepunkz.io/NFTimages/2ade78ba-d1fb-41e1-aa76-b666149a8845.png",
         "name": "PokePunk #12",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "WEEPINGBELL"
+                "value": "ASH"
             },
             {
                 "trait_type": "HP",
-                "value": "333"
+                "value": "307"
             },
             {
                 "trait_type": "ATT",
-                "value": "290"
+                "value": "219"
             },
             {
                 "trait_type": "DEF",
-                "value": "299"
+                "value": "315"
             },
             {
                 "trait_type": "SPE",
-                "value": "313"
+                "value": "262"
             },
             {
                 "trait_type": "EDITION",
@@ -416,30 +416,30 @@
         ]
     },
     {
-        "description": "A wild Magikarp has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/da921cab-6dd3-4ca2-8bff-87f0a888dee8.png",
-        "image": "https://pokepunkz.io/NFTimages/da921cab-6dd3-4ca2-8bff-87f0a888dee8.png",
+        "description": "A wild Squirtle has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/0d0a51bc-681c-4454-8a02-e5b81fdf8cda.gif",
+        "image": "https://pokepunkz.io/NFTimages/0d0a51bc-681c-4454-8a02-e5b81fdf8cda.gif",
         "name": "PokePunk #14",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "MAGIKARP"
+                "value": "SQUIRTLE"
             },
             {
                 "trait_type": "HP",
-                "value": "294"
+                "value": "275"
             },
             {
                 "trait_type": "ATT",
-                "value": "304"
+                "value": "214"
             },
             {
                 "trait_type": "DEF",
-                "value": "208"
+                "value": "293"
             },
             {
                 "trait_type": "SPE",
-                "value": "339"
+                "value": "268"
             },
             {
                 "trait_type": "EDITION",
@@ -512,42 +512,10 @@
         ]
     },
     {
-        "description": "A Rocket hat has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/abc04bb3-f5fb-4047-a94c-857f0163c854.png",
-        "image": "https://pokepunkz.io/NFTimages/abc04bb3-f5fb-4047-a94c-857f0163c854.png",
-        "name": "PokePunk #17",
-        "attributes": [
-            {
-                "trait_type": "HAT",
-                "value": "ROCKET"
-            },
-            {
-                "trait_type": "HP",
-                "value": "350"
-            },
-            {
-                "trait_type": "ATT",
-                "value": "299"
-            },
-            {
-                "trait_type": "DEF",
-                "value": "214"
-            },
-            {
-                "trait_type": "SPE",
-                "value": "282"
-            },
-            {
-                "trait_type": "EDITION",
-                "value": "1st"
-            }
-        ]
-    },
-    {
         "description": "A wild Jigglypuff has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/a48490be-2ddf-4590-a653-1fca9b1717e9.png",
         "image": "https://pokepunkz.io/NFTimages/a48490be-2ddf-4590-a653-1fca9b1717e9.png",
-        "name": "PokePunk #18",
+        "name": "PokePunk #17",
         "attributes": [
             {
                 "trait_type": "HAT",
@@ -568,6 +536,38 @@
             {
                 "trait_type": "SPE",
                 "value": "229"
+            },
+            {
+                "trait_type": "EDITION",
+                "value": "1st"
+            }
+        ]
+    },
+    {
+        "description": "A Rocket hat has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/abc04bb3-f5fb-4047-a94c-857f0163c854.png",
+        "image": "https://pokepunkz.io/NFTimages/abc04bb3-f5fb-4047-a94c-857f0163c854.png",
+        "name": "PokePunk #18",
+        "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "ROCKET"
+            },
+            {
+                "trait_type": "HP",
+                "value": "350"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "299"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "214"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "282"
             },
             {
                 "trait_type": "EDITION",
@@ -6336,30 +6336,30 @@
         ]
     },
     {
-        "description": "A wild Ash has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/2ade78ba-d1fb-41e1-aa76-b666149a8845.png",
-        "image": "https://pokepunkz.io/NFTimages/2ade78ba-d1fb-41e1-aa76-b666149a8845.png",
+        "description": "A wild Weepingbell has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/f73595a5-bb5e-42f8-aa59-0c669841f7d1.png",
+        "image": "https://pokepunkz.io/NFTimages/f73595a5-bb5e-42f8-aa59-0c669841f7d1.png",
         "name": "PokePunk #199",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "ASH"
+                "value": "WEEPINGBELL"
             },
             {
                 "trait_type": "HP",
-                "value": "307"
+                "value": "333"
             },
             {
                 "trait_type": "ATT",
-                "value": "219"
+                "value": "290"
             },
             {
                 "trait_type": "DEF",
-                "value": "315"
+                "value": "299"
             },
             {
                 "trait_type": "SPE",
-                "value": "262"
+                "value": "313"
             },
             {
                 "trait_type": "EDITION",
