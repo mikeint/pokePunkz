@@ -113,6 +113,7 @@
     }
     &.mainButton {
         max-width: 300px;
+        padding: 3px;
     }
 }
 .pokeball {
@@ -206,6 +207,11 @@
 @media only screen and (max-width:1024px){ 
     .option.mainButton {
         max-width: 100%;
+        padding: 3px;
+    }
+    .pokeball {
+        height: 37px;
+        width: 37px;
     }
 }
 
