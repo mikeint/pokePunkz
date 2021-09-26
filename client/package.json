@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "node updateJSON.js && aws s3 sync build/ s3://pokepunkz.io --acl public-read && aws s3 sync metadata s3://pokepunkz.io/metadata --acl public-read --content-type application/json",
+    "deploy": "node updateJSON.js && aws s3 sync build/ s3://pokepunkz.io --acl public-read && aws s3 sync data s3://pokepunkz.io/data --acl public-read --content-type application/json",
     "cc": "aws cloudfront create-invalidation --distribution-id E26KPMQGQFJ783 --paths '/*'",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

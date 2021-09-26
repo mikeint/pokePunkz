@@ -1,10 +1,30 @@
 [
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #1",
+        "description": "A wild Bulbasaur has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png",
+        "image": "https://pokepunkz.io/NFTimages/40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png",
+        "name": "PokePunk #1",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "BULBASAUR"
+            },
+            {
+                "trait_type": "HP",
+                "value": "333"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "288"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "284"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "332"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -12,11 +32,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/2.png",
-        "name": "PokePack #2",
+        "description": "A wild Ash has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/cdf72f7b-650c-4110-b6c2-a72b142d75e5.png",
+        "image": "https://pokepunkz.io/NFTimages/cdf72f7b-650c-4110-b6c2-a72b142d75e5.png",
+        "name": "PokePunk #2",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "ASH"
+            },
+            {
+                "trait_type": "HP",
+                "value": "189"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "237"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "221"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "280"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -24,11 +64,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/3.png",
-        "name": "PokePack #3",
+        "description": "A wild Magnemite has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/f78b029f-91fb-4762-adb8-c0fdf735b7d2.png",
+        "image": "https://pokepunkz.io/NFTimages/f78b029f-91fb-4762-adb8-c0fdf735b7d2.png",
+        "name": "PokePunk #3",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "MAGNEMITE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "227"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "349"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "319"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "278"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -68,11 +128,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/2.png",
-        "name": "PokePack #5",
+        "description": "A wild Eevee has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/f624cb3f-23db-4740-bf25-e42c58e9933c.png",
+        "image": "https://pokepunkz.io/NFTimages/f624cb3f-23db-4740-bf25-e42c58e9933c.png",
+        "name": "PokePunk #5",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "EEVEE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "220"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "282"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "323"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "289"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -112,11 +192,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #7",
+        "description": "A wild Koffing has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/0bfc46cf-4e1f-4d5a-ae87-bdffbb11ff36.png",
+        "image": "https://pokepunkz.io/NFTimages/0bfc46cf-4e1f-4d5a-ae87-bdffbb11ff36.png",
+        "name": "PokePunk #7",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "KOFFING"
+            },
+            {
+                "trait_type": "HP",
+                "value": "250"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "266"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "266"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "158"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -136,11 +236,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/3.png",
-        "name": "PokePack #9",
+        "description": "A wild Rattata has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/02c10da3-b147-4558-8d95-2625163ab295.png",
+        "image": "https://pokepunkz.io/NFTimages/02c10da3-b147-4558-8d95-2625163ab295.png",
+        "name": "PokePunk #9",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "RATTATA"
+            },
+            {
+                "trait_type": "HP",
+                "value": "161"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "354"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "195"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "313"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -192,11 +312,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/3.png",
-        "name": "PokePack #12",
+        "description": "A wild Ash has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/2ade78ba-d1fb-41e1-aa76-b666149a8845.png",
+        "image": "https://pokepunkz.io/NFTimages/2ade78ba-d1fb-41e1-aa76-b666149a8845.png",
+        "name": "PokePunk #12",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "ASH"
+            },
+            {
+                "trait_type": "HP",
+                "value": "307"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "219"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "315"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "262"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -300,11 +440,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #16",
+        "description": "A wild Tentacool has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/965bce98-0cf8-46b3-a8e7-a436b1d152cb.png",
+        "image": "https://pokepunkz.io/NFTimages/965bce98-0cf8-46b3-a8e7-a436b1d152cb.png",
+        "name": "PokePunk #16",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "TENTACOOL"
+            },
+            {
+                "trait_type": "HP",
+                "value": "192"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "240"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "316"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "298"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -312,11 +472,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/2.png",
-        "name": "PokePack #17",
+        "description": "A wild Weepingbell has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/6023f0ce-8ef1-41c1-8fab-0f768986a20e.png",
+        "image": "https://pokepunkz.io/NFTimages/6023f0ce-8ef1-41c1-8fab-0f768986a20e.png",
+        "name": "PokePunk #17",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "WEEPINGBELL"
+            },
+            {
+                "trait_type": "HP",
+                "value": "333"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "280"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "355"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "253"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -356,11 +536,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #19",
+        "description": "A wild Geodude has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/907f3569-242e-4d43-894c-d80d716dbbc8.png",
+        "image": "https://pokepunkz.io/NFTimages/907f3569-242e-4d43-894c-d80d716dbbc8.png",
+        "name": "PokePunk #19",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "GEODUDE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "239"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "319"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "344"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "220"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -368,11 +568,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/2.png",
-        "name": "PokePack #20",
+        "description": "A wild Bellsprout has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/47dce469-832c-45bb-96a2-2fa4c44c7894.png",
+        "image": "https://pokepunkz.io/NFTimages/47dce469-832c-45bb-96a2-2fa4c44c7894.png",
+        "name": "PokePunk #20",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "BELLSPROUT"
+            },
+            {
+                "trait_type": "HP",
+                "value": "274"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "309"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "233"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "262"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -380,11 +600,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/3.png",
-        "name": "PokePack #21",
+        "description": "A wild Charmander has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/657bc428-8b41-48ed-9984-9e0059917c6b.png",
+        "image": "https://pokepunkz.io/NFTimages/657bc428-8b41-48ed-9984-9e0059917c6b.png",
+        "name": "PokePunk #21",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "CHARMANDER"
+            },
+            {
+                "trait_type": "HP",
+                "value": "196"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "295"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "272"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "266"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -392,11 +632,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #22",
+        "description": "A wild Ditto has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/91d86c76-914a-4772-a95d-be84f11e6630.png",
+        "image": "https://pokepunkz.io/NFTimages/91d86c76-914a-4772-a95d-be84f11e6630.png",
+        "name": "PokePunk #22",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "DITTO"
+            },
+            {
+                "trait_type": "HP",
+                "value": "214"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "222"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "280"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "328"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -404,11 +664,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/2.png",
-        "name": "PokePack #23",
+        "description": "A wild Bulbasaur has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/37b27131-639a-497a-b7a4-8a4687e3b5e8.png",
+        "image": "https://pokepunkz.io/NFTimages/37b27131-639a-497a-b7a4-8a4687e3b5e8.png",
+        "name": "PokePunk #23",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "BULBASAUR"
+            },
+            {
+                "trait_type": "HP",
+                "value": "209"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "247"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "327"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "326"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -416,11 +696,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/3.png",
-        "name": "PokePack #24",
+        "description": "A wild Dratini has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/f9b09dfd-c217-4227-b65a-de3f986c9611.png",
+        "image": "https://pokepunkz.io/NFTimages/f9b09dfd-c217-4227-b65a-de3f986c9611.png",
+        "name": "PokePunk #24",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "DRATINI"
+            },
+            {
+                "trait_type": "HP",
+                "value": "199"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "330"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "330"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "272"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -428,11 +728,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #25",
+        "description": "A wild Abra has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/d2fec9b8-ca07-4969-b35e-3758201de1f9.png",
+        "image": "https://pokepunkz.io/NFTimages/d2fec9b8-ca07-4969-b35e-3758201de1f9.png",
+        "name": "PokePunk #25",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "ABRA"
+            },
+            {
+                "trait_type": "HP",
+                "value": "190"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "325"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "299"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "335"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"

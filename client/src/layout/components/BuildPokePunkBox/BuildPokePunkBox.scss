@@ -22,20 +22,24 @@
         padding: 10px;
         .stat {
             color: #fff; 
-            margin-bottom: 3px; 
+            margin-bottom: 3px;
+            font-size: 13px;
+            height: 25px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center; 
         }
         .statName {
             margin-bottom: 40px;
             font-weight: bold;
-            font-size: 15px;
+            font-size: 17px;
         }
         .statBars { 
             border-top-right-radius: 3px;
             border-bottom-right-radius: 3px;
             font-size: 13px;
-            height: 17px;
-            text-align: right;
-            padding-top: 2px;
+            height: 25px;
+            text-align: right; 
         }
     } 
     .firstEdImg {
@@ -75,9 +79,24 @@
 
 
 
+@media only screen and (max-width:1524px) {
+    .pokePunkStatContainer {
+        width: 25%;
+    }
+}
 @media only screen and (max-width:1324px) {
     .pokePunkStatContainer {
         width: 33.33%;
+    }
+}
+@media only screen and (max-width:1024px) {
+    .pokePunkStatContainer {
+        width: 25%;
+        .statContainer {
+            .statName {
+                margin-bottom: 20px;
+            }
+        }
     }
 }
 @media only screen and (max-width:736px) {
