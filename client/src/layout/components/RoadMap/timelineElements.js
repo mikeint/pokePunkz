@@ -14,7 +14,7 @@ let timelineElements = [{
 		location: "Opensea",
 		buttonText: "Buy on Opensea",
 		url: "https://opensea.io/collection/pokepunkz",
-		description: "PokePunkz CARD PACKS will be available for purchase at 0.05ETH each. Packs will be dropped in increments ",
+		description: "PokePunkz CARD PACKS will be available for purchase at 0.05ETH each. Packs will be dropped in increments of 25-100.",
 		date: "",
 		icon: "ball"
 	},
