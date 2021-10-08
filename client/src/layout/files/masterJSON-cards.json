@@ -800,30 +800,30 @@
         ]
     },
     {
-        "description": "A wild Koffing has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/ce324628-8fe1-4649-9e9b-c55cf6039a5f.png",
-        "image": "https://pokepunkz.io/NFTimages/ce324628-8fe1-4649-9e9b-c55cf6039a5f.png",
+        "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/669eb6e4-c4fd-4edc-92cd-3ad6a30bcc70.png",
+        "image": "https://pokepunkz.io/NFTimages/669eb6e4-c4fd-4edc-92cd-3ad6a30bcc70.png",
         "name": "PokePunk #26",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "KOFFING"
+                "value": "SLOWPOKE"
             },
             {
                 "trait_type": "HP",
-                "value": "308"
+                "value": "381"
             },
             {
                 "trait_type": "ATT",
-                "value": "310"
+                "value": "316"
             },
             {
                 "trait_type": "DEF",
-                "value": "334"
+                "value": "256"
             },
             {
                 "trait_type": "SPE",
-                "value": "237"
+                "value": "174"
             },
             {
                 "trait_type": "EDITION",
@@ -2401,8 +2401,8 @@
     },
     {
         "description": "An Ash Hat has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.gif",
-        "image": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.gif",
+        "external_url": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
+        "image": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
         "name": "PokePunk #76",
         "attributes": [
             {
@@ -4128,30 +4128,30 @@
         ]
     },
     {
-        "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/669eb6e4-c4fd-4edc-92cd-3ad6a30bcc70.png",
-        "image": "https://pokepunkz.io/NFTimages/669eb6e4-c4fd-4edc-92cd-3ad6a30bcc70.png",
+        "description": "A wild Koffing has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/ce324628-8fe1-4649-9e9b-c55cf6039a5f.png",
+        "image": "https://pokepunkz.io/NFTimages/ce324628-8fe1-4649-9e9b-c55cf6039a5f.png",
         "name": "PokePunk #130",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "SLOWPOKE"
+                "value": "KOFFING"
             },
             {
                 "trait_type": "HP",
-                "value": "381"
+                "value": "308"
             },
             {
                 "trait_type": "ATT",
-                "value": "316"
+                "value": "310"
             },
             {
                 "trait_type": "DEF",
-                "value": "256"
+                "value": "334"
             },
             {
                 "trait_type": "SPE",
-                "value": "174"
+                "value": "237"
             },
             {
                 "trait_type": "EDITION",
