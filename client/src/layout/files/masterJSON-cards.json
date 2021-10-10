@@ -3936,30 +3936,30 @@
         ]
     },
     {
-        "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
+        "description": "A wild Nidoking has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/93ce0327-8256-4d14-8410-83a846fc96fe.png",
         "image": "https://pokepunkz.io/NFTimages/93ce0327-8256-4d14-8410-83a846fc96fe.png",
         "name": "PokePunk #124",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "SLOWPOKE"
+                "value": "NIDOKING"
             },
             {
                 "trait_type": "HP",
-                "value": "300"
+                "value": "291"
             },
             {
                 "trait_type": "ATT",
-                "value": "354"
+                "value": "323"
             },
             {
                 "trait_type": "DEF",
-                "value": "233"
+                "value": "275"
             },
             {
                 "trait_type": "SPE",
-                "value": "245"
+                "value": "350"
             },
             {
                 "trait_type": "EDITION",
@@ -7856,30 +7856,30 @@
         ]
     },
     {
-        "description": "A wild Charmander has attached itself onto a PokePunkz head",
+        "description": "A wild Nidoking has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/bc5740c2-3039-4d36-bf63-0034e98bd8a5.png",
         "image": "https://pokepunkz.io/NFTimages/bc5740c2-3039-4d36-bf63-0034e98bd8a5.png",
         "name": "PokePunk #253",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "CHARMANDER"
+                "value": "NIDOKING"
             },
             {
                 "trait_type": "HP",
-                "value": "310"
+                "value": "363"
             },
             {
                 "trait_type": "ATT",
-                "value": "284"
+                "value": "334"
             },
             {
                 "trait_type": "DEF",
-                "value": "270"
+                "value": "268"
             },
             {
                 "trait_type": "SPE",
-                "value": "303"
+                "value": "321"
             }
         ]
     },
