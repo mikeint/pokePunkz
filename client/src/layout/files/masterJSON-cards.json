@@ -239,7 +239,7 @@
             },
             {
                 "trait_type": "ATT",
-                "value": "249"
+                "value": "345"
             },
             {
                 "trait_type": "DEF",
@@ -247,7 +247,7 @@
             },
             {
                 "trait_type": "SPE",
-                "value": "265"
+                "value": "319"
             },
             {
                 "trait_type": "EDITION",
@@ -467,7 +467,7 @@
             },
             {
                 "trait_type": "DEF",
-                "value": "420"
+                "value": "395"
             },
             {
                 "trait_type": "SPE",
@@ -960,37 +960,37 @@
         ]
     },
     {
-        "description": "A wild Psyduck has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/1b8150f9-dc60-44ec-ac82-af1da3cc1871.png",
-        "image": "https://pokepunkz.io/NFTimages/1b8150f9-dc60-44ec-ac82-af1da3cc1871.png",
+        "description": "A wild Rattata has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/c57a1983-2406-4a5c-8811-d076414eb4bc.png",
+        "image": "https://pokepunkz.io/NFTimages/c57a1983-2406-4a5c-8811-d076414eb4bc.png",
         "name": "PokePunk #31",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "PSYDUCK"
+                "value": "RATTATA"
             },
             {
                 "trait_type": "HP",
-                "value": "241"
+                "value": "200"
             },
             {
                 "trait_type": "ATT",
-                "value": "240"
+                "value": "354"
             },
             {
                 "trait_type": "DEF",
-                "value": "269"
+                "value": "277"
             },
             {
                 "trait_type": "SPE",
-                "value": "330"
+                "value": "362"
             },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
             }
         ]
-    },    
+    },
     {
         "description": "A wild Poliwag has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/1fefdf45-5b8c-4478-83c1-639b1749b636.gif",
@@ -1024,37 +1024,37 @@
         ]
     },
     {
-        "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/692e1a1d-e0f4-4de8-ad66-697ba235e3de.png",
-        "image": "https://pokepunkz.io/NFTimages/692e1a1d-e0f4-4de8-ad66-697ba235e3de.png",
+        "description": "A wild Psyduck has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/1b8150f9-dc60-44ec-ac82-af1da3cc1871.png",
+        "image": "https://pokepunkz.io/NFTimages/1b8150f9-dc60-44ec-ac82-af1da3cc1871.png",
         "name": "PokePunk #33",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "EXEGGCUTE"
+                "value": "PSYDUCK"
             },
             {
                 "trait_type": "HP",
-                "value": "294"
+                "value": "241"
             },
             {
                 "trait_type": "ATT",
-                "value": "264"
+                "value": "240"
             },
             {
                 "trait_type": "DEF",
-                "value": "280"
+                "value": "269"
             },
             {
                 "trait_type": "SPE",
-                "value": "225"
+                "value": "330"
             },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
             }
         ]
-    },
+    },    
     {
         "description": "A wild Poliwag has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/0f0e6f5e-7576-4eae-8e2b-3ff36c5b7e93.png",
@@ -1248,30 +1248,30 @@
         ]
     },    
     {
-        "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/c6580cd3-485e-4b70-9a7a-e31627ab50e7.png",
-        "image": "https://pokepunkz.io/NFTimages/c6580cd3-485e-4b70-9a7a-e31627ab50e7.png",
+        "description": "An Ash Hat has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
+        "image": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
         "name": "PokePunk #40",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "SLOWPOKE"
+                "value": "ASH"
             },
             {
                 "trait_type": "HP",
-                "value": "348"
+                "value": "250"
             },
             {
                 "trait_type": "ATT",
-                "value": "277"
+                "value": "318"
             },
             {
                 "trait_type": "DEF",
-                "value": "364"
+                "value": "346"
             },
             {
                 "trait_type": "SPE",
-                "value": "166"
+                "value": "231"
             },
             {
                 "trait_type": "EDITION",
@@ -1438,32 +1438,32 @@
                 "value": "1st"
             }
         ]
-    },    
+    },
     {
-        "description": "A wild Ash has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/93ae6897-c33f-418f-87a9-9dbf78729f84.png",
-        "image": "https://pokepunkz.io/NFTimages/93ae6897-c33f-418f-87a9-9dbf78729f84.png",
+        "description": "A wild Electrode has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/f669a763-97f8-4bb5-9cba-8ad6f8860b9d.png",
+        "image": "https://pokepunkz.io/NFTimages/f669a763-97f8-4bb5-9cba-8ad6f8860b9d.png",
         "name": "PokePunk #46",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "ASH"
+                "value": "ELECTRODE"
             },
             {
                 "trait_type": "HP",
-                "value": "322"
+                "value": "360"
             },
             {
                 "trait_type": "ATT",
-                "value": "219"
+                "value": "280"
             },
             {
                 "trait_type": "DEF",
-                "value": "322"
+                "value": "275"
             },
             {
                 "trait_type": "SPE",
-                "value": "250"
+                "value": "340"
             },
             {
                 "trait_type": "EDITION",
@@ -2400,30 +2400,30 @@
         ]
     },
     {
-        "description": "An Ash Hat has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
-        "image": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
+        "description": "A wild Pikachu has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/7613d1b1-de83-49d7-89be-565582d8d55b.png",
+        "image": "https://pokepunkz.io/NFTimages/7613d1b1-de83-49d7-89be-565582d8d55b.png",
         "name": "PokePunk #76",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "ASH"
+                "value": "PIKACHU"
             },
             {
                 "trait_type": "HP",
-                "value": "250"
+                "value": "249"
             },
             {
                 "trait_type": "ATT",
-                "value": "318"
+                "value": "254"
             },
             {
                 "trait_type": "DEF",
-                "value": "346"
+                "value": "204"
             },
             {
                 "trait_type": "SPE",
-                "value": "231"
+                "value": "368"
             },
             {
                 "trait_type": "EDITION",
@@ -2816,30 +2816,30 @@
         ]
     },
     {
-        "description": "A wild Pikachu has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/7613d1b1-de83-49d7-89be-565582d8d55b.png",
-        "image": "https://pokepunkz.io/NFTimages/7613d1b1-de83-49d7-89be-565582d8d55b.png",
+        "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/c6580cd3-485e-4b70-9a7a-e31627ab50e7.png",
+        "image": "https://pokepunkz.io/NFTimages/c6580cd3-485e-4b70-9a7a-e31627ab50e7.png",
         "name": "PokePunk #89",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "PIKACHU"
+                "value": "SLOWPOKE"
             },
             {
                 "trait_type": "HP",
-                "value": "249"
+                "value": "348"
             },
             {
                 "trait_type": "ATT",
-                "value": "254"
+                "value": "277"
             },
             {
                 "trait_type": "DEF",
-                "value": "204"
+                "value": "364"
             },
             {
                 "trait_type": "SPE",
-                "value": "368"
+                "value": "166"
             },
             {
                 "trait_type": "EDITION",
@@ -3008,37 +3008,37 @@
         ]
     },
     {
-        "description": "A wild Electrode has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/f669a763-97f8-4bb5-9cba-8ad6f8860b9d.png",
-        "image": "https://pokepunkz.io/NFTimages/f669a763-97f8-4bb5-9cba-8ad6f8860b9d.png",
+        "description": "A wild Ash has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/93ae6897-c33f-418f-87a9-9dbf78729f84.png",
+        "image": "https://pokepunkz.io/NFTimages/93ae6897-c33f-418f-87a9-9dbf78729f84.png",
         "name": "PokePunk #95",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "ELECTRODE"
+                "value": "ASH"
             },
             {
                 "trait_type": "HP",
-                "value": "360"
+                "value": "322"
             },
             {
                 "trait_type": "ATT",
-                "value": "280"
+                "value": "219"
             },
             {
                 "trait_type": "DEF",
-                "value": "275"
+                "value": "322"
             },
             {
                 "trait_type": "SPE",
-                "value": "340"
+                "value": "250"
             },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
             }
         ]
-    },
+    }, 
     {
         "description": "A wild Bellsprout has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/47c0f2aa-e3f3-4448-9f99-9f544491fd19.png",
@@ -4928,30 +4928,30 @@
         ]
     },
     {
-        "description": "A wild Rattata has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/c57a1983-2406-4a5c-8811-d076414eb4bc.png",
-        "image": "https://pokepunkz.io/NFTimages/c57a1983-2406-4a5c-8811-d076414eb4bc.png",
+        "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/692e1a1d-e0f4-4de8-ad66-697ba235e3de.png",
+        "image": "https://pokepunkz.io/NFTimages/692e1a1d-e0f4-4de8-ad66-697ba235e3de.png",
         "name": "PokePunk #155",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "RATTATA"
+                "value": "EXEGGCUTE"
             },
             {
                 "trait_type": "HP",
-                "value": "200"
+                "value": "294"
             },
             {
                 "trait_type": "ATT",
-                "value": "354"
+                "value": "264"
             },
             {
                 "trait_type": "DEF",
-                "value": "277"
+                "value": "280"
             },
             {
                 "trait_type": "SPE",
-                "value": "362"
+                "value": "225"
             },
             {
                 "trait_type": "EDITION",

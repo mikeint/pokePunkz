@@ -162,7 +162,7 @@ class PokePunkz extends Component {
                     <span className="moreToCome">MORE TO COME</span>
                 </div>
 
-                <div className="filterResultsContainer">  
+                <div className="filterResultsContainer scrollBar">  
                    {this.showPokePunkz()}
                     <div className="tempComingSoon">POPULATES AS PACKS OPEN</div>
                 </div>

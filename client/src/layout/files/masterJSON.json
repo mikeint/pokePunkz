@@ -239,7 +239,7 @@
             },
             {
                 "trait_type": "ATT",
-                "value": "399"
+                "value": "345"
             },
             {
                 "trait_type": "DEF",
@@ -247,7 +247,7 @@
             },
             {
                 "trait_type": "SPE",
-                "value": "265"
+                "value": "319"
             },
             {
                 "trait_type": "EDITION",
@@ -467,7 +467,7 @@
             },
             {
                 "trait_type": "DEF",
-                "value": "420"
+                "value": "395"
             },
             {
                 "trait_type": "SPE",
@@ -940,11 +940,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #31",
+        "description": "A wild Rattata has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/c57a1983-2406-4a5c-8811-d076414eb4bc.png",
+        "image": "https://pokepunkz.io/NFTimages/c57a1983-2406-4a5c-8811-d076414eb4bc.png",
+        "name": "PokePunk #31",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "RATTATA"
+            },
+            {
+                "trait_type": "HP",
+                "value": "200"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "354"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "277"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "362"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -1168,11 +1188,31 @@
         ]
     },    
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #40",
+        "description": "An Ash Hat has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
+        "image": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
+        "name": "PokePunk #40",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "ASH"
+            },
+            {
+                "trait_type": "HP",
+                "value": "250"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "318"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "346"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "231"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -1260,11 +1300,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #46",
+        "description": "A wild Electrode has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/f669a763-97f8-4bb5-9cba-8ad6f8860b9d.png",
+        "image": "https://pokepunkz.io/NFTimages/f669a763-97f8-4bb5-9cba-8ad6f8860b9d.png",
+        "name": "PokePunk #46",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "ELECTRODE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "360"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "280"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "275"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "340"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"

@@ -8,7 +8,7 @@ import twitter from '../../files/images/socialImages/twitter.png'
 const Socials = () => 
     <div className="socialsContainer">
 
-        <a href="https://discord.gg/FJ8wr8vB8z" target="_blank" rel="noreferrer">
+        <a href="https://discord.gg/kEy6uB6C3H" target="_blank" rel="noreferrer">
             <button type="submit" name="submit" className="socialBtn">
                 <div className="hover">
                     <span></span>
