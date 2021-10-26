@@ -1016,11 +1016,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #34",
+        "description": "A wild Poliwag has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/0f0e6f5e-7576-4eae-8e2b-3ff36c5b7e93.png",
+        "image": "https://pokepunkz.io/NFTimages/0f0e6f5e-7576-4eae-8e2b-3ff36c5b7e93.png",
+        "name": "PokePunk #34",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "POLIWAG"
+            },
+            {
+                "trait_type": "HP",
+                "value": "285"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "315"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "301"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "319"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -1122,7 +1142,7 @@
                 "value": "1st"
             }
         ]
-    },  
+    },
     {
         "description": "A wild Diglett has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/693c3b4b-2982-47d2-b182-9c6b034d35a8.png",
@@ -1186,7 +1206,7 @@
                 "value": "1st"
             }
         ]
-    },    
+    },
     {
         "description": "An Ash Hat has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
@@ -1288,11 +1308,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/3.png",
-        "name": "PokePack #45",
+        "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/7685c8eb-b276-44b0-b1ec-a5ebc9366f83.gif",
+        "image": "https://pokepunkz.io/NFTimages/7685c8eb-b276-44b0-b1ec-a5ebc9366f83.gif",
+        "name": "PokePunk #45",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "EXEGGCUTE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "338"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "268"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "311"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "222"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -5656,115 +5696,115 @@
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #603"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #604"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #605"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #606"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #607"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #608"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #609"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #610"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #611"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #612"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #613"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #614"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #615"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #616"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #617"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #618"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #619"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #620"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #621"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
@@ -5776,169 +5816,169 @@
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #623"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #624"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #625"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #626"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #627"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #628"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #629"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #630"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #631"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #632"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #633"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #634"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #635"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #636"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #637"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #638"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #639"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #640"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #641"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #642"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #643"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #644"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #645"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #646"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #647"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/3.png",
         "name": "PokePack #648"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/1.png",
         "name": "PokePack #649"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
         "image": "https://pokepunkz.io/packs/2.png",
         "name": "PokePack #650"
-    } ,
+    },
     {
         "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
         "external_url": "https://pokepunkz.io/pokepunkz/",
