@@ -1,0 +1,78 @@
+.coinFlipContainer {
+    overflow: hidden;
+    #coinContainer {
+        position: relative;
+        #coin {
+            position: relative;
+            width: 15rem;
+            height: 15rem;
+            margin: 2rem 0rem;
+            transform-style: preserve-3d;
+            div {
+                width: 100%;
+                height: 100%; 
+                background-size: contain;
+                position: absolute;
+            }
+        } 
+    }
+
+    .moveCoin {
+        animation-duration: 3s;
+        animation-name: moveCoin;
+    }
+    @keyframes moveCoin {
+        0% {left: 0px;}
+        50% {left: 900px;}
+        100% {left: 0px;}
+    } 
+
+    .inFlip {
+        pointer-events:none;
+    } 
+
+    /* HEADS */
+    .heads {
+        background-image: url("../../files/images/examples/coin_gold_gengar.gif");
+    }
+    .animate-heads {
+        animation: flipHeads 3s;
+        animation-fill-mode: forwards;
+    }
+    @keyframes flipHeads {
+        from {transform: rotateX(0deg);}
+        to {transform: rotateX(1800deg);}
+    }
+ 
+
+    /* TAILS */
+    .tails {
+        background-image: url("../../files/images/examples/coin_gold.png");
+        transform: rotateX(-180deg);
+    }
+    .animate-tails {
+        animation: flipTails 3s;
+        animation-fill-mode: forwards;
+    }
+    @keyframes flipTails {
+        from {transform: rotateX(0deg);}
+        to {transform: rotateX(1620deg);}
+    }
+}
+
+
+.flipBtn {
+    margin: 0;
+}
+
+@media only screen and (max-width:736px) {
+    .coinFlipContainer {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .moveCoin {
+            animation: none;
+        }
+    }
+}

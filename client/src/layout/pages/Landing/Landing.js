@@ -12,6 +12,7 @@ import WhyBuy from "../../components/WhyBuy/WhyBuy"
 import RoadMap from "../../components/RoadMap/RoadMap"
 import Team from "../../components/Team/Team"
 import PokePunkzBox from '../../components/PokePunkzBox/PokePunkzBox' 
+import CoinFlip from '../../components/CoinFlip/CoinFlip' 
 import AOS from 'aos'
 import 'aos/dist/aos.css' 
 AOS.init();
@@ -28,6 +29,7 @@ class Landing extends Component {
                     <Bio />
                     <PokePunkzBox />
                     <Specs />
+                    <CoinFlip />
                     <OpenSeaBox />
                     <WhyBuy />
                     <RoadMap />
