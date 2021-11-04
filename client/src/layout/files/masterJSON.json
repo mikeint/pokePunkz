@@ -896,17 +896,37 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/2.png",
-        "name": "PokePack #29",
+        "description": "A wild Cubone has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/c2f7ca57-bcb8-454c-b428-4a42b223c141.gif",
+        "image": "https://pokepunkz.io/NFTimages/c2f7ca57-bcb8-454c-b428-4a42b223c141.gif",
+        "name": "PokePunk #29",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "CUBONE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "343"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "245"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "376"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "300"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
             }
         ]
-    },
+    }, 
     {
         "description": "A wild Tentacool has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/6f35a7c6-f64f-419d-82f4-a92cdfe82620.png",
@@ -1264,11 +1284,31 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #43",
+        "description": "A wild Magnemite has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/d7eb4074-2129-4871-a43d-b73635b04f37.png",
+        "image": "https://pokepunkz.io/NFTimages/d7eb4074-2129-4871-a43d-b73635b04f37.png",
+        "name": "PokePunk #43",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "MAGNEMITE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "179"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "300"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "233"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "321"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -1436,17 +1476,37 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/1.png",
-        "name": "PokePack #49",
+        "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/c6580cd3-485e-4b70-9a7a-e31627ab50e7.png",
+        "image": "https://pokepunkz.io/NFTimages/c6580cd3-485e-4b70-9a7a-e31627ab50e7.png",
+        "name": "PokePunk #49",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "SLOWPOKE"
+            },
+            {
+                "trait_type": "HP",
+                "value": "348"
+            },
+            {
+                "trait_type": "ATT",
+                "value": "277"
+            },
+            {
+                "trait_type": "DEF",
+                "value": "364"
+            },
+            {
+                "trait_type": "SPE",
+                "value": "166"
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
             }
         ]
-    },
+    }, 
     {
         "description": "A wild Charmander has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/b01901e1-3468-454e-b8f1-016b8d04f66a.gif",
