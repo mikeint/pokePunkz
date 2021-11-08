@@ -358,7 +358,7 @@
                 "value": "1st"
             }
         ]
-    },    
+    },
     {
         "description": "A wild Squirtle has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/cd13d4eb-4c4d-463e-8de3-5b8af2689752.png",
@@ -1042,7 +1042,7 @@
                 "value": "1st"
             }
         ]
-    },  
+    },
     {
         "description": "A wild Tentacool has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/6f35a7c6-f64f-419d-82f4-a92cdfe82620.png",
@@ -1186,7 +1186,7 @@
                 "value": "1st"
             }
         ]
-    },    
+    },
     {
         "description": "A wild Poliwag has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/0f0e6f5e-7576-4eae-8e2b-3ff36c5b7e93.png",
@@ -1330,7 +1330,7 @@
                 "value": "1st"
             }
         ]
-    },  
+    },
     {
         "description": "A wild Diglett has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/693c3b4b-2982-47d2-b182-9c6b034d35a8.png",
@@ -1402,7 +1402,7 @@
                 "value": "1st"
             }
         ]
-    },    
+    },
     {
         "description": "An Ash Hat has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/fd4fd087-5ff2-407a-88cf-cbdbbadd8910.png",
@@ -1474,36 +1474,36 @@
                 "value": "1st"
             }
         ]
-    },  
+    },
     {
-        "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/cbdc75bb-0c15-4ff0-81ae-25eb8d3d529b.png",
-        "image": "https://pokepunkz.io/NFTimages/cbdc75bb-0c15-4ff0-81ae-25eb8d3d529b.png",
+        "description": "A wild Snorlax has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/df88205a-f199-435c-8001-eca1b671c94c.gif",
+        "image": "https://pokepunkz.io/NFTimages/df88205a-f199-435c-8001-eca1b671c94c.gif",
         "name": "PokePunk #42",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "EXEGGCUTE"
+                "value": "SNORLAX"
             },
             {
                 "trait_type": "HP",
-                "max_value": 360,
-                "value": 338
+                "max_value": 460,
+                "value": 422
             },
             {
                 "trait_type": "ATT",
-                "max_value": 345,
-                "value": 247
+                "max_value": 410,
+                "value": 391
             },
             {
                 "trait_type": "DEF",
-                "max_value": 365,
-                "value": 250
+                "max_value": 345,
+                "value": 204
             },
             {
                 "trait_type": "SPE",
-                "max_value": 340,
-                "value": 272
+                "max_value": 330,
+                "value": 195
             },
             {
                 "trait_type": "EDITION",
@@ -1762,7 +1762,7 @@
                 "value": "1st"
             }
         ]
-    },  
+    },
     {
         "description": "A wild Charmander has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/b01901e1-3468-454e-b8f1-016b8d04f66a.gif",
@@ -3418,7 +3418,7 @@
                 "value": "1st"
             }
         ]
-    }, 
+    },
     {
         "description": "A wild Bellsprout has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/47c0f2aa-e3f3-4448-9f99-9f544491fd19.png",
@@ -3888,34 +3888,34 @@
         ]
     },
     {
-        "description": "A wild Snorlax has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/df88205a-f199-435c-8001-eca1b671c94c.gif",
-        "image": "https://pokepunkz.io/NFTimages/df88205a-f199-435c-8001-eca1b671c94c.gif",
+        "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/cbdc75bb-0c15-4ff0-81ae-25eb8d3d529b.png",
+        "image": "https://pokepunkz.io/NFTimages/cbdc75bb-0c15-4ff0-81ae-25eb8d3d529b.png",
         "name": "PokePunk #109",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "SNORLAX"
+                "value": "EXEGGCUTE"
             },
             {
                 "trait_type": "HP",
-                "max_value": 460,
-                "value": 422
+                "max_value": 360,
+                "value": 338
             },
             {
                 "trait_type": "ATT",
-                "max_value": 410,
-                "value": 391
+                "max_value": 345,
+                "value": 247
             },
             {
                 "trait_type": "DEF",
-                "max_value": 345,
-                "value": 204
+                "max_value": 365,
+                "value": 250
             },
             {
                 "trait_type": "SPE",
-                "max_value": 330,
-                "value": 195
+                "max_value": 340,
+                "value": 272
             },
             {
                 "trait_type": "EDITION",
@@ -4858,7 +4858,7 @@
                 "value": "1st"
             }
         ]
-    },   
+    },
     {
         "description": "A wild Squirtle has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/1387b481-4be1-4a90-bd0c-708b658b824b.png",
@@ -5074,7 +5074,7 @@
                 "value": "1st"
             }
         ]
-    },  
+    },
     {
         "description": "A wild Magikarp has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9208d9ac-3242-442d-8229-173c4df3ed52.png",
@@ -6874,7 +6874,7 @@
                 "value": "1st"
             }
         ]
-    },    
+    },
     {
         "description": "An Ash Hat has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/1fca84aa-cc0c-4c17-b72e-7db3955a3548.png",
@@ -7018,7 +7018,7 @@
                 "value": "1st"
             }
         ]
-    },  
+    },
     {
         "description": "A wild Bulbasaur has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/80ca4a1c-b5ee-4d07-9c6d-08123081afeb.png",
@@ -11648,7 +11648,6 @@
         ]
     },
     {
-        
         "description": "A wild Magikarp has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/04dc9de1-c72d-44f6-87a5-2417be769d15.png",
         "image": "https://pokepunkz.io/NFTimages/04dc9de1-c72d-44f6-87a5-2417be769d15.png",
@@ -14642,15 +14641,18 @@
             },
             {
                 "trait_type": "ATT",
-                "value": "269"
+                "max_value": 365,
+                "value": 269
             },
             {
                 "trait_type": "DEF",
-                "value": "271"
+                "max_value": 365,
+                "value": 271
             },
             {
                 "trait_type": "SPE",
-                "value": "275"
+                "max_value": 315,
+                "value": 275
             }
         ]
     },
@@ -15124,7 +15126,6 @@
             },
             {
                 "trait_type": "DEF",
-
                 "max_value": 365,
                 "value": 288
             },
@@ -16021,7 +16022,7 @@
             },
             {
                 "trait_type": "DEF",
-                "max_value": 320,
+                "max_value": 420,
                 "value": 353
             },
             {
@@ -18325,11 +18326,13 @@
             },
             {
                 "trait_type": "DEF",
-                "value": "247"
+                "max_value": 365,
+                "value": 247
             },
             {
                 "trait_type": "SPE",
-                "value": "330"
+                "max_value": 420,
+                "value": 330
             }
         ]
     },
@@ -19337,19 +19340,23 @@
             },
             {
                 "trait_type": "HP",
-                "value": "260"
+                "max_value": 320,
+                "value": 260
             },
             {
                 "trait_type": "ATT",
-                "value": "272"
+                "max_value": 315,
+                "value": 272
             },
             {
                 "trait_type": "DEF",
-                "value": "289"
+                "max_value": 355,
+                "value": 289
             },
             {
                 "trait_type": "SPE",
-                "value": "324"
+                "max_value": 380,
+                "value": 324
             }
         ]
     },
@@ -23535,7 +23542,8 @@
             },
             {
                 "trait_type": "DEF",
-                "value": "335"
+                "max_value": 380,
+                "value": 335
             },
             {
                 "trait_type": "SPE",
@@ -24708,19 +24716,23 @@
             },
             {
                 "trait_type": "HP",
-                "value": "266"
+                "max_value": 350,
+                "value": 266
             },
             {
                 "trait_type": "ATT",
-                "value": "264"
+                "max_value": 350,
+                "value": 264
             },
             {
                 "trait_type": "DEF",
-                "value": "350"
+                "max_value": 395,
+                "value": 350
             },
             {
                 "trait_type": "SPE",
-                "value": "231"
+                "max_value": 335,
+                "value": 231
             }
         ]
     },
@@ -26387,7 +26399,7 @@
                 "value": 280
             }
         ]
-    } ,
+    },
     {
         "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/6d7fc741-16f0-476f-890a-d33bfe7675a3.gif",
@@ -26418,9 +26430,8 @@
                 "max_value": 340,
                 "value": 276
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Geodude has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/81843852-b0f6-4ad7-ac81-763c9a2019fe.gif",
@@ -26451,9 +26462,8 @@
                 "max_value": 320,
                 "value": 172
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Poliwag has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/a36da169-7a8e-4aae-85e0-1e91c8fcc408.gif",
@@ -26484,9 +26494,8 @@
                 "max_value": 390,
                 "value": 388
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Rocket has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/a724c77b-f7b8-4239-b99a-e0662712036a.gif",
@@ -26517,9 +26526,8 @@
                 "max_value": 350,
                 "value": 232
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Starmie has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/f14bd25e-235f-4f02-83b6-10df36881e4b.gif",
@@ -26550,9 +26558,8 @@
                 "max_value": 385,
                 "value": 348
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Dragonite has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/0c9c71c4-619f-4d0c-8879-cc2b61feec9d.gif",
@@ -26583,9 +26590,8 @@
                 "max_value": 380,
                 "value": 281
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Tentacool has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/1b4cf90a-b417-4bc6-a5a7-8ef297617341.gif",
@@ -26616,9 +26622,8 @@
                 "max_value": 370,
                 "value": 313
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Squirtle has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/8bbb0553-19bf-4716-8de7-f4146279f967.gif",
@@ -26649,9 +26654,8 @@
                 "max_value": 343,
                 "value": 243
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Rattata has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/8dae7a51-97af-4b39-af3c-1cf6c2ba4153.gif",
@@ -26682,9 +26686,8 @@
                 "max_value": 372,
                 "value": 371
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Ditto has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/49a5af19-d083-4998-8b08-f041203865d5.gif",
@@ -26715,9 +26718,8 @@
                 "max_value": 348,
                 "value": 207
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Porygon has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/62ea2803-fce8-4e63-8000-251b6a7da2cf.gif",
@@ -26748,9 +26750,8 @@
                 "max_value": 340,
                 "value": 201
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Psyduck has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/aa5b013f-206e-48f8-b89b-1bf9ebd6fd56.gif",
@@ -26781,9 +26782,8 @@
                 "max_value": 355,
                 "value": 285
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/f01c14d4-6f9f-40c4-bab3-b1857b6580ef.gif",
@@ -26814,9 +26814,8 @@
                 "max_value": 340,
                 "value": 275
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Diglett has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/fb423be2-ff2e-4dc8-8029-8e890c26d3ec.gif",
@@ -26847,9 +26846,8 @@
                 "max_value": 395,
                 "value": 321
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/0b0a8048-5d18-44ec-9ac7-759e96e7f2f2.gif",
@@ -26880,9 +26878,8 @@
                 "max_value": 315,
                 "value": 165
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Tentacool has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/01ae543f-be5d-4edd-b4e2-5b43c97e2bf3.gif",
@@ -26913,9 +26910,8 @@
                 "max_value": 370,
                 "value": 277
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Abra has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/6e2d999f-be5c-4a7e-aec3-0bacaf5ce385.gif",
@@ -26946,9 +26942,8 @@
                 "max_value": 390,
                 "value": 320
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Koffing has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9b780547-b6b3-487c-99dd-0bd6e88e5296.gif",
@@ -26979,9 +26974,8 @@
                 "max_value": 335,
                 "value": 198
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Kadabra has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/4964c5cf-06f0-42fd-8f36-4d93c28ab1b5.gif",
@@ -27012,9 +27006,8 @@
                 "max_value": 405,
                 "value": 315
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Grimer has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/6576c407-0f95-4df9-9267-d3f16dbd74cb.gif",
@@ -27045,9 +27038,8 @@
                 "max_value": 320,
                 "value": 304
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/a70c8957-a5bf-436d-9246-36987d2dd7dc.gif",
@@ -27078,9 +27070,8 @@
                 "max_value": 315,
                 "value": 219
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Rocket has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/2ae78dd5-7770-4009-99cc-a7b3778c7e2c.png",
@@ -27111,9 +27102,8 @@
                 "max_value": 350,
                 "value": 214
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Psyduck has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/4c12daa0-3f29-494f-97b6-98597b67d490.png",
@@ -27144,9 +27134,8 @@
                 "max_value": 355,
                 "value": 208
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Electrode has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/4c65c6fa-fa33-4957-901a-8d3cd24854e5.png",
@@ -27177,9 +27166,8 @@
                 "max_value": 440,
                 "value": 382
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Bulbasaur has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/5a028749-dd69-4b4b-b478-be07226cfd08.png",
@@ -27210,9 +27198,8 @@
                 "max_value": 345,
                 "value": 268
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Squirtle has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/5ad4d390-1426-486d-a482-8eae4ecd08d0.png",
@@ -27243,9 +27230,8 @@
                 "max_value": 343,
                 "value": 243
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Raichu has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/5ba1e289-69fa-4b9f-9a53-18fd66fd4724.png",
@@ -27276,9 +27262,8 @@
                 "max_value": 400,
                 "value": 338
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Slowbro has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/5c94fa48-057e-43a8-aa26-868c0810b7dd.png",
@@ -27309,9 +27294,8 @@
                 "max_value": 330,
                 "value": 289
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Bulbasaur has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/5cba97e9-3655-405d-8004-71fb0579700f.png",
@@ -27342,9 +27326,8 @@
                 "max_value": 345,
                 "value": 224
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Magnemite has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/5d0f90a3-4721-43fd-aee9-8a770d347b3c.png",
@@ -27375,9 +27358,8 @@
                 "max_value": 345,
                 "value": 205
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Dratini has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/6acaa477-e716-466b-9094-42638e38b15f.png",
@@ -27408,9 +27390,8 @@
                 "max_value": 350,
                 "value": 268
             }
-            
         ]
-    } ,
+    },
     {
         "description": "A wild Ash has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/6bcb4ae6-9aa5-434a-8e5e-c48327820df7.png",
@@ -27441,9 +27422,8 @@
                 "max_value": 325,
                 "value": 177
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Exeggcute has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/7e5a20e0-6d73-4bc3-8624-d3718a91eabf.png",
@@ -27474,9 +27454,8 @@
                 "max_value": 340,
                 "value": 249
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Charmander has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/8e96f641-3073-4ccc-b67b-f3f992a9e649.png",
@@ -27507,9 +27486,8 @@
                 "max_value": 365,
                 "value": 365
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Weepingbell has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/8f8f8bf8-1f96-497f-9470-b584568e4ccc.png",
@@ -27540,9 +27518,8 @@
                 "max_value": 355,
                 "value": 282
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Ash has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9a00ac6f-c9d4-48f8-97a6-35c0bdcc277a.png",
@@ -27573,9 +27550,8 @@
                 "max_value": 325,
                 "value": 306
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Rocket has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9a8cadfc-37a2-4a3f-a1d4-2adc2d130c23.png",
@@ -27606,9 +27582,8 @@
                 "max_value": 350,
                 "value": 228
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Kadabra has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9bcacd50-4ab0-45ce-bbbb-e318454b9f5c.png",
@@ -27639,9 +27614,8 @@
                 "max_value": 405,
                 "value": 365
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Scyther has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9bf78173-223c-47a3-955e-77766123fb19.png",
@@ -27672,9 +27646,8 @@
                 "max_value": 405,
                 "value": 318
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Magnemite has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9cc8abe5-3064-405f-b6e6-7c44240f9fea.png",
@@ -27705,9 +27678,8 @@
                 "max_value": 345,
                 "value": 300
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Magikarp has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9cdf748c-8ea3-4aa4-bc3e-9194749308a4.png",
@@ -27738,9 +27710,8 @@
                 "max_value": 380,
                 "value": 361
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Grimer has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9d9fdd86-8682-4275-b471-7d9131ed5faa.png",
@@ -27771,9 +27742,8 @@
                 "max_value": 320,
                 "value": 263
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Bulbasaur has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/9e0f7f86-9c11-4e4e-abaa-41d6fabbefc5.png",
@@ -27804,9 +27774,8 @@
                 "max_value": 345,
                 "value": 277
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Muk has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/10a930ea-6552-49b6-b8cb-9efa43f18a82.png",
@@ -27837,9 +27806,8 @@
                 "max_value": 350,
                 "value": 256
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Cubone has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/14b7a96f-3483-4c03-b438-50f77523bf63.png",
@@ -27870,9 +27838,8 @@
                 "max_value": 330,
                 "value": 225
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Abra has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/015c31f5-abae-41c9-8d81-3db409964fb7.png",
@@ -27903,9 +27870,8 @@
                 "max_value": 390,
                 "value": 326
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Ash has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/15f2bc12-8ffb-4d3a-a5c7-4691e6d083de.png",
@@ -27936,9 +27902,8 @@
                 "max_value": 325,
                 "value": 175
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Weepingbell has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/15fc9fa8-0485-4436-a489-78dd441cee83.png",
@@ -27969,9 +27934,8 @@
                 "max_value": 355,
                 "value": 223
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Ash has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/17b460d0-28b7-48e8-a38f-3bbdbe9dd683.png",
@@ -28002,9 +27966,8 @@
                 "max_value": 325,
                 "value": 226
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Rocket has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/21bd7d95-f0f5-41a8-b444-069639e940c2.png",
@@ -28035,9 +27998,8 @@
                 "max_value": 350,
                 "value": 295
             }
-            
         ]
-    }  ,
+    },
     {
         "description": "A wild Dugtrio has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/21fe483a-c1a2-405f-b0d1-7a428e14c77b.png",
@@ -28068,9 +28030,8 @@
                 "max_value": 420,
                 "value": 410
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Magikarp has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/23bf7f88-f8cd-4790-8d97-5779cdcb8db8.png",
@@ -28101,9 +28062,8 @@
                 "max_value": 380,
                 "value": 377
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Magnemite has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/26af2434-942a-4412-a321-ea2175f103ce.png",
@@ -28134,9 +28094,8 @@
                 "max_value": 345,
                 "value": 285
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Diglett has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/62e9a2a1-4fea-4d2b-9a5b-24028078e603.png",
@@ -28167,9 +28126,8 @@
                 "max_value": 395,
                 "value": 306
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Rocket has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/85e4e55c-9e7f-42de-bce7-8f41d7a1bc34.png",
@@ -28200,9 +28158,8 @@
                 "max_value": 350,
                 "value": 313
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Raichu has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/99f82bd5-5eb4-4cc7-a02d-b5529a018f36.png",
@@ -28233,9 +28190,8 @@
                 "max_value": 400,
                 "value": 319
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/87d71868-d9c3-4e76-8174-5c1b0131cba1.png",
@@ -28266,9 +28222,8 @@
                 "max_value": 315,
                 "value": 314
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/187c1c58-8f8f-4701-9ceb-f856b507b000.png",
@@ -28299,9 +28254,8 @@
                 "max_value": 315,
                 "value": 226
             }
-            
         ]
-    }   ,
+    },
     {
         "description": "A wild Psyduck has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/356a8013-b464-4a44-a340-d3c79d332d42.png",
@@ -28332,9 +28286,8 @@
                 "max_value": 355,
                 "value": 248
             }
-            
         ]
-    } ,
+    },
     {
         "description": "A wild Geodude has attached itself onto a PokePunkz head",
         "external_url": "https://pokepunkz.io/NFTimages/429f96a5-487b-429e-854d-2ad20ecbc600.png",
@@ -28364,7 +28317,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 295
-            }            
+            }
         ]
     },
     {
@@ -28396,7 +28349,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 293
-            }            
+            }
         ]
     },
     {
@@ -28428,7 +28381,7 @@
                 "trait_type": "SPE",
                 "max_value": 360,
                 "value": 264
-            }            
+            }
         ]
     },
     {
@@ -28460,7 +28413,7 @@
                 "trait_type": "SPE",
                 "max_value": 415,
                 "value": 356
-            }            
+            }
         ]
     },
     {
@@ -28492,7 +28445,7 @@
                 "trait_type": "SPE",
                 "max_value": 405,
                 "value": 263
-            }            
+            }
         ]
     },
     {
@@ -28524,7 +28477,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 318
-            }            
+            }
         ]
     },
     {
@@ -28556,7 +28509,7 @@
                 "trait_type": "SPE",
                 "max_value": 342,
                 "value": 270
-            }            
+            }
         ]
     },
     {
@@ -28588,7 +28541,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 246
-            }            
+            }
         ]
     },
     {
@@ -28620,7 +28573,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 265
-            }            
+            }
         ]
     },
     {
@@ -28652,7 +28605,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 294
-            }            
+            }
         ]
     },
     {
@@ -28684,7 +28637,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 362
-            }            
+            }
         ]
     },
     {
@@ -28716,7 +28669,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 229
-            }            
+            }
         ]
     },
     {
@@ -28748,7 +28701,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 261
-            }            
+            }
         ]
     },
     {
@@ -28780,7 +28733,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 317
-            }            
+            }
         ]
     },
     {
@@ -28812,7 +28765,7 @@
                 "trait_type": "SPE",
                 "max_value": 342,
                 "value": 300
-            }            
+            }
         ]
     },
     {
@@ -28844,7 +28797,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 290
-            }            
+            }
         ]
     },
     {
@@ -28876,7 +28829,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 330
-            }            
+            }
         ]
     },
     {
@@ -28908,7 +28861,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 261
-            }            
+            }
         ]
     },
     {
@@ -28940,7 +28893,7 @@
                 "trait_type": "SPE",
                 "max_value": 358,
                 "value": 239
-            }            
+            }
         ]
     },
     {
@@ -28972,7 +28925,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 372
-            }            
+            }
         ]
     },
     {
@@ -29004,7 +28957,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 228
-            }            
+            }
         ]
     },
     {
@@ -29036,7 +28989,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 276
-            }            
+            }
         ]
     },
     {
@@ -29068,7 +29021,7 @@
                 "trait_type": "SPE",
                 "max_value": 330,
                 "value": 255
-            }            
+            }
         ]
     },
     {
@@ -29100,7 +29053,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 176
-            }            
+            }
         ]
     },
     {
@@ -29132,7 +29085,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 295
-            }            
+            }
         ]
     },
     {
@@ -29164,7 +29117,7 @@
                 "trait_type": "SPE",
                 "max_value": 343,
                 "value": 340
-            }            
+            }
         ]
     },
     {
@@ -29196,7 +29149,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 268
-            }            
+            }
         ]
     },
     {
@@ -29228,7 +29181,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 324
-            }            
+            }
         ]
     },
     {
@@ -29260,7 +29213,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 237
-            }            
+            }
         ]
     },
     {
@@ -29292,7 +29245,7 @@
                 "trait_type": "SPE",
                 "max_value": 330,
                 "value": 239
-            }            
+            }
         ]
     },
     {
@@ -29324,7 +29277,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 339
-            }            
+            }
         ]
     },
     {
@@ -29356,7 +29309,7 @@
                 "trait_type": "SPE",
                 "max_value": 420,
                 "value": 366
-            }            
+            }
         ]
     },
     {
@@ -29388,7 +29341,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 355
-            }            
+            }
         ]
     },
     {
@@ -29420,7 +29373,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 320
-            }            
+            }
         ]
     },
     {
@@ -29452,7 +29405,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 279
-            }            
+            }
         ]
     },
     {
@@ -29484,7 +29437,7 @@
                 "trait_type": "SPE",
                 "max_value": 342,
                 "value": 295
-            }            
+            }
         ]
     },
     {
@@ -29516,7 +29469,7 @@
                 "trait_type": "SPE",
                 "max_value": 440,
                 "value": 391
-            }            
+            }
         ]
     },
     {
@@ -29548,7 +29501,7 @@
                 "trait_type": "SPE",
                 "max_value": 420,
                 "value": 398
-            }            
+            }
         ]
     },
     {
@@ -29580,7 +29533,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 293
-            }            
+            }
         ]
     },
     {
@@ -29612,7 +29565,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 288
-            }            
+            }
         ]
     },
     {
@@ -29644,7 +29597,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 263
-            }            
+            }
         ]
     },
     {
@@ -29676,7 +29629,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 298
-            }            
+            }
         ]
     },
     {
@@ -29708,7 +29661,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 292
-            }            
+            }
         ]
     },
     {
@@ -29740,7 +29693,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 333
-            }            
+            }
         ]
     },
     {
@@ -29772,7 +29725,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 247
-            }            
+            }
         ]
     },
     {
@@ -29804,7 +29757,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 263
-            }            
+            }
         ]
     },
     {
@@ -29836,7 +29789,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 312
-            }            
+            }
         ]
     },
     {
@@ -29868,7 +29821,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 326
-            }            
+            }
         ]
     },
     {
@@ -29900,7 +29853,7 @@
                 "trait_type": "SPE",
                 "max_value": 393,
                 "value": 291
-            }            
+            }
         ]
     },
     {
@@ -29932,7 +29885,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 360
-            }            
+            }
         ]
     },
     {
@@ -29964,7 +29917,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 352
-            }            
+            }
         ]
     },
     {
@@ -29996,7 +29949,7 @@
                 "trait_type": "SPE",
                 "max_value": 330,
                 "value": 231
-            }            
+            }
         ]
     },
     {
@@ -30028,7 +29981,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 322
-            }            
+            }
         ]
     },
     {
@@ -30060,7 +30013,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 296
-            }            
+            }
         ]
     },
     {
@@ -30092,7 +30045,7 @@
                 "trait_type": "SPE",
                 "max_value": 360,
                 "value": 291
-            }            
+            }
         ]
     },
     {
@@ -30124,7 +30077,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 248
-            }            
+            }
         ]
     },
     {
@@ -30156,7 +30109,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 227
-            }            
+            }
         ]
     },
     {
@@ -30188,7 +30141,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 310
-            }            
+            }
         ]
     },
     {
@@ -30220,7 +30173,7 @@
                 "trait_type": "SPE",
                 "max_value": 440,
                 "value": 359
-            }            
+            }
         ]
     },
     {
@@ -30252,7 +30205,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 249
-            }            
+            }
         ]
     },
     {
@@ -30284,7 +30237,7 @@
                 "trait_type": "SPE",
                 "max_value": 342,
                 "value": 272
-            }            
+            }
         ]
     },
     {
@@ -30316,7 +30269,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 299
-            }            
+            }
         ]
     },
     {
@@ -30348,7 +30301,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 225
-            }            
+            }
         ]
     },
     {
@@ -30380,7 +30333,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 333
-            }            
+            }
         ]
     },
     {
@@ -30412,7 +30365,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 265
-            }            
+            }
         ]
     },
     {
@@ -30444,7 +30397,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 225
-            }            
+            }
         ]
     },
     {
@@ -30476,7 +30429,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 250
-            }            
+            }
         ]
     },
     {
@@ -30508,7 +30461,7 @@
                 "trait_type": "SPE",
                 "max_value": 372,
                 "value": 330
-            }            
+            }
         ]
     },
     {
@@ -30540,7 +30493,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 298
-            }            
+            }
         ]
     },
     {
@@ -30572,7 +30525,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 301
-            }            
+            }
         ]
     },
     {
@@ -30604,7 +30557,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 324
-            }            
+            }
         ]
     },
     {
@@ -30636,7 +30589,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 262
-            }            
+            }
         ]
     },
     {
@@ -30668,7 +30621,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 283
-            }            
+            }
         ]
     },
     {
@@ -30700,7 +30653,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 227
-            }            
+            }
         ]
     },
     {
@@ -30732,7 +30685,7 @@
                 "trait_type": "SPE",
                 "max_value": 330,
                 "value": 303
-            }            
+            }
         ]
     },
     {
@@ -30764,7 +30717,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 218
-            }            
+            }
         ]
     },
     {
@@ -30796,7 +30749,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 311
-            }            
+            }
         ]
     },
     {
@@ -30828,7 +30781,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 349
-            }            
+            }
         ]
     },
     {
@@ -30860,7 +30813,7 @@
                 "trait_type": "SPE",
                 "max_value": 360,
                 "value": 265
-            }            
+            }
         ]
     },
     {
@@ -30892,7 +30845,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 260
-            }            
+            }
         ]
     },
     {
@@ -30924,7 +30877,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 231
-            }            
+            }
         ]
     },
     {
@@ -30956,7 +30909,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 300
-            }            
+            }
         ]
     },
     {
@@ -30988,7 +30941,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 213
-            }            
+            }
         ]
     },
     {
@@ -31020,7 +30973,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 299
-            }            
+            }
         ]
     },
     {
@@ -31052,7 +31005,7 @@
                 "trait_type": "SPE",
                 "max_value": 343,
                 "value": 193
-            }            
+            }
         ]
     },
     {
@@ -31084,7 +31037,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 378
-            }            
+            }
         ]
     },
     {
@@ -31116,7 +31069,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 336
-            }            
+            }
         ]
     },
     {
@@ -31148,7 +31101,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 278
-            }            
+            }
         ]
     },
     {
@@ -31180,7 +31133,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 199
-            }            
+            }
         ]
     },
     {
@@ -31212,7 +31165,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 320
-            }            
+            }
         ]
     },
     {
@@ -31244,7 +31197,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 296
-            }            
+            }
         ]
     },
     {
@@ -31276,7 +31229,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 258
-            }            
+            }
         ]
     },
     {
@@ -31308,7 +31261,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 384
-            }            
+            }
         ]
     },
     {
@@ -31340,7 +31293,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 288
-            }            
+            }
         ]
     },
     {
@@ -31372,7 +31325,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 324
-            }            
+            }
         ]
     },
     {
@@ -31404,7 +31357,7 @@
                 "trait_type": "SPE",
                 "max_value": 343,
                 "value": 187
-            }            
+            }
         ]
     },
     {
@@ -31436,7 +31389,7 @@
                 "trait_type": "SPE",
                 "max_value": 360,
                 "value": 337
-            }            
+            }
         ]
     },
     {
@@ -31468,7 +31421,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 269
-            }            
+            }
         ]
     },
     {
@@ -31500,7 +31453,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 357
-            }            
+            }
         ]
     },
     {
@@ -31532,7 +31485,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 286
-            }            
+            }
         ]
     },
     {
@@ -31564,7 +31517,7 @@
                 "trait_type": "SPE",
                 "max_value": 343,
                 "value": 285
-            }            
+            }
         ]
     },
     {
@@ -31596,7 +31549,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 299
-            }            
+            }
         ]
     },
     {
@@ -31628,7 +31581,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 316
-            }            
+            }
         ]
     },
     {
@@ -31660,7 +31613,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 229
-            }            
+            }
         ]
     },
     {
@@ -31692,7 +31645,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 268
-            }            
+            }
         ]
     },
     {
@@ -31724,7 +31677,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 340
-            }            
+            }
         ]
     },
     {
@@ -31756,7 +31709,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 291
-            }            
+            }
         ]
     },
     {
@@ -31788,7 +31741,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 325
-            }            
+            }
         ]
     },
     {
@@ -31820,7 +31773,7 @@
                 "trait_type": "SPE",
                 "max_value": 372,
                 "value": 370
-            }            
+            }
         ]
     },
     {
@@ -31852,7 +31805,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 254
-            }            
+            }
         ]
     },
     {
@@ -31884,7 +31837,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 327
-            }            
+            }
         ]
     },
     {
@@ -31916,7 +31869,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 377
-            }            
+            }
         ]
     },
     {
@@ -31948,7 +31901,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 320
-            }            
+            }
         ]
     },
     {
@@ -31980,7 +31933,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 253
-            }            
+            }
         ]
     },
     {
@@ -32012,7 +31965,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 211
-            }            
+            }
         ]
     },
     {
@@ -32044,7 +31997,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 346
-            }            
+            }
         ]
     },
     {
@@ -32076,7 +32029,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 319
-            }            
+            }
         ]
     },
     {
@@ -32108,7 +32061,7 @@
                 "trait_type": "SPE",
                 "max_value": 342,
                 "value": 242
-            }            
+            }
         ]
     },
     {
@@ -32140,7 +32093,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 276
-            }            
+            }
         ]
     },
     {
@@ -32172,7 +32125,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 354
-            }            
+            }
         ]
     },
     {
@@ -32204,7 +32157,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 224
-            }            
+            }
         ]
     },
     {
@@ -32236,7 +32189,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 279
-            }            
+            }
         ]
     },
     {
@@ -32268,7 +32221,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 341
-            }            
+            }
         ]
     },
     {
@@ -32300,7 +32253,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 299
-            }            
+            }
         ]
     },
     {
@@ -32332,7 +32285,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 310
-            }            
+            }
         ]
     },
     {
@@ -32364,7 +32317,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 377
-            }            
+            }
         ]
     },
     {
@@ -32396,7 +32349,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 213
-            }            
+            }
         ]
     },
     {
@@ -32428,7 +32381,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 340
-            }            
+            }
         ]
     },
     {
@@ -32460,7 +32413,7 @@
                 "trait_type": "SPE",
                 "max_value": 440,
                 "value": 297
-            }            
+            }
         ]
     },
     {
@@ -32492,7 +32445,7 @@
                 "trait_type": "SPE",
                 "max_value": 343,
                 "value": 270
-            }            
+            }
         ]
     },
     {
@@ -32524,7 +32477,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 313
-            }            
+            }
         ]
     },
     {
@@ -32556,7 +32509,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 279
-            }            
+            }
         ]
     },
     {
@@ -32588,7 +32541,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 301
-            }            
+            }
         ]
     },
     {
@@ -32620,7 +32573,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 364
-            }            
+            }
         ]
     },
     {
@@ -32652,7 +32605,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 255
-            }            
+            }
         ]
     },
     {
@@ -32684,7 +32637,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 292
-            }            
+            }
         ]
     },
     {
@@ -32716,7 +32669,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 217
-            }            
+            }
         ]
     },
     {
@@ -32748,7 +32701,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 198
-            }            
+            }
         ]
     },
     {
@@ -32780,7 +32733,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 193
-            }            
+            }
         ]
     },
     {
@@ -32812,7 +32765,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 271
-            }            
+            }
         ]
     },
     {
@@ -32844,7 +32797,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 263
-            }            
+            }
         ]
     },
     {
@@ -32876,7 +32829,7 @@
                 "trait_type": "SPE",
                 "max_value": 358,
                 "value": 260
-            }            
+            }
         ]
     },
     {
@@ -32908,7 +32861,7 @@
                 "trait_type": "SPE",
                 "max_value": 330,
                 "value": 213
-            }            
+            }
         ]
     },
     {
@@ -32940,7 +32893,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 235
-            }            
+            }
         ]
     },
     {
@@ -32972,7 +32925,7 @@
                 "trait_type": "SPE",
                 "max_value": 372,
                 "value": 336
-            }            
+            }
         ]
     },
     {
@@ -33004,7 +32957,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 389
-            }            
+            }
         ]
     },
     {
@@ -33036,7 +32989,7 @@
                 "trait_type": "SPE",
                 "max_value": 420,
                 "value": 377
-            }            
+            }
         ]
     },
     {
@@ -33068,7 +33021,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 264
-            }            
+            }
         ]
     },
     {
@@ -33100,7 +33053,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 311
-            }            
+            }
         ]
     },
     {
@@ -33132,7 +33085,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 285
-            }            
+            }
         ]
     },
     {
@@ -33164,7 +33117,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 235
-            }            
+            }
         ]
     },
     {
@@ -33196,7 +33149,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 266
-            }            
+            }
         ]
     },
     {
@@ -33228,7 +33181,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 390
-            }            
+            }
         ]
     },
     {
@@ -33260,7 +33213,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 336
-            }            
+            }
         ]
     },
     {
@@ -33292,7 +33245,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 195
-            }            
+            }
         ]
     },
     {
@@ -33324,7 +33277,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 251
-            }            
+            }
         ]
     },
     {
@@ -33356,7 +33309,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 266
-            }            
+            }
         ]
     },
     {
@@ -33388,7 +33341,7 @@
                 "trait_type": "SPE",
                 "max_value": 420,
                 "value": 395
-            }            
+            }
         ]
     },
     {
@@ -33420,7 +33373,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 385
-            }            
+            }
         ]
     },
     {
@@ -33452,7 +33405,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 355
-            }            
+            }
         ]
     },
     {
@@ -33484,7 +33437,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 315
-            }            
+            }
         ]
     },
     {
@@ -33516,7 +33469,7 @@
                 "trait_type": "SPE",
                 "max_value": 440,
                 "value": 363
-            }            
+            }
         ]
     },
     {
@@ -33548,7 +33501,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 311
-            }            
+            }
         ]
     },
     {
@@ -33580,7 +33533,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 319
-            }            
+            }
         ]
     },
     {
@@ -33612,7 +33565,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 306
-            }            
+            }
         ]
     },
     {
@@ -33644,7 +33597,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 267
-            }            
+            }
         ]
     },
     {
@@ -33676,7 +33629,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 321
-            }            
+            }
         ]
     },
     {
@@ -33708,7 +33661,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 267
-            }            
+            }
         ]
     },
     {
@@ -33740,7 +33693,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 326
-            }            
+            }
         ]
     },
     {
@@ -33772,7 +33725,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 395
-            }            
+            }
         ]
     },
     {
@@ -33804,7 +33757,7 @@
                 "trait_type": "SPE",
                 "max_value": 405,
                 "value": 363
-            }            
+            }
         ]
     },
     {
@@ -33836,7 +33789,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 195
-            }            
+            }
         ]
     },
     {
@@ -33868,7 +33821,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 272
-            }            
+            }
         ]
     },
     {
@@ -33900,7 +33853,7 @@
                 "trait_type": "SPE",
                 "max_value": 358,
                 "value": 343
-            }            
+            }
         ]
     },
     {
@@ -33932,7 +33885,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 345
-            }            
+            }
         ]
     },
     {
@@ -33964,7 +33917,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 338
-            }            
+            }
         ]
     },
     {
@@ -33996,7 +33949,7 @@
                 "trait_type": "SPE",
                 "max_value": 405,
                 "value": 306
-            }            
+            }
         ]
     },
     {
@@ -34028,7 +33981,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 269
-            }            
+            }
         ]
     },
     {
@@ -34060,7 +34013,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 267
-            }            
+            }
         ]
     },
     {
@@ -34092,7 +34045,7 @@
                 "trait_type": "SPE",
                 "max_value": 343,
                 "value": 231
-            }            
+            }
         ]
     },
     {
@@ -34124,7 +34077,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 301
-            }            
+            }
         ]
     },
     {
@@ -34156,7 +34109,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 295
-            }            
+            }
         ]
     },
     {
@@ -34188,7 +34141,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 179
-            }            
+            }
         ]
     },
     {
@@ -34220,7 +34173,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 288
-            }            
+            }
         ]
     },
     {
@@ -34252,7 +34205,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 305
-            }            
+            }
         ]
     },
     {
@@ -34284,7 +34237,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 314
-            }            
+            }
         ]
     },
     {
@@ -34316,7 +34269,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 271
-            }            
+            }
         ]
     },
     {
@@ -34348,7 +34301,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 246
-            }            
+            }
         ]
     },
     {
@@ -34380,7 +34333,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 204
-            }            
+            }
         ]
     },
     {
@@ -34412,7 +34365,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 265
-            }            
+            }
         ]
     },
     {
@@ -34444,7 +34397,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 207
-            }            
+            }
         ]
     },
     {
@@ -34476,7 +34429,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 230
-            }            
+            }
         ]
     },
     {
@@ -34508,7 +34461,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 334
-            }            
+            }
         ]
     },
     {
@@ -34540,7 +34493,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 250
-            }            
+            }
         ]
     },
     {
@@ -34572,7 +34525,7 @@
                 "trait_type": "SPE",
                 "max_value": 358,
                 "value": 261
-            }            
+            }
         ]
     },
     {
@@ -34604,7 +34557,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 233
-            }            
+            }
         ]
     },
     {
@@ -34636,7 +34589,7 @@
                 "trait_type": "SPE",
                 "max_value": 410,
                 "value": 392
-            }            
+            }
         ]
     },
     {
@@ -34668,7 +34621,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 328
-            }            
+            }
         ]
     },
     {
@@ -34700,7 +34653,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 333
-            }            
+            }
         ]
     },
     {
@@ -34732,7 +34685,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 307
-            }            
+            }
         ]
     },
     {
@@ -34764,7 +34717,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 227
-            }            
+            }
         ]
     },
     {
@@ -34796,7 +34749,7 @@
                 "trait_type": "SPE",
                 "max_value": 372,
                 "value": 248
-            }            
+            }
         ]
     },
     {
@@ -34828,7 +34781,7 @@
                 "trait_type": "SPE",
                 "max_value": 378,
                 "value": 374
-            }            
+            }
         ]
     },
     {
@@ -34860,7 +34813,7 @@
                 "trait_type": "SPE",
                 "max_value": 375,
                 "value": 344
-            }            
+            }
         ]
     },
     {
@@ -34892,7 +34845,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 259
-            }            
+            }
         ]
     },
     {
@@ -34924,7 +34877,7 @@
                 "trait_type": "SPE",
                 "max_value": 343,
                 "value": 284
-            }            
+            }
         ]
     },
     {
@@ -34956,7 +34909,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 261
-            }            
+            }
         ]
     },
     {
@@ -34988,7 +34941,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 260
-            }            
+            }
         ]
     },
     {
@@ -35020,7 +34973,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 278
-            }            
+            }
         ]
     },
     {
@@ -35052,7 +35005,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 180
-            }            
+            }
         ]
     },
     {
@@ -35084,7 +35037,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 318
-            }            
+            }
         ]
     },
     {
@@ -35116,7 +35069,7 @@
                 "trait_type": "SPE",
                 "max_value": 360,
                 "value": 355
-            }            
+            }
         ]
     },
     {
@@ -35148,7 +35101,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 281
-            }            
+            }
         ]
     },
     {
@@ -35180,7 +35133,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 360
-            }            
+            }
         ]
     },
     {
@@ -35212,7 +35165,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 236
-            }            
+            }
         ]
     },
     {
@@ -35244,7 +35197,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 276
-            }            
+            }
         ]
     },
     {
@@ -35276,7 +35229,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 220
-            }            
+            }
         ]
     },
     {
@@ -35308,7 +35261,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 291
-            }            
+            }
         ]
     },
     {
@@ -35340,7 +35293,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 319
-            }            
+            }
         ]
     },
     {
@@ -35372,7 +35325,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 283
-            }            
+            }
         ]
     },
     {
@@ -35404,7 +35357,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 286
-            }            
+            }
         ]
     },
     {
@@ -35436,7 +35389,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 263
-            }            
+            }
         ]
     },
     {
@@ -35468,7 +35421,7 @@
                 "trait_type": "SPE",
                 "max_value": 330,
                 "value": 233
-            }            
+            }
         ]
     },
     {
@@ -35500,7 +35453,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 310
-            }            
+            }
         ]
     },
     {
@@ -35532,7 +35485,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 277
-            }            
+            }
         ]
     },
     {
@@ -35564,7 +35517,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 213
-            }            
+            }
         ]
     },
     {
@@ -35596,7 +35549,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 327
-            }            
+            }
         ]
     },
     {
@@ -35628,7 +35581,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 230
-            }            
+            }
         ]
     },
     {
@@ -35660,7 +35613,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 245
-            }            
+            }
         ]
     },
     {
@@ -35692,7 +35645,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 380
-            }            
+            }
         ]
     },
     {
@@ -35724,7 +35677,7 @@
                 "trait_type": "SPE",
                 "max_value": 342,
                 "value": 300
-            }            
+            }
         ]
     },
     {
@@ -35756,7 +35709,7 @@
                 "trait_type": "SPE",
                 "max_value": 395,
                 "value": 315
-            }            
+            }
         ]
     },
     {
@@ -35788,7 +35741,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 270
-            }            
+            }
         ]
     },
     {
@@ -35820,7 +35773,7 @@
                 "trait_type": "SPE",
                 "max_value": 405,
                 "value": 342
-            }            
+            }
         ]
     },
     {
@@ -35852,7 +35805,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 248
-            }            
+            }
         ]
     },
     {
@@ -35884,7 +35837,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 381
-            }            
+            }
         ]
     },
     {
@@ -35916,7 +35869,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 307
-            }            
+            }
         ]
     },
     {
@@ -35948,7 +35901,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 293
-            }            
+            }
         ]
     },
     {
@@ -35980,7 +35933,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 292
-            }            
+            }
         ]
     },
     {
@@ -36012,7 +35965,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 242
-            }            
+            }
         ]
     },
     {
@@ -36044,7 +35997,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 341
-            }            
+            }
         ]
     },
     {
@@ -36076,7 +36029,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 247
-            }            
+            }
         ]
     },
     {
@@ -36108,7 +36061,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 220
-            }            
+            }
         ]
     },
     {
@@ -36134,13 +36087,13 @@
             {
                 "trait_type": "DEF",
                 "max_value": 375,
-                "value":344
+                "value": 344
             },
             {
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 365
-            }            
+            }
         ]
     },
     {
@@ -36172,7 +36125,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 220
-            }            
+            }
         ]
     },
     {
@@ -36204,7 +36157,7 @@
                 "trait_type": "SPE",
                 "max_value": 342,
                 "value": 238
-            }            
+            }
         ]
     },
     {
@@ -36236,7 +36189,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 382
-            }            
+            }
         ]
     },
     {
@@ -36268,7 +36221,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 227
-            }            
+            }
         ]
     },
     {
@@ -36300,7 +36253,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 265
-            }            
+            }
         ]
     },
     {
@@ -36332,7 +36285,7 @@
                 "trait_type": "SPE",
                 "max_value": 372,
                 "value": 333
-            }            
+            }
         ]
     },
     {
@@ -36364,7 +36317,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 272
-            }            
+            }
         ]
     },
     {
@@ -36396,7 +36349,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 360
-            }            
+            }
         ]
     },
     {
@@ -36428,7 +36381,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 172
-            }            
+            }
         ]
     },
     {
@@ -36460,7 +36413,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 245
-            }            
+            }
         ]
     },
     {
@@ -36492,7 +36445,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 305
-            }            
+            }
         ]
     },
     {
@@ -36524,7 +36477,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 339
-            }            
+            }
         ]
     },
     {
@@ -36556,7 +36509,7 @@
                 "trait_type": "SPE",
                 "max_value": 440,
                 "value": 299
-            }            
+            }
         ]
     },
     {
@@ -36588,7 +36541,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 223
-            }            
+            }
         ]
     },
     {
@@ -36620,7 +36573,7 @@
                 "trait_type": "SPE",
                 "max_value": 365,
                 "value": 357
-            }            
+            }
         ]
     },
     {
@@ -36652,7 +36605,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 262
-            }            
+            }
         ]
     },
     {
@@ -36684,7 +36637,7 @@
                 "trait_type": "SPE",
                 "max_value": 320,
                 "value": 318
-            }            
+            }
         ]
     },
     {
@@ -36716,7 +36669,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 228
-            }            
+            }
         ]
     },
     {
@@ -36748,7 +36701,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 214
-            }            
+            }
         ]
     },
     {
@@ -36780,7 +36733,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 305
-            }            
+            }
         ]
     },
     {
@@ -36812,7 +36765,7 @@
                 "trait_type": "SPE",
                 "max_value": 360,
                 "value": 229
-            }            
+            }
         ]
     },
     {
@@ -36844,7 +36797,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 211
-            }            
+            }
         ]
     },
     {
@@ -36876,7 +36829,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 236
-            }            
+            }
         ]
     },
     {
@@ -36908,7 +36861,7 @@
                 "trait_type": "SPE",
                 "max_value": 420,
                 "value": 342
-            }            
+            }
         ]
     },
     {
@@ -36940,7 +36893,7 @@
                 "trait_type": "SPE",
                 "max_value": 100,
                 "value": 364
-            }            
+            }
         ]
     },
     {
@@ -36972,7 +36925,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 274
-            }            
+            }
         ]
     },
     {
@@ -37004,7 +36957,7 @@
                 "trait_type": "SPE",
                 "max_value": 348,
                 "value": 244
-            }            
+            }
         ]
     },
     {
@@ -37036,7 +36989,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 179
-            }            
+            }
         ]
     },
     {
@@ -37068,7 +37021,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 320
-            }            
+            }
         ]
     },
     {
@@ -37100,7 +37053,7 @@
                 "trait_type": "SPE",
                 "max_value": 350,
                 "value": 280
-            }            
+            }
         ]
     },
     {
@@ -37132,7 +37085,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 374
-            }            
+            }
         ]
     },
     {
@@ -37164,7 +37117,7 @@
                 "trait_type": "SPE",
                 "max_value": 345,
                 "value": 287
-            }            
+            }
         ]
     },
     {
@@ -37196,7 +37149,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 349
-            }            
+            }
         ]
     },
     {
@@ -37228,7 +37181,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 362
-            }            
+            }
         ]
     },
     {
@@ -37260,7 +37213,7 @@
                 "trait_type": "SPE",
                 "max_value": 325,
                 "value": 213
-            }            
+            }
         ]
     },
     {
@@ -37292,7 +37245,7 @@
                 "trait_type": "SPE",
                 "max_value": 370,
                 "value": 286
-            }            
+            }
         ]
     },
     {
@@ -37324,7 +37277,7 @@
                 "trait_type": "SPE",
                 "max_value": 335,
                 "value": 314
-            }            
+            }
         ]
     },
     {
@@ -37356,7 +37309,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 271
-            }            
+            }
         ]
     },
     {
@@ -37388,7 +37341,7 @@
                 "trait_type": "SPE",
                 "max_value": 385,
                 "value": 338
-            }            
+            }
         ]
     },
     {
@@ -37420,7 +37373,7 @@
                 "trait_type": "SPE",
                 "max_value": 420,
                 "value": 370
-            }            
+            }
         ]
     },
     {
@@ -37452,7 +37405,7 @@
                 "trait_type": "SPE",
                 "max_value": 315,
                 "value": 310
-            }            
+            }
         ]
     },
     {
@@ -37484,7 +37437,7 @@
                 "trait_type": "SPE",
                 "max_value": 400,
                 "value": 331
-            }            
+            }
         ]
     },
     {
@@ -37516,7 +37469,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 248
-            }            
+            }
         ]
     },
     {
@@ -37548,7 +37501,7 @@
                 "trait_type": "SPE",
                 "max_value": 380,
                 "value": 300
-            }            
+            }
         ]
     },
     {
@@ -37580,7 +37533,7 @@
                 "trait_type": "SPE",
                 "max_value": 390,
                 "value": 290
-            }            
+            }
         ]
     },
     {
@@ -37612,7 +37565,7 @@
                 "trait_type": "SPE",
                 "max_value": 355,
                 "value": 285
-            }            
+            }
         ]
     },
     {
@@ -37644,7 +37597,7 @@
                 "trait_type": "SPE",
                 "max_value": 340,
                 "value": 286
-            }            
+            }
         ]
     },
     {
@@ -37677,7 +37630,6 @@
                 "max_value": 335,
                 "value": 253
             }
-            
         ]
     }
 ]

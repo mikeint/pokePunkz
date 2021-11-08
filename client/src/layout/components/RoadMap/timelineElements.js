@@ -4,7 +4,7 @@ let timelineElements = [{
 		location: "Discord",
 		description: "Join the discord and choose your starter PokePunk !",
 		buttonText: "join DISCORD",
-		url: "https://discord.gg/FJ8wr8vB8z",
+		url: "https://discord.gg/kEy6uB6C3H",
 		date: "",
 		icon: "ball"
 	},
