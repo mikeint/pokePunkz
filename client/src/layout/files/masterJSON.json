@@ -1152,11 +1152,35 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/3.png",
-        "name": "PokePack #33",
+        "description": "A wild Bellsprout has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/6d9816bc-bace-4a66-af1c-0175f42b8395.png",
+        "image": "https://pokepunkz.io/NFTimages/6d9816bc-bace-4a66-af1c-0175f42b8395.png",
+        "name": "PokePunk #33",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "BELLSPROUT"
+            },
+            {
+                "trait_type": "HP",
+                "max_value": 350,
+                "value": 291
+            },
+            {
+                "trait_type": "ATT",
+                "max_value": 375,
+                "value": 243
+            },
+            {
+                "trait_type": "DEF",
+                "max_value": 330,
+                "value": 317
+            },
+            {
+                "trait_type": "SPE",
+                "max_value": 340,
+                "value": 205
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
@@ -1416,11 +1440,35 @@
         ]
     },
     {
-        "description": "A wild Pokemon has attached itself onto a PokePunkz head, maybe its rare !",
-        "external_url": "https://pokepunkz.io/pokepunkz/",
-        "image": "https://pokepunkz.io/packs/2.png",
-        "name": "PokePack #41",
+        "description": "A wild Drowzee has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/3cde8d6a-e54e-4323-b10a-0330c1a82396.png",
+        "image": "https://pokepunkz.io/NFTimages/3cde8d6a-e54e-4323-b10a-0330c1a82396.png",
+        "name": "PokePunk #41",
         "attributes": [
+            {
+                "trait_type": "HAT",
+                "value": "DROWZEE"
+            },
+            {
+                "trait_type": "HP",
+                "max_value": 360,
+                "value": 279
+            },
+            {
+                "trait_type": "ATT",
+                "max_value": 348,
+                "value": 266
+            },
+            {
+                "trait_type": "DEF",
+                "max_value": 390,
+                "value": 275
+            },
+            {
+                "trait_type": "SPE",
+                "max_value": 342,
+                "value": 230
+            },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
