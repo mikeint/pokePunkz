@@ -13,7 +13,7 @@ class Bio extends Component {
                 <div className="header">What are PokePunkz?</div>
 
                 <div className="bioText">
-                    The PokePunkz Club is an art project consisting of <span className="bolded">1151</span> randomly generated nfts.
+                    The PokePunkz Club consists of <span className="bolded">1151</span> PokePunk Coin game-ready NFTs.
                 </div>
                 
                 <div className="bioBoxContainer">
