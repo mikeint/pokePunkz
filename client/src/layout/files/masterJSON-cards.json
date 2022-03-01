@@ -264,7 +264,7 @@
             {
                 "trait_type": "HP",
                 "max_value": 350,
-                "value": 248
+                "value": 298
             },
             {
                 "trait_type": "ATT",
@@ -274,7 +274,7 @@
             {
                 "trait_type": "DEF",
                 "max_value": 375,
-                "value": 256
+                "value": 356
             },
             {
                 "trait_type": "SPE",
@@ -2124,70 +2124,70 @@
         ]
     },
     {
-        "description": "A wild Pikachu has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/a29f265a-d5f5-4fae-9d5c-f7a7ead7f5ee.png",
-        "image": "https://pokepunkz.io/NFTimages/a29f265a-d5f5-4fae-9d5c-f7a7ead7f5ee.png",
+        "description": "A wild Magneton has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/4b04794f-4798-4709-81f6-fd00580a4b95.png",
+        "image": "https://pokepunkz.io/NFTimages/4b04794f-4798-4709-81f6-fd00580a4b95.png",
         "name": "PokePunk #60",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "PIKACHU"
+                "value": "MAGNETON"
             },
             {
                 "trait_type": "HP",
-                "max_value": 335,
-                "value": 246
+                "max_value": 350,
+                "value": 239
             },
             {
                 "trait_type": "ATT",
-                "max_value": 355,
-                "value": 306
+                "max_value": 420,
+                "value": 338
             },
             {
                 "trait_type": "DEF",
-                "max_value": 340,
-                "value": 231
+                "max_value": 375,
+                "value": 241
             },
             {
                 "trait_type": "SPE",
-                "max_value": 390,
-                "value": 259
+                "max_value": 370,
+                "value": 316
             },
             {
                 "trait_type": "EDITION",
                 "value": "1st"
             }
         ]
-    },
+    },   
     {
-        "description": "A wild Slowpoke has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/4b04794f-4798-4709-81f6-fd00580a4b95.png",
-        "image": "https://pokepunkz.io/NFTimages/4b04794f-4798-4709-81f6-fd00580a4b95.png",
+        "description": "A wild Porygon has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/800b8949-66d8-4b6b-b550-7964571e84ed.png",
+        "image": "https://pokepunkz.io/NFTimages/800b8949-66d8-4b6b-b550-7964571e84ed.png",
         "name": "PokePunk #61",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "SLOWPOKE"
+                "value": "PORYGON"
             },
             {
                 "trait_type": "HP",
-                "max_value": 390,
-                "value": 241
+                "max_value": 365,
+                "value": 270
             },
             {
                 "trait_type": "ATT",
-                "max_value": 365,
-                "value": 258
+                "max_value": 385,
+                "value": 366
             },
             {
                 "trait_type": "DEF",
-                "max_value": 365,
-                "value": 231
+                "max_value": 355,
+                "value": 282
             },
             {
                 "trait_type": "SPE",
-                "max_value": 315,
-                "value": 174
+                "max_value": 340,
+                "value": 195
             },
             {
                 "trait_type": "EDITION",
@@ -6444,34 +6444,34 @@
         ]
     },
     {
-        "description": "A wild Porygon has attached itself onto a PokePunkz head",
-        "external_url": "https://pokepunkz.io/NFTimages/800b8949-66d8-4b6b-b550-7964571e84ed.png",
-        "image": "https://pokepunkz.io/NFTimages/800b8949-66d8-4b6b-b550-7964571e84ed.png",
+        "description": "A wild Pikachu has attached itself onto a PokePunkz head",
+        "external_url": "https://pokepunkz.io/NFTimages/a29f265a-d5f5-4fae-9d5c-f7a7ead7f5ee.png",
+        "image": "https://pokepunkz.io/NFTimages/a29f265a-d5f5-4fae-9d5c-f7a7ead7f5ee.png",
         "name": "PokePunk #180",
         "attributes": [
             {
                 "trait_type": "HAT",
-                "value": "PORYGON"
+                "value": "PIKACHU"
             },
             {
                 "trait_type": "HP",
-                "max_value": 365,
-                "value": 270
+                "max_value": 335,
+                "value": 246
             },
             {
                 "trait_type": "ATT",
-                "max_value": 385,
-                "value": 366
+                "max_value": 355,
+                "value": 306
             },
             {
                 "trait_type": "DEF",
-                "max_value": 355,
-                "value": 282
+                "max_value": 340,
+                "value": 231
             },
             {
                 "trait_type": "SPE",
-                "max_value": 340,
-                "value": 195
+                "max_value": 390,
+                "value": 259
             },
             {
                 "trait_type": "EDITION",
